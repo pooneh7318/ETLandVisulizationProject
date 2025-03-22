@@ -1,0 +1,976 @@
+*exploring table descriptors;
+proc sql;
+describe table sq.claimsraw;
+quit; 
+
+proc contents data=sq.fact_table;
+run;
+
+proc print data=sq.boarding2013_2016 (obs=10);
+run;
+proc contents data=sq.boarding2013_2016;
+run;
+
+proc print data=sq.enplanement2017 (obs=10);
+run;
+proc contents data=sq.enplanement2017;
+run;
+
+title "Total Nonmissing Rows";
+proc sql; 
+ select count(*) as totalRows format=comma10., 
+ 	count(Airport_Code) as totalAirportCode format=comma10., 
+ 	count(Claim_Site) as totalClaimSite format=comma10.,
+ 	count(Disposition) as totalDisposition format=comma10., 
+ 	count(Claim_Type) as totalClaimType format=comma10., 
+ 	count(Date_Received) as totalDateReceived format=comma10.,
+ 	count(Incident_Date) as totalIncidentDate format=comma10.,
+ 	count(State) as totalState format=comma10.
+ from sq.claimsraw;
+run;
+
+title "Percentage of Missing Rows";
+proc sql; 
+ select (count(*)-count(Airport_Code))/count(*) as pctAirportCode format=percent8.2, 
+ 	 (count(*)-count(Claim_Site))/count(*) as pctClaimSite format=percent8.2,
+ 	 (count(*)-count(Disposition))/count(*) as pctDisposition format=percent8.2, 
+ 	(count(*)-count(Claim_Type))/count(*) as pctClaimType format=percent8.2, 
+ 	(count(*)-count(Date_Received))/count(*) as pctDateReceived format=percent8.2,
+ 	(count(*)-count(Incident_Date))/count(*) as pctIncidentDate format=percent8.2,
+ 	(count(*)-count(State))/count(*) as pctState format=percent8.2
+ from sq.claimsraw;
+run;
+
+*exploring distinct values of columns;
+proc sql;
+select distinct Date_Received
+from sq.claimsraw;
+quit;
+
+*checking for possible date inconsistencies;
+proc sql;
+select Claim_Number, Date_Received, Incident_Date
+from sq.claimsraw
+where Incident_Date > Date_Received;
+quit;
+
+*removing duplicates;
+proc sql;
+create table claimsnodupe_sql as
+select distinct *
+from sq.claimsraw;
+quit;
+
+proc sort data=sq.claimsraw nodupkey OUT=sq.Claims_NoDup  dupout=sq.claimdups;
+by _all_;
+run;
+
+* cleaning the claimsraw table;
+proc sql;
+	create table sq.Claims_Cleaned_test as
+	select Claim_Number label="Claim Number", 
+		Incident_Date format=date9. label="Incident Date", 
+		CASE 
+	       WHEN Incident_Date > Date_Received
+	       THEN INTNX('YEAR', Date_Received, 1, 'SAME') 
+	       ELSE Date_Received 
+	   	END AS Date_Received format=date9. label="Date Received",
+	   	CASE
+	   		when Airport_Name is missing then "Unknown"
+	   		else Airport_Name
+	   	end as Airport_Name label="Airport Name", 
+	   	CASE
+	   		when Airport_Code is missing then "Unknown"
+	   		else Airport_Code
+	   	end as Airport_Code label="Airport Code",
+	   	CASE 
+	       WHEN Claim_Type IS MISSING THEN "Unknown"
+	       ELSE SCAN(Claim_Type, 1, '/')
+	   	END AS Claim_Type label="Claim Type",
+	   	CASE 
+	       WHEN Claim_Site IS MISSING THEN "Unknown"
+	       ELSE Claim_Site
+	   	END AS Claim_Site label="Claim Site",
+	   	CASE 
+	       WHEN Disposition IS MISSING THEN "Unknown"
+	       when Disposition = "Closed: Canceled" then "Closed:Canceled"
+	       when Disposition = "losed: Contractor Claim" then "Closed:Contractor Claim"
+	       else Disposition
+	   	END AS Disposition,
+	   	Close_Amount format=dollar10.2 label="Close Amount",
+	   	CASE 
+	       WHEN State IS MISSING THEN "Unknown"
+	       else upcase(State)
+	   	end as State format=$7., 
+	   	CASE 
+	       WHEN StateName IS MISSING THEN "Unknown"
+	       else propcase(StateName)
+	   	end as StateName label="State Name",
+	   	CASE 
+	       WHEN County IS MISSING THEN "Unknown"
+	       else propcase(County)
+	   	end as County, 
+	   	CASE 
+	       WHEN City IS MISSING THEN "Unknown"
+	       else propcase(City)
+	   	end as City
+	from sq.Claims_NoDup
+	where year(Incident_Date) between 2013 and 2017
+	order by Airport_Code, Incident_Date;
+quit;
+
+proc sql;
+select *
+from sq.Claims_Cleaned_test
+where incident_date between "02JAN2013"d and "08JAN2013"d;
+quit;
+
+* create distinct airports from claims table;
+proc sql;
+create table sq.distinct_Airports as
+select distinct Airport_Code, Airport_Name, State, StateName, County, City
+from sq.Claims_Deduplicated;
+quit;
+
+* finding which airport codes have multiple variations of name, state, ...;
+proc sort data=sq.distinct_Airports nodupkey OUT=Airports_nodups  dupout=Airports_dups;
+by Airport_Code;
+run;
+* checking duplicate airport codes with different airport names;
+proc sql;
+select distinct Airport_Code, Airport_Name, State, StateName, County, City
+from sq.distinct_Airports
+where Airport_Code in ("ABY","BZN","CMH","ITH","PNS","PSM","SWF");
+quit;
+
+* cleaning airport names causing duplicates;
+proc sql;
+update sq.distinct_Airports
+set Airport_Name = 
+	case
+		when Airport_Code = "ITH" then "Tompkins County, Ithaca"
+		when Airport_Code = "SWF" then "Stewart Field"
+		when Airport_Code = "ABY" then "Southwest Georgia Regional Airport"
+		when Airport_Code = "BZN" then "Bozeman Yellowstone International Airport"
+		when Airport_Code = "PNS" then "Pensacola International Airport"
+		when Airport_Code = "CMH" then "John Glenn Columbus International"
+		when Airport_Code = "PSM" then "Portsmouth International Airport at Pease"
+		when Airport_Code = "ZZZ" then "Unspecified"
+		else Airport_Name
+	end;
+quit;
+
+*creating a lookup table for airport codes and correct names;
+/*data sq.airport_lookup;
+   length Airport_Code $3 New_Airport_Name $50; 
+   infile datalines dlm='|';
+   input Airport_Code :$3. New_Airport_Name :$50.;
+   datalines;
+ITH|Tompkins County, Ithaca
+SWF|Stewart Field
+ABY|Southwest Georgia Regional Airport
+BZN|Bozeman Yellowstone International Airport
+PNS|Pensacola International Airport
+CMH|John Glenn Columbus International
+PSM|Portsmouth International Airport at Pease
+ZZZ|Unspecified
+; 
+run;
+
+*populating the airport table with the correct airport names;
+proc sql;
+   update sq.distinct_airports as A
+      set Airport_Name = 
+         (select L.New_Airport_Name 
+          from sq.airport_lookup as L
+          where L.Airport_Code = A.Airport_Code)
+   where exists
+         (select 1 
+          from sq.airport_lookup as L
+          where L.Airport_Code = A.Airport_Code);
+quit;
+
+*/
+
+
+*cleaning duplicate values causing by renaming airport names;
+proc sort data=sq.distinct_Airports nodupkey OUT=sq.Airports_nodups  dupout=sq.Airports_dups;
+by _all_;
+run;
+
+proc sort data=sq.Airports_nodups nodupkey OUT=sq.Airports_nodups1  dupout=testdups;
+by _all_;
+run;
+
+proc sql;
+select * from sq.Airports_nodups1;
+quit;
+
+* checking length of each airport name;
+PROC SQL;
+    SELECT Airport_Code, '"' || Airport_Name || '"' AS Airport_Name_Check,
+           '"' || State || '"' AS State_Check,
+           '"' || StateName || '"' AS StateName_Check,
+           '"' || County || '"' AS County_Check,
+           '"' || City || '"' AS City_Check,
+           LENGTH(Airport_Name) AS AirportLen,
+           LENGTH(State) AS StateLen,
+           LENGTH(StateName) AS StateNameLen,
+           LENGTH(County) AS CountyLen,
+           LENGTH(City) AS CityLen
+    FROM distinct_Airports
+    WHERE Airport_Code in ("ABY","BZN","CMH","ITH","PNS","PSM","SWF");
+QUIT;
+
+* checking hex value of airport names;
+PROC SQL;
+    SELECT Airport_Code, 
+           '"' || Airport_Name || '"' AS Airport_Name_Check,
+           PUT(Airport_Name, $HEX30.) AS Hex_Value
+    FROM distinct_Airports
+    WHERE Airport_Code in("SWF","ITH");
+QUIT;
+
+
+title1 "combining enplanements2017 and boarding2013_2016 tables";
+proc sql;
+create view sq.TotalEnplanements as
+select locid, enplanement, input(year, 8.) as Year
+from sq.ENPLANEMENT2017
+union
+select locid, boarding as Enplanement, year
+from sq.BOARDING2013_2016
+order by year, locid;
+quit;
+
+
+*dimension airport;
+proc sql;
+    create table sq.Dim_Airport as
+    select 
+        /*monotonic() as Airport_ID,  /* Simulate sequential IDs */
+        Airport_Code,
+        Airport_Name,
+        State,
+        StateName,
+        City,
+        County
+    from 
+        sq.airports_nodups1;
+quit;
+
+*dimension date;
+proc sql;
+    create table sq.Dim_Date as
+    select 
+        monotonic() as Date_ID,  /* Create unique Date_ID */
+        Full_Date format=date9. label="Full Date",
+        year(Full_Date) as Year,
+        month(Full_Date) as Month,
+        day(Full_Date) as Day,
+        qtr(Full_Date) as Quarter,
+        case 
+            when weekday(Full_Date) = 1 then 'Sunday'
+            when weekday(Full_Date) = 2 then 'Monday'
+            when weekday(Full_Date) = 3 then 'Tuesday'
+            when weekday(Full_Date) = 4 then 'Wednesday'
+            when weekday(Full_Date) = 5 then 'Thursday'
+            when weekday(Full_Date) = 6 then 'Friday'
+            when weekday(Full_Date) = 7 then 'Saturday'
+        end as Weekday_Name label="Weekday Name"
+    from (
+        select distinct incident_date as Full_Date
+        from sq.Claims_Deduplicated
+        union
+        select distinct date_received as Full_Date
+        from sq.Claims_Deduplicated
+    );
+quit;
+
+*dimension claim type;
+proc sql;
+    create table sq.Dim_ClaimType as
+    select  
+        monotonic() as ClaimType_ID,  /* Create unique ClaimType_ID */
+        Claim_Type,  
+        case 
+            when Claim_Type = 'Complaint' then 'Customer dissatisfaction or complaint'
+            when Claim_Type = 'Compliment' then 'Positive feedback from a passenger'
+            when Claim_Type = 'Employee Loss (MPCECA)' then 'Loss related to employee claims (MPCECA)'
+            when Claim_Type = 'Missed Flight' then 'Claim due to a missed flight'
+            when Claim_Type = 'Motor Vehicle' then 'Claim related to a motor vehicle incident'
+            when Claim_Type = 'Not Provided' then 'Claim where services were not provided'
+            when Claim_Type = 'Passenger Property Loss' then 'Claim for property loss by a passenger'
+            when Claim_Type = 'Passenger Theft' then "Claim for theft of a passenger's property"
+            when Claim_Type = 'Personal Injury' then 'Claim due to physical injury'
+            when Claim_Type = 'Property Damage' then 'Claim for damage to property'
+            when Claim_Type = 'Property Loss' then 'Claim for loss of property'
+            when Claim_Type = 'Unknown' then 'Unspecified or undefined claim type'
+            else 'Other'  /* Default description for other types */
+        end as Claim_Description  /* The description based on Claim_Type */
+    from (select distinct claim_type
+    		from sq.Claims_Deduplicated);  
+quit;
+
+
+*fact table;
+proc sql;
+    create table sq.Fact_table as
+    select 
+        /* Claim Number */
+        claims.Claim_Number,
+        
+        /* Foreign Key from Dim_Airport (Airport_ID) */
+        a.Airport_Code,  
+
+        /* Foreign Key from Dim_Date for Incident Date */
+        d1.Date_ID as Incident_Date_ID,  
+
+        /* Foreign Key from Dim_Date for Date Received */
+        d2.Date_ID as Date_Received_ID,  
+
+        /* Foreign Key from Dim_ClaimType */
+        c.ClaimType_ID,  
+
+        /* Claim Site (direct from the claims data) */
+        claims.Claim_Site label="Claim Site",  
+        
+        claims.Disposition,
+
+        /* Close Amount (from the claims data) */
+        claims.Close_Amount label="Close Amount",  
+
+        /* Total Enplanement for the airport and year */
+        e.Enplanement as Total_Enplanement format=dollar15. label="Total Enplanement"
+
+    from 
+        sq.Claims_Deduplicated as claims 
+        
+        /* Join with Dim_Airport using Airport_Code */
+        inner join sq.Dim_Airport as a
+        on claims.Airport_Code = a.Airport_Code 
+        
+        /* Join with Dim_Date for Incident Date */
+        inner join sq.Dim_Date as d1
+        on claims.Incident_Date = d1.Full_Date 
+
+        /* Join with Dim_Date for Date Received */
+        inner join sq.Dim_Date as d2
+        on claims.Date_Received = d2.Full_Date 
+        
+        /* Join with Dim_ClaimType using Claim_Type */
+        inner join sq.Dim_ClaimType as c
+        on claims.Claim_Type = c.Claim_Type 
+        
+        /* Join with Dim_Enplanement using Airport_Code and Year */
+        left join sq.TotalEnplanements as e
+        on claims.Airport_Code = e.LocID 
+        and year(claims.Incident_Date) = e.Year 
+        
+        /* Subquery to count the number of airports sharing the same Airport_Code */
+        /*inner join (
+            select Airport_Code, count(*) as Num_Airports
+            from Dim_Airport
+            group by Airport_Code
+        ) as num_airports
+        on a.Airport_Code = num_airports.Airport_Code*/
+        
+    ; 
+quit;
+
+
+* join fact and date tables;
+proc sql;
+create table sq.joinfactTdateT as
+select * from sq.fact_table inner join sq.dim_date 
+on incident_date_id = date_id
+order by airport_code, year;
+quit;
+
+* only keep the total enplanement for the first row of same airport and year;
+data sq.fact_table_enplanementModified;
+    set sq.joinfactTdateT;
+    by Airport_Code Year; /* Grouping by Airport_Code and Year */
+
+    if not missing(Total_Enplanement) then do;
+	    if first.Year then Total_Enplanement = Total_Enplanement; /* Keep original */
+	    else Total_Enplanement = 0; /* Set to zero for the remaining rows */
+   	end;
+run;
+
+*drop dim_date columns;
+data sq.fact_table_enplanementModified; 
+set sq.fact_table_enplanementModified(drop=Date_ID Day Full_Date Month Quarter Weekday_Name Year); 
+run;
+
+proc contents data=sq.fact_table_enplanementModified;
+run;
+
+proc sql;
+select * from sq.fact_table_enplanementModified
+where airport_code = "ABE"
+order by airport_code, incident_date_id;
+quit;
+
+proc sql;
+select * from sq.Claims_Cleaned_test
+where state = "CQ"
+;
+quit;
+proc sql outobs=300;
+select Date_Received_ID, dr.full_date, incident_date_id, id.full_date
+from sq.fact_table inner join sq.dim_date as dr
+on Date_Received_ID = dr.date_id
+inner join sq.dim_date as id
+on incident_date_id = id.date_id
+order by incident_date_id
+;
+quit;
+
+
+*testing the fact_table by reconstructing initial claims table;
+proc sql;
+create table sq.fact_join as
+    select 
+        /* Fact Table Columns */
+        f.Claim_Number,
+        f.Airport_Code,
+        f.Incident_Date_ID,
+        f.Date_Received_ID,
+        f.ClaimType_ID,
+        f.Claim_Site,
+        f.Close_Amount,
+        f.Total_Enplanement,
+
+        /* Airport Dimension Columns */
+        a.Airport_Code,
+        a.Airport_Name,
+        a.City,
+        a.State,
+        a.county,
+        
+        /* Claim Type Dimension Columns */
+        c.Claim_Type,
+        c.Claim_Description as Claim_Type_Description,
+
+        /* Incident Date Dimension Columns */
+        d1.Full_Date as Incident_Date,
+        d1.Year as Incident_Year,
+        d1.Month as Incident_Month,
+        d1.Day as Incident_Day,
+        d1.Quarter as Incident_Quarter,
+        d1.Weekday_name as Incident_Weekday,
+
+        /* Date Received Dimension Columns */
+        d2.Full_Date as Date_Received,
+        d2.Year as Date_Received_Year,
+        d2.Month as Date_Received_Month,
+        d2.Day as Date_Received_Day,
+        d2.Quarter as Date_Received_Quarter,
+        d2.Weekday_name as Date_Received_Weekday
+
+    from 
+        sq.Fact_table as f /* This is the fact table we created earlier */
+        
+        /* Join with Dim_Airport using Airport_ID */
+        left join sq.Dim_Airport as a
+        on f.Airport_Code = a.Airport_Code
+        
+        /* Join with Dim_ClaimType using ClaimType_ID */
+        left join sq.Dim_ClaimType as c
+        on f.ClaimType_ID = c.ClaimType_ID
+        
+        /* Join with Dim_Date for Incident Date */
+        left join sq.Dim_Date as d1
+        on f.Incident_Date_ID = d1.Date_ID
+        
+        /* Join with Dim_Date for Date Received */
+        left join sq.Dim_Date as d2
+        on f.Date_Received_ID = d2.Date_ID
+        order by a.airport_code, d1.Full_Date
+    ;
+quit;
+
+proc sql;
+drop view sq.ClaimsByAirport;
+quit; 
+ 
+title2 "number of claims for each value of Airport_Code and Year";
+proc sql;
+create table sq.TotalClaims as
+select dima.Airport_Code, dima.Airport_Name, dima.City, dima.State, year(dimd.Full_Date) as Year,
+	count(fact.Claim_Number) as totalclaims
+from sq.fact_table_clean as fact inner join sq.dim_airport as dima
+on fact.airport_Code = dima.airport_Code
+inner join sq.dim_date_modified as dimd
+on fact.incident_date_id = dimd.date_id
+group by dima.Airport_Code, dima.Airport_Name, dima.City, dima.State, calculated Year
+order by dima.Airport_Code, calculated Year;
+quit;
+
+proc export data=sq.TotalClaims
+    outfile='/home/u64138363/EPG1V2/data/TotalClaims.csv'
+    dbms=csv
+    replace;
+run;
+
+
+title3 "percentage of claims by enplanements for each airport at each year";
+proc sql;
+create table sq.ClaimsByAirport as
+select tc.Airport_Code, tc.Airport_Name, tc.City, tc.State, tc.Year, tc.TotalClaims,
+ 		groupfd_t.Total_Enplanement,
+		tc.totalclaims / groupfd_t.Total_Enplanement as PctClaims format=percent10.4
+from sq.TotalClaims as tc inner join 
+	(select Airport_Code, year(dt.full_date) as yearr, sum(Total_Enplanement) as Total_Enplanement
+	from sq.fact_table_clean as ft inner join sq.dim_date_modified as dt
+	on ft.incident_date_id = dt.date_id
+	group by Airport_Code, yearr) as groupfd_t
+on tc.Airport_Code = groupfd_t.Airport_Code  and tc.year = groupfd_t.yearr
+order by PctClaims desc;
+quit;
+
+proc export data=sq.ClaimsByAirport
+    outfile='/home/u64138363/EPG1V2/data/ClaimsByAirport.csv'
+    dbms=csv
+    replace;
+run;
+
+/*proc sql;
+create table sq.ClaimsByAirportclaimtype as
+select tc.Airport_Code, tc.Year, tc.TotalClaims,
+ 		groupfd_t.Total_Enplanement, tc.claim_type,
+		tc.totalclaims / groupfd_t.Total_Enplanement as PctClaims format=percent10.4
+from sq.TotalClaimsByTypeYear as tc inner join 
+	(select Airport_Code, year(dt.full_date) as yearr, sum(Total_Enplanement) as Total_Enplanement
+	from sq.fact_table_clean as ft inner join sq.dim_date_modified as dt
+	on ft.incident_date_id = dt.date_id
+	group by Airport_Code, yearr) as groupfd_t
+on tc.Airport_Code = groupfd_t.Airport_Code  and tc.year = groupfd_t.yearr
+order by tc.airport_code, pctclaims desc;
+quit;
+
+
+proc sql;
+create table sq.TotalClaimsclaimtypeallyears as
+select dima.Airport_Code, dima.Airport_Name, dima.City, dima.State, dimc.claim_type,
+	count(fact.Claim_Number) as totalclaims
+from sq.fact_table_clean as fact inner join sq.dim_airport as dima
+on fact.airport_Code = dima.airport_Code
+inner join sq.dim_claimtype as dimc
+on fact.claimtype_id = dimc.claimtype_id
+group by dima.Airport_Code, dima.Airport_Name, dima.City, dima.State, dimc.claim_type
+order by airport_code, claim_type;
+quit;
+
+proc sql;
+create table sq.ClaimsByAirportclaimtypeallyears as
+select tc.Airport_Code, tc.Airport_Name, tc.City, tc.State, tc.TotalClaims, claim_type,
+ 		groupfd_t.Total_Enplanement,
+		tc.totalclaims / groupfd_t.Total_Enplanement as PctClaims format=percent10.4
+from sq.TotalClaimsclaimtypeallyears as tc inner join 
+	(select Airport_Code, sum(Total_Enplanement) as Total_Enplanement
+	from sq.fact_table_clean as ft inner join sq.dim_date_modified as dt
+	on ft.incident_date_id = dt.date_id
+	group by Airport_Code) as groupfd_t
+on tc.Airport_Code = groupfd_t.Airport_Code
+order by PctClaims desc;
+quit;*/
+
+
+
+title4 "total claims for each claim type at each airport at each year";
+proc sql;
+    create table sq.TotalClaimsByTypeYear as
+    select fact.Airport_Code, dimc.Claim_Type, year(dimd.Full_Date) as Year,
+           count(*) as TotalClaims
+    from sq.fact_table_clean as fact
+    inner join sq.dim_claimtype as dimc
+    on fact.ClaimType_ID = dimc.ClaimType_ID
+    inner join sq.dim_date_modified as dimd
+    on fact.incident_date_id = dimd.date_id
+    group by fact.Airport_Code, dimc.Claim_Type, calculated Year
+    order by Year, fact.Airport_Code, TotalClaims desc;
+quit;
+
+proc export data=sq.TotalClaimsByTypeYear
+    outfile='/home/u64138363/EPG1V2/data/TotalClaimsByTypeYear.csv'
+    dbms=csv
+    replace;
+run;
+
+title5 "total close amount for each claim type at each airport at each year";
+proc sql;
+    create table sq.TotalCloseAmount as
+    select 
+        ft.Airport_Code, 
+        dima.Airport_Name, 
+        dima.City, 
+        dima.State, 
+        dimd.Year, 
+        dimc.Claim_Type, 
+        sum(ft.Close_Amount) as Total_Close_Amount format=dollar12.2
+    from sq.fact_table as ft 
+    inner join sq.dim_airport as dima 
+        on ft.Airport_Code = dima.Airport_Code
+    inner join sq.dim_date as dimd 
+        on ft.incident_date_id = dimd.date_id
+    inner join sq.dim_claimtype as dimc 
+        on ft.ClaimType_ID = dimc.ClaimType_ID
+    group by ft.Airport_Code, dima.Airport_Name, dima.City, dima.State, dimd.Year, dimc.Claim_Type
+    order by ft.Airport_Code, dimd.Year;
+quit;
+
+proc export data=sq.TotalCloseAmount
+    outfile='/home/u64138363/EPG1V2/data/TotalCloseAmount.csv'
+    dbms=csv
+    replace;
+run;
+
+proc export data=sq.fact_table
+    outfile='/home/u64138363/EPG1V2/data/fact_table.csv'
+    dbms=csv
+    replace;
+run;
+
+
+
+/* PROC OLAP CUBE=Claims_Cube DATA=sq.claimsraw; */
+/*     DEFINE DIMENSION Airport_Code; */
+/*     DEFINE DIMENSION Year; */
+/*     DEFINE DIMENSION Claim_Type; */
+/*     DEFINE DIMENSION Disposition; */
+/*     DEFINE MEASURE Claim_Count / STAT=COUNT; */
+/*     DEFINE MEASURE Claim_Amount / STAT=SUM; */
+/* RUN; */
+
+*formatting fact_table to fit in mySQL;
+data sq.fact_table_clean;
+    set sq.fact_table_enplanementModified;
+    format Close_Amount 10.2; 
+    Total_Enplanement_Int = input(put(Total_Enplanement, 15.), 15.);
+    drop Total_Enplanement; /* Optional: Drop old column if no longer needed */
+    rename Total_Enplanement_Int = Total_Enplanement; /* Rename new column */
+run;
+
+proc contents data=sq.fact_table_clean;
+run;
+proc export data=sq.fact_table_clean
+    outfile='/home/u64138363/EPG1V2/data/fact_table_clean.csv'
+    dbms=csv
+    replace;
+run;
+
+proc sql;
+select * from sq.Claims_Cleaned_test
+where claim_number in (select claim_number from factabledup)
+order by claim_number;
+quit;
+
+proc sort data=sq.fact_table nodupkey OUT=factablenodup  dupout=factabledup;
+by claim_number;
+run;
+proc sort data=sq.Claims_Deduplicated nodupkey OUT=claimcleannodup  dupout=claimcleanabledup;
+by _all_;
+run;
+
+*deduplicating claims from different rows with same claim number
+keeping only the latest update;
+proc sql noprint;
+    create table sq.Claims_Deduplicated as
+    select a.*
+    from sq.Claims_Cleaned_test as a
+    where not exists (  
+        select 1  
+        from sq.Claims_Cleaned_test as b  
+        where a.Claim_Number = b.Claim_Number  
+        and a.Date_Received < b.Date_Received  
+    );
+quit;
+
+proc sql;
+select * from sq.Claims_Deduplicated
+where claim_number in (select claim_number from factabledup)
+order by claim_number;
+quit;
+proc sql;
+select Claim_Number from sq.Claims_Cleaned_test
+                       group by Claim_Number
+                       having count(*) > 1;
+quit;
+proc sql;
+select * 
+from sq.Claims_Deduplicated
+where Claim_Number in (select Claim_Number from sq.Claims_Cleaned_test
+                       group by Claim_Number
+                       having count(*) > 1)
+order by Claim_Number;
+quit;
+
+proc contents data=sq.dim_date_modified;
+run;
+
+
+proc export data=sq.Dim_Airport
+    outfile='/home/u64138363/ESQ1M6/data/Dim_Airport.csv'
+    dbms=csv
+    replace;
+run;
+
+proc export data=sq.dim_date_modified
+    outfile='/home/u64138363/ESQ1M6/data/Dim_date_modified.csv'
+    dbms=csv
+    replace;
+run;
+
+proc export data=sq.Dim_ClaimType
+    outfile='/home/u64138363/ESQ1M6/data/Dim_ClaimType.csv'
+    dbms=csv
+    replace;
+run;
+
+proc export data= SQ.TOTALCLOSEAMOUNT
+    outfile='/home/u64138363/ESQ1M6/data/TOTALCLOSEAMOUNT.csv'
+    dbms=csv
+    replace;
+run;
+proc export data= SQ.TOTALCLAIMSBYTYPEYEAR
+    outfile='/home/u64138363/ESQ1M6/data/TOTALCLAIMSBYTYPEYEAR.csv'
+    dbms=csv
+    replace;
+run;
+proc export data= SQ.CLAIMSBYAIRPORT
+    outfile='/home/u64138363/ESQ1M6/data/CLAIMSBYAIRPORT.csv'
+    dbms=csv
+    replace;
+run;
+proc export data= SQ.TOTALCLAIMS
+    outfile='/home/u64138363/ESQ1M6/data/TOTALCLAIMS.csv'
+    dbms=csv
+    replace;
+run;
+proc export data= SQ.JOINFACTTDATET
+    outfile='/home/u64138363/ESQ1M6/data/JOINFACTTDATET.csv'
+    dbms=csv
+    replace;
+run;
+proc export data= SQ.FACT_TABLE_ENPLANEMENTMODIFIED
+    outfile='/home/u64138363/ESQ1M6/data/FACT_TABLE_ENPLANEMENTMODIFIED.csv'
+    dbms=csv
+    replace;
+run;
+proc export data= SQ.FACT_JOIN 
+    outfile='/home/u64138363/ESQ1M6/data/FACT_JOIN.csv'
+    dbms=csv
+    replace;
+run;
+proc export data=SQ.DISTINCT_AIRPORTS
+    outfile='/home/u64138363/ESQ1M6/data/DISTINCT_AIRPORTS.csv'
+    dbms=csv
+    replace;
+run;
+proc export data=SQ.DIM_DATE_MODIFIED
+    outfile='/home/u64138363/ESQ1M6/data/DIM_DATE_MODIFIED.csv'
+    dbms=csv
+    replace;
+run;
+proc export data=SQ.DIM_DATE
+    outfile='/home/u64138363/ESQ1M6/data/DIM_DATE.csv'
+    dbms=csv
+    replace;
+run;
+proc export data=SQ.DIM_CLAIMTYPE
+    outfile='/home/u64138363/ESQ1M6/data/DIM_CLAIMTYPE.csv'
+    dbms=csv
+    replace;
+run;
+proc export data=SQ.DIM_AIRPORT
+    outfile='/home/u64138363/ESQ1M6/data/DIM_AIRPORT.csv'
+    dbms=csv
+    replace;
+run;
+proc export data=SQ.CLAIMS_NODUP
+    outfile='/home/u64138363/ESQ1M6/data/CLAIMS_NODUP.csv'
+    dbms=csv
+    replace;
+run;
+proc export data=SQ.CLAIMS_DEDUPLICATED
+    outfile='/home/u64138363/ESQ1M6/data/CLAIMS_DEDUPLICATED.csv'
+    dbms=csv
+    replace;
+run;
+proc export data=SQ.CLAIMS_CLEANED_TEST
+    outfile='/home/u64138363/ESQ1M6/data/CLAIMS_CLEANED_TEST.csv'
+    dbms=csv
+    replace;
+run;
+
+*formatting dim date to fit mySQL date type;
+data sq.dim_date_modified;
+    set sq.dim_date;
+    format full_date yymmdd10.;
+run;
+
+/*PROC SQL;
+    INSERT INTO sq.fact_table
+        (Claim_Number, Airport_Code, Incident_date_id, Date_Received_id, ClaimType_id, Claim_site, Disposition, Close_amount, Total_Enplanement /*, ... other columns */)
+/*    VALUES
+        ("2013032002658", "ABB", 69, 72, 7, "Checkpoint", "Deny", 0.00, 0 /*, ... actual values */);
+*QUIT;
+
+
+*delete a row associated with a claim_number while maintaning 
+the total enplanements-TESTED;
+DATA sq.facttablecopy;
+    SET sq.fact_table_clean;
+RUN;
+DATA sq.dimdatecopy;
+    SET sq.dim_date;
+RUN;
+%macro delete_claim(claim=);
+
+   /*****************************************************/
+   /*  STEP 1: RETRIEVE ROW INFO INTO A TEMP TABLE      */
+   /*****************************************************/
+   proc sql noprint;
+      /* Grab total enplanement (te), airport code (ac), and year (yr)
+         for the target claim. Store them in a small table. */
+      create table rowToDelete as
+      select f.Claim_Number,
+             f.Total_Enplanement as TE,
+             f.Airport_Code as AC,
+             year(d.Full_Date) as Yr
+      from sq.facttablecopy as f
+           inner join sq.dimdatecopy as d
+           on f.incident_date_id = d.date_id
+      where Claim_Number = "&claim";
+   quit;
+
+   /* If no rows returned, stop the macro. */
+   data _null_;
+      if 0 then set rowToDelete nobs=n;
+      call symputx('nObs', n);
+      stop;
+   run;
+   
+%put NOTE: nObs = &nObs.;
+
+   %if &nObs = 0 %then %do;
+      %put ERROR: Claim_Number=&claim not found in sq.facttablecopy.;
+      %return;
+   %end;
+
+   /*****************************************************/
+   /*  STEP 2: MOVE VALUES INTO MACRO VARIABLES         */
+   /*****************************************************/
+   data _null_;
+      set rowToDelete;
+      call symputx('te', TE);
+      call symputx('ac', AC);
+      call symputx('yr', Yr);
+   run;
+
+   /*****************************************************/
+   /*  STEP 3: IF TOTAL_ENPLANEMENT=0, JUST DELETE ROW  */
+   /*****************************************************/
+   
+   %if %sysevalf(&te = 0) or %sysevalf(&te = .) %then %do;
+      proc sql;
+         delete from sq.facttablecopy
+         where Claim_Number = "&claim";
+      quit;
+      %put NOTE: Deleted Claim_Number=&claim because TE=0.;
+   %end;
+
+   /*********************************************************/
+   /*  STEP 4: IF TE > 0, CHECK FOR ANOTHER ROW (SAME AC/YR) */
+   /*********************************************************/
+   %else %do;
+
+      proc sql noprint;
+         select count(*) 
+         into :nOther trimmed
+         from sq.facttablecopy as f
+              inner join sq.dimdatecopy as d
+              on f.incident_date_id = d.date_id
+         where f.Airport_Code = "&ac" 
+           and year(d.Full_Date) = &yr
+           and f.Claim_Number ne "&claim";
+      quit;
+
+      /**************************************************************/
+      /*  STEP 4a: IF A ROW EXISTS FOR SAME AC/YR, UPDATE THEN DEL  */
+      /**************************************************************/
+      %if &nOther > 0 %then %do;
+
+         /* (1) Update an existing row's Total_Enplanement in a separate step */
+         /*proc sql;
+            update sq.facttablecopy
+            set Total_Enplanement = &te
+            where Claim_Number = (select min(f2.Claim_Number)
+               from sq.facttablecopy as f2
+                    inner join sq.dimdatecopy as d2
+                    on f2.incident_date_id = d2.date_id
+               where f2.Airport_Code = "&ac" 
+                 and year(d2.Full_Date) = &yr
+                 and f2.Claim_Number ne "&claim");
+         quit;*/
+        
+		proc sql noprint;
+		   select min(f2.Claim_Number) 
+		      into :rowToUpdate  /* macro variable */
+		   from sq.facttablecopy as f2
+		        inner join sq.dimdatecopy as d2
+		        on f2.incident_date_id = d2.date_id
+		   where f2.Airport_Code = "&ac"
+		     and year(d2.Full_Date) = &yr
+		     and f2.Claim_Number ne "&claim";
+		quit;
+		
+		data sq.facttablecopy;
+		   set sq.facttablecopy;  /* reading all rows */
+		   if Claim_Number = "&rowToUpdate" then
+		      Total_Enplanement = &te;   
+		   /* No "replace" needed; the entire dataset is recreated */
+		run;
+         /* (2) Delete the old row in another step */
+         proc sql;
+            delete from sq.facttablecopy
+            where Claim_Number = "&claim";
+         quit;
+
+         %put NOTE: Updated existing row for Airport_Code=&ac, Year=&yr with +&te, then deleted Claim_Number=&claim.;
+
+      %end;
+      /******************************************************************/
+      /*  STEP 4b: IF NO OTHER ROW EXISTS FOR SAME AC/YR, INSERT + DEL  */
+      /******************************************************************/
+      %else %do;
+
+         /* (1) Insert a new row to hold the TE value. */
+         /* Note: You must decide how to fill in date_id, claim_number, etc. */
+         proc sql;
+            insert into sq.facttablecopy
+               (Claim_Number, Airport_Code, Total_Enplanement)
+            values (
+               "TEMP_&ac._&yr.",  /* or 0, or a new unique ID */
+               "&ac",
+               &te
+            );
+         quit;
+
+         /* (2) Delete the old row in a separate step. */
+         proc sql;
+            delete from sq.facttablecopy
+            where Claim_Number = "&claim";
+         quit;
+
+         %put NOTE: Created new row for Airport_Code=&ac, Year=&yr with TE=&te, then deleted Claim_Number=&claim.;
+
+      %end; /* end &nOther>0 check */
+
+   %end; /* end TE>0 logic */
+
+%mend delete_claim;
+options mprint mlogic symbolgen;
+%delete_claim(claim=2016082333212);
