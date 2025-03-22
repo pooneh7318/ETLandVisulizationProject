@@ -1,0 +1,13 @@
+ClaimType_ID,Claim_Type,Claim_Description
+1,Complaint,Customer dissatisfaction or complaint
+2,Compliment,Positive feedback from a passenger
+3,Employee Loss (MPCECA),Loss related to employee claims (MPCECA)
+4,Missed Flight,Claim due to a missed flight
+5,Motor Vehicle,Claim related to a motor vehicle incident
+6,Not Provided,Claim where services were not provided
+7,Passenger Property Loss,Claim for property loss by a passenger
+8,Passenger Theft,Claim for theft of a passenger's property
+9,Personal Injury,Claim due to physical injury
+10,Property Damage,Claim for damage to property
+11,Property Loss,Claim for loss of property
+12,Unknown,Unspecified or undefined claim type
