@@ -1,0 +1,2976 @@
+Airport_Code,Year,TotalClaims,Claim_Type,Total_Enplanement,PctClaims
+ABE,2013,5,Property Damage,301969,0.0017%
+ABE,2013,3,Passenger Property Loss,301969,0.0010%
+ABE,2013,1,Unknown,301969,0.0003%
+ABE,2014,2,Property Damage,298306,0.0007%
+ABE,2014,1,Passenger Property Loss,298306,0.0003%
+ABE,2015,3,Property Damage,320544,0.0009%
+ABE,2015,1,Passenger Property Loss,320544,0.0003%
+ABE,2016,3,Property Damage,324511,0.0009%
+ABE,2016,2,Passenger Property Loss,324511,0.0006%
+ABE,2017,3,Property Damage,328914,0.0009%
+ABI,2013,3,Property Damage,82758,0.0036%
+ABI,2013,1,Unknown,82758,0.0012%
+ABI,2014,5,Property Damage,93656,0.0053%
+ABI,2014,1,Passenger Property Loss,93656,0.0011%
+ABI,2015,2,Passenger Property Loss,86000,0.0023%
+ABQ,2013,24,Passenger Property Loss,2477783,0.0010%
+ABQ,2013,14,Property Damage,2477783,0.0006%
+ABQ,2013,1,Complaint,2477783,0.0000%
+ABQ,2014,18,Passenger Property Loss,2354184,0.0008%
+ABQ,2014,15,Property Damage,2354184,0.0006%
+ABQ,2015,9,Passenger Property Loss,2323883,0.0004%
+ABQ,2015,6,Property Damage,2323883,0.0003%
+ABQ,2015,1,Unknown,2323883,0.0000%
+ABQ,2016,16,Passenger Property Loss,2341719,0.0007%
+ABQ,2016,12,Property Damage,2341719,0.0005%
+ABQ,2017,23,Property Damage,2412328,0.0010%
+ABQ,2017,21,Passenger Property Loss,2412328,0.0009%
+ABR,2013,1,Passenger Property Loss,25567,0.0039%
+ABR,2015,2,Passenger Property Loss,27595,0.0072%
+ABR,2015,1,Property Damage,27595,0.0036%
+ABR,2015,1,Complaint,27595,0.0036%
+ABY,2016,2,Passenger Property Loss,34226,0.0058%
+ABY,2017,1,Property Damage,37920,0.0026%
+ACK,2013,1,Property Damage,183557,0.0005%
+ACK,2013,1,Passenger Property Loss,183557,0.0005%
+ACK,2014,1,Property Damage,170361,0.0006%
+ACK,2014,1,Passenger Property Loss,170361,0.0006%
+ACK,2015,1,Passenger Property Loss,155952,0.0006%
+ACK,2016,2,Property Damage,126197,0.0016%
+ACT,2013,1,Passenger Property Loss,62634,0.0016%
+ACT,2013,1,Property Damage,62634,0.0016%
+ACT,2014,1,Passenger Property Loss,66631,0.0015%
+ACT,2014,1,Unknown,66631,0.0015%
+ACT,2015,1,Passenger Property Loss,62882,0.0016%
+ACT,2016,2,Passenger Property Loss,64356,0.0031%
+ACT,2017,6,Passenger Property Loss,58888,0.0102%
+ACV,2015,1,Passenger Property Loss,55168,0.0018%
+ACV,2016,1,Passenger Property Loss,69732,0.0014%
+ACV,2016,1,Property Damage,69732,0.0014%
+ACY,2013,6,Passenger Property Loss,553695,0.0011%
+ACY,2013,4,Property Damage,553695,0.0007%
+ACY,2013,1,Motor Vehicle,553695,0.0002%
+ACY,2014,5,Property Damage,594346,0.0008%
+ACY,2014,3,Passenger Property Loss,594346,0.0005%
+ACY,2015,4,Property Damage,587967,0.0007%
+ACY,2015,2,Passenger Property Loss,587967,0.0003%
+ACY,2016,4,Property Damage,589091,0.0007%
+ACY,2016,1,Passenger Property Loss,589091,0.0002%
+ACY,2016,1,Missed Flight,589091,0.0002%
+ACY,2017,4,Passenger Property Loss,552690,0.0007%
+ACY,2017,2,Property Damage,552690,0.0004%
+ACY,2017,1,Complaint,552690,0.0002%
+ADK,2015,1,Passenger Property Loss,,
+ADK,2017,1,Passenger Property Loss,,
+ADQ,2014,1,Property Damage,79966,0.0013%
+ADQ,2015,1,Property Damage,81970,0.0012%
+AEX,2013,2,Property Damage,183899,0.0011%
+AEX,2013,1,Passenger Property Loss,183899,0.0005%
+AEX,2014,1,Property Damage,175526,0.0006%
+AEX,2016,1,Property Damage,129776,0.0008%
+AEX,2017,1,Passenger Property Loss,156145,0.0006%
+AGS,2013,2,Passenger Property Loss,260523,0.0008%
+AGS,2013,1,Property Damage,260523,0.0004%
+AGS,2015,2,Property Damage,271915,0.0007%
+AGS,2015,1,Passenger Property Loss,271915,0.0004%
+AGS,2016,2,Passenger Property Loss,270797,0.0007%
+AGS,2017,3,Property Damage,288834,0.0010%
+AGS,2017,1,Passenger Theft,288834,0.0003%
+AGS,2017,1,Passenger Property Loss,288834,0.0003%
+AIA,2017,1,Unknown,,
+AKN,2017,1,Passenger Property Loss,34800,0.0029%
+ALB,2013,11,Property Damage,1196532,0.0009%
+ALB,2013,10,Passenger Property Loss,1196532,0.0008%
+ALB,2013,1,Unknown,1196532,0.0001%
+ALB,2014,13,Property Damage,1210825,0.0011%
+ALB,2014,8,Passenger Property Loss,1210825,0.0007%
+ALB,2015,13,Property Damage,1276793,0.0010%
+ALB,2015,9,Passenger Property Loss,1276793,0.0007%
+ALB,2016,13,Passenger Property Loss,1388860,0.0009%
+ALB,2016,5,Property Damage,1388860,0.0004%
+ALB,2017,10,Passenger Property Loss,1393666,0.0007%
+ALB,2017,7,Property Damage,1393666,0.0005%
+ALO,2013,2,Passenger Property Loss,20984,0.0095%
+ALO,2013,1,Property Damage,20984,0.0048%
+ALO,2015,2,Passenger Property Loss,26950,0.0074%
+ALW,2014,1,Passenger Property Loss,36373,0.0027%
+ALW,2015,1,Passenger Property Loss,41272,0.0024%
+ALW,2015,1,Property Damage,41272,0.0024%
+ALW,2016,2,Passenger Property Loss,47439,0.0042%
+ALW,2016,1,Property Damage,47439,0.0021%
+ALW,2017,1,Passenger Property Loss,49702,0.0020%
+AMA,2013,4,Passenger Property Loss,370508,0.0011%
+AMA,2014,1,Passenger Property Loss,362412,0.0003%
+AMA,2014,1,Property Damage,362412,0.0003%
+AMA,2015,1,Passenger Property Loss,341132,0.0003%
+AMA,2015,1,Property Damage,341132,0.0003%
+AMA,2016,2,Property Damage,334815,0.0006%
+AMA,2017,4,Passenger Property Loss,334563,0.0012%
+ANC,2013,19,Passenger Property Loss,2325030,0.0008%
+ANC,2013,13,Property Damage,2325030,0.0006%
+ANC,2014,14,Passenger Property Loss,2381826,0.0006%
+ANC,2014,13,Property Damage,2381826,0.0005%
+ANC,2015,17,Passenger Property Loss,2525893,0.0007%
+ANC,2015,13,Property Damage,2525893,0.0005%
+ANC,2016,18,Passenger Property Loss,2563524,0.0007%
+ANC,2016,7,Property Damage,2563524,0.0003%
+ANC,2017,17,Property Damage,2556191,0.0007%
+ANC,2017,12,Passenger Property Loss,2556191,0.0005%
+APN,2013,1,Passenger Property Loss,15914,0.0063%
+APN,2015,1,Passenger Property Loss,10409,0.0096%
+ART,2013,1,Passenger Property Loss,18818,0.0053%
+ART,2016,1,Passenger Property Loss,17312,0.0058%
+ART,2017,1,Property Damage,22785,0.0044%
+ART,2017,1,Passenger Property Loss,22785,0.0044%
+ASE,2013,1,Property Damage,206686,0.0005%
+ASE,2014,2,Passenger Property Loss,217648,0.0009%
+ASE,2015,3,Passenger Property Loss,233512,0.0013%
+ASE,2015,1,Property Damage,233512,0.0004%
+ASE,2016,3,Property Damage,254392,0.0012%
+ASE,2016,2,Passenger Property Loss,254392,0.0008%
+ASE,2017,3,Passenger Property Loss,244808,0.0012%
+ASE,2017,2,Property Damage,244808,0.0008%
+ATL,2013,176,Passenger Property Loss,45308407,0.0004%
+ATL,2013,137,Property Damage,45308407,0.0003%
+ATL,2013,3,Unknown,45308407,0.0000%
+ATL,2013,2,Personal Injury,45308407,0.0000%
+ATL,2014,176,Passenger Property Loss,46604273,0.0004%
+ATL,2014,127,Property Damage,46604273,0.0003%
+ATL,2014,1,Personal Injury,46604273,0.0000%
+ATL,2014,1,Unknown,46604273,0.0000%
+ATL,2015,167,Passenger Property Loss,49340732,0.0003%
+ATL,2015,161,Property Damage,49340732,0.0003%
+ATL,2015,3,Personal Injury,49340732,0.0000%
+ATL,2015,1,Complaint,49340732,0.0000%
+ATL,2016,201,Passenger Property Loss,50501858,0.0004%
+ATL,2016,146,Property Damage,50501858,0.0003%
+ATL,2016,2,Personal Injury,50501858,0.0000%
+ATL,2016,2,Unknown,50501858,0.0000%
+ATL,2016,1,Property Loss,50501858,0.0000%
+ATL,2017,235,Passenger Property Loss,50251964,0.0005%
+ATL,2017,137,Property Damage,50251964,0.0003%
+ATL,2017,2,Personal Injury,50251964,0.0000%
+ATL,2017,2,Unknown,50251964,0.0000%
+ATL,2017,1,Passenger Theft,50251964,0.0000%
+ATW,2013,1,Property Damage,246211,0.0004%
+ATW,2014,2,Passenger Property Loss,249656,0.0008%
+ATW,2014,1,Property Damage,249656,0.0004%
+ATW,2015,1,Property Damage,258321,0.0004%
+ATW,2015,1,Passenger Property Loss,258321,0.0004%
+ATW,2016,1,Property Damage,270633,0.0004%
+ATW,2017,1,Passenger Property Loss,281552,0.0004%
+AUS,2013,38,Passenger Property Loss,4900959,0.0008%
+AUS,2013,29,Property Damage,4900959,0.0006%
+AUS,2013,1,Personal Injury,4900959,0.0000%
+AUS,2014,45,Passenger Property Loss,5219982,0.0009%
+AUS,2014,34,Property Damage,5219982,0.0007%
+AUS,2014,1,Personal Injury,5219982,0.0000%
+AUS,2015,30,Property Damage,5797562,0.0005%
+AUS,2015,24,Passenger Property Loss,5797562,0.0004%
+AUS,2016,31,Passenger Property Loss,6095545,0.0005%
+AUS,2016,24,Property Damage,6095545,0.0004%
+AUS,2016,1,Personal Injury,6095545,0.0000%
+AUS,2017,37,Passenger Property Loss,6813171,0.0005%
+AUS,2017,32,Property Damage,6813171,0.0005%
+AUS,2017,1,Unknown,6813171,0.0000%
+AVL,2013,5,Property Damage,342400,0.0015%
+AVL,2013,4,Passenger Property Loss,342400,0.0012%
+AVL,2014,3,Property Damage,382586,0.0008%
+AVL,2014,1,Passenger Property Loss,382586,0.0003%
+AVL,2015,3,Property Damage,393386,0.0008%
+AVL,2015,2,Passenger Property Loss,393386,0.0005%
+AVL,2016,4,Passenger Property Loss,416939,0.0010%
+AVL,2016,1,Property Damage,416939,0.0002%
+AVL,2017,3,Passenger Property Loss,478061,0.0006%
+AVL,2017,1,Property Damage,478061,0.0002%
+AVP,2013,4,Passenger Property Loss,216536,0.0018%
+AVP,2014,2,Property Damage,214805,0.0009%
+AVP,2014,1,Passenger Property Loss,214805,0.0005%
+AVP,2015,1,Personal Injury,219796,0.0005%
+AVP,2016,2,Property Damage,232855,0.0009%
+AVP,2016,1,Passenger Property Loss,232855,0.0004%
+AVP,2017,1,Passenger Property Loss,261572,0.0004%
+AVP,2017,1,Property Damage,261572,0.0004%
+AVP,2017,1,Missed Flight,261572,0.0004%
+AZO,2013,1,Unknown,129211,0.0008%
+AZO,2013,1,Property Damage,129211,0.0008%
+AZO,2014,1,Passenger Property Loss,134832,0.0007%
+AZO,2015,1,Passenger Property Loss,122081,0.0008%
+AZO,2016,1,Property Damage,154242,0.0006%
+AZO,2016,1,Passenger Property Loss,154242,0.0006%
+AZO,2017,1,Passenger Property Loss,146314,0.0007%
+BDL,2013,21,Passenger Property Loss,2681181,0.0008%
+BDL,2013,14,Property Damage,2681181,0.0005%
+BDL,2014,22,Property Damage,2913380,0.0008%
+BDL,2014,20,Passenger Property Loss,2913380,0.0007%
+BDL,2015,18,Passenger Property Loss,2926054,0.0006%
+BDL,2015,15,Property Damage,2926054,0.0005%
+BDL,2015,1,Complaint,2926054,0.0000%
+BDL,2016,22,Passenger Property Loss,2982194,0.0007%
+BDL,2016,14,Property Damage,2982194,0.0005%
+BDL,2016,1,Personal Injury,2982194,0.0000%
+BDL,2017,19,Property Damage,3164647,0.0006%
+BDL,2017,17,Passenger Property Loss,3164647,0.0005%
+BFD,2017,1,Property Damage,3897,0.0257%
+BFF,2017,1,Property Damage,3709,0.0270%
+BFL,2013,3,Passenger Property Loss,143175,0.0021%
+BFL,2013,1,Property Damage,143175,0.0007%
+BFL,2014,1,Passenger Property Loss,140007,0.0007%
+BFL,2014,1,Property Damage,140007,0.0007%
+BFL,2014,1,Compliment,140007,0.0007%
+BFL,2015,2,Passenger Property Loss,120966,0.0017%
+BFL,2015,1,Property Damage,120966,0.0008%
+BFL,2016,1,Passenger Property Loss,100433,0.0010%
+BGM,2013,3,Passenger Property Loss,95210,0.0032%
+BGM,2013,1,Property Damage,95210,0.0011%
+BGM,2015,1,Passenger Property Loss,77654,0.0013%
+BGM,2016,1,Property Damage,68415,0.0015%
+BGM,2017,1,Property Damage,33425,0.0030%
+BGR,2013,2,Passenger Property Loss,315139,0.0006%
+BGR,2013,1,Property Damage,315139,0.0003%
+BGR,2014,3,Passenger Property Loss,317200,0.0009%
+BGR,2015,2,Property Damage,273829,0.0007%
+BGR,2015,1,Passenger Property Loss,273829,0.0004%
+BGR,2017,2,Property Damage,302224,0.0007%
+BGR,2017,2,Passenger Property Loss,302224,0.0007%
+BHB,2013,1,Passenger Property Loss,10292,0.0097%
+BHB,2016,1,Passenger Property Loss,10094,0.0099%
+BHM,2013,8,Passenger Property Loss,1334177,0.0006%
+BHM,2013,4,Property Damage,1334177,0.0003%
+BHM,2013,1,Personal Injury,1334177,0.0001%
+BHM,2014,10,Property Damage,1299214,0.0008%
+BHM,2014,5,Passenger Property Loss,1299214,0.0004%
+BHM,2015,6,Property Damage,1325897,0.0005%
+BHM,2015,3,Passenger Property Loss,1325897,0.0002%
+BHM,2016,8,Property Damage,1304467,0.0006%
+BHM,2016,6,Passenger Property Loss,1304467,0.0005%
+BHM,2017,5,Property Damage,1333967,0.0004%
+BHM,2017,3,Passenger Property Loss,1333967,0.0002%
+BIL,2013,5,Passenger Property Loss,387773,0.0013%
+BIL,2013,2,Property Damage,387773,0.0005%
+BIL,2014,1,Property Damage,420113,0.0002%
+BIL,2014,1,Passenger Property Loss,420113,0.0002%
+BIL,2015,4,Passenger Property Loss,420426,0.0010%
+BIL,2015,1,Property Damage,420426,0.0002%
+BIL,2016,6,Passenger Property Loss,423213,0.0014%
+BIL,2016,3,Property Damage,423213,0.0007%
+BIL,2017,2,Passenger Property Loss,415093,0.0005%
+BIL,2017,2,Property Damage,415093,0.0005%
+BIS,2013,1,Passenger Property Loss,238929,0.0004%
+BIS,2014,1,Property Damage,248316,0.0004%
+BIS,2015,2,Passenger Property Loss,262469,0.0008%
+BIS,2016,2,Property Damage,273980,0.0007%
+BIS,2016,1,Passenger Property Loss,273980,0.0004%
+BIS,2017,1,Passenger Property Loss,275098,0.0004%
+BJI,2013,2,Passenger Property Loss,22819,0.0088%
+BJI,2013,1,Property Damage,22819,0.0044%
+BJI,2014,2,Passenger Property Loss,23439,0.0085%
+BJI,2015,1,Passenger Property Loss,24765,0.0040%
+BJI,2015,1,Property Damage,24765,0.0040%
+BJI,2016,1,Property Damage,25510,0.0039%
+BKG,2013,2,Passenger Property Loss,,
+BKG,2013,2,Property Damage,,
+BLI,2013,3,Property Damage,596142,0.0005%
+BLI,2013,3,Passenger Property Loss,596142,0.0005%
+BLI,2014,3,Property Damage,543346,0.0006%
+BLI,2014,2,Passenger Property Loss,543346,0.0004%
+BLI,2015,2,Property Damage,447693,0.0004%
+BLI,2016,2,Property Damage,415285,0.0005%
+BLI,2016,1,Passenger Property Loss,415285,0.0002%
+BLI,2017,1,Passenger Property Loss,370022,0.0003%
+BLI,2017,1,Property Damage,370022,0.0003%
+BLV,2013,1,Property Damage,13542,0.0074%
+BLV,2014,2,Passenger Property Loss,16328,0.0122%
+BLV,2015,1,Passenger Property Loss,32589,0.0031%
+BLV,2017,1,Passenger Property Loss,123841,0.0008%
+BLV,2017,1,Property Damage,123841,0.0008%
+BMI,2013,2,Passenger Property Loss,211957,0.0009%
+BMI,2013,1,Property Damage,211957,0.0005%
+BMI,2014,3,Passenger Property Loss,204523,0.0015%
+BMI,2014,1,Property Damage,204523,0.0005%
+BMI,2015,2,Property Damage,186633,0.0011%
+BMI,2015,1,Passenger Property Loss,186633,0.0005%
+BMI,2017,1,Passenger Property Loss,163475,0.0006%
+BNA,2013,24,Passenger Property Loss,5050989,0.0005%
+BNA,2013,23,Property Damage,5050989,0.0005%
+BNA,2013,1,Personal Injury,5050989,0.0000%
+BNA,2014,27,Property Damage,5396958,0.0005%
+BNA,2014,15,Passenger Property Loss,5396958,0.0003%
+BNA,2015,27,Property Damage,5715205,0.0005%
+BNA,2015,22,Passenger Property Loss,5715205,0.0004%
+BNA,2015,1,Personal Injury,5715205,0.0000%
+BNA,2015,1,Unknown,5715205,0.0000%
+BNA,2016,27,Property Damage,6338517,0.0004%
+BNA,2016,26,Passenger Property Loss,6338517,0.0004%
+BNA,2016,1,Property Loss,6338517,0.0000%
+BNA,2017,30,Property Damage,6902771,0.0004%
+BNA,2017,23,Passenger Property Loss,6902771,0.0003%
+BOI,2013,8,Passenger Property Loss,1313741,0.0006%
+BOI,2013,4,Property Damage,1313741,0.0003%
+BOI,2014,8,Property Damage,1378352,0.0006%
+BOI,2014,4,Passenger Property Loss,1378352,0.0003%
+BOI,2015,5,Passenger Property Loss,1487777,0.0003%
+BOI,2015,4,Property Damage,1487777,0.0003%
+BOI,2015,1,Personal Injury,1487777,0.0001%
+BOI,2016,7,Passenger Property Loss,1633507,0.0004%
+BOI,2016,7,Property Damage,1633507,0.0004%
+BOI,2016,1,Personal Injury,1633507,0.0001%
+BOI,2017,12,Passenger Property Loss,1777642,0.0007%
+BOI,2017,6,Property Damage,1777642,0.0003%
+BOS,2013,160,Passenger Property Loss,14810153,0.0011%
+BOS,2013,108,Property Damage,14810153,0.0007%
+BOS,2013,3,Personal Injury,14810153,0.0000%
+BOS,2013,1,Unknown,14810153,0.0000%
+BOS,2014,111,Property Damage,15507561,0.0007%
+BOS,2014,107,Passenger Property Loss,15507561,0.0007%
+BOS,2014,3,Personal Injury,15507561,0.0000%
+BOS,2014,2,Unknown,15507561,0.0000%
+BOS,2015,105,Passenger Property Loss,16290362,0.0006%
+BOS,2015,87,Property Damage,16290362,0.0005%
+BOS,2015,3,Personal Injury,16290362,0.0000%
+BOS,2016,109,Passenger Property Loss,17759044,0.0006%
+BOS,2016,91,Property Damage,17759044,0.0005%
+BOS,2016,2,Personal Injury,17759044,0.0000%
+BOS,2016,1,Property Loss,17759044,0.0000%
+BOS,2016,1,Missed Flight,17759044,0.0000%
+BOS,2017,111,Passenger Property Loss,18759742,0.0006%
+BOS,2017,92,Property Damage,18759742,0.0005%
+BOS,2017,3,Unknown,18759742,0.0000%
+BOS,2017,1,Personal Injury,18759742,0.0000%
+BPT,2013,1,Passenger Property Loss,35790,0.0028%
+BPT,2014,1,Passenger Property Loss,38213,0.0026%
+BQK,2014,2,Passenger Property Loss,32579,0.0061%
+BQK,2015,1,Property Damage,34561,0.0029%
+BQK,2015,1,Passenger Property Loss,34561,0.0029%
+BQK,2016,3,Passenger Property Loss,36054,0.0083%
+BQK,2016,1,Property Damage,36054,0.0028%
+BQK,2016,1,Employee Loss (MPCECA),36054,0.0028%
+BQK,2017,1,Property Damage,36433,0.0027%
+BQK,2017,1,Passenger Property Loss,36433,0.0027%
+BQN,2013,1,Unknown,201453,0.0005%
+BQN,2013,1,Property Damage,201453,0.0005%
+BQN,2014,3,Passenger Property Loss,212239,0.0014%
+BQN,2014,1,Property Damage,212239,0.0005%
+BQN,2014,1,Unknown,212239,0.0005%
+BQN,2015,1,Property Damage,202197,0.0005%
+BQN,2015,1,Passenger Property Loss,202197,0.0005%
+BQN,2016,3,Property Damage,257871,0.0012%
+BQN,2016,1,Personal Injury,257871,0.0004%
+BQN,2016,1,Passenger Property Loss,257871,0.0004%
+BQN,2017,1,Passenger Property Loss,252693,0.0004%
+BRD,2014,1,Passenger Property Loss,17160,0.0058%
+BRD,2015,1,Property Damage,18200,0.0055%
+BRD,2016,2,Passenger Property Loss,18328,0.0109%
+BRD,2016,1,Property Damage,18328,0.0055%
+BRD,2017,1,Property Damage,21383,0.0047%
+BRL,2013,1,Passenger Property Loss,6439,0.0155%
+BRO,2013,1,Passenger Property Loss,100793,0.0010%
+BRO,2014,1,Property Damage,183604,0.0005%
+BRW,2017,1,Passenger Property Loss,45958,0.0022%
+BTM,2016,1,Property Damage,25890,0.0039%
+BTM,2017,1,Passenger Property Loss,27703,0.0036%
+BTR,2013,3,Passenger Property Loss,400712,0.0007%
+BTR,2013,1,Property Damage,400712,0.0002%
+BTR,2014,3,Property Damage,380153,0.0008%
+BTR,2014,2,Passenger Property Loss,380153,0.0005%
+BTR,2014,1,Personal Injury,380153,0.0003%
+BTR,2015,2,Property Damage,366102,0.0005%
+BTR,2015,1,Passenger Property Loss,366102,0.0003%
+BTR,2016,4,Passenger Property Loss,364200,0.0011%
+BTR,2017,2,Passenger Property Loss,377670,0.0005%
+BTR,2017,2,Property Damage,377670,0.0005%
+BTV,2013,7,Passenger Property Loss,606503,0.0012%
+BTV,2013,3,Property Damage,606503,0.0005%
+BTV,2013,1,Unknown,606503,0.0002%
+BTV,2014,7,Passenger Property Loss,602932,0.0012%
+BTV,2014,5,Property Damage,602932,0.0008%
+BTV,2015,5,Passenger Property Loss,581143,0.0009%
+BTV,2015,1,Property Damage,581143,0.0002%
+BTV,2016,4,Passenger Property Loss,593311,0.0007%
+BTV,2016,1,Property Damage,593311,0.0002%
+BTV,2017,2,Passenger Property Loss,578014,0.0003%
+BUF,2013,25,Passenger Property Loss,2567594,0.0010%
+BUF,2013,15,Property Damage,2567594,0.0006%
+BUF,2013,1,Personal Injury,2567594,0.0000%
+BUF,2014,15,Passenger Property Loss,2378469,0.0006%
+BUF,2014,12,Property Damage,2378469,0.0005%
+BUF,2015,12,Property Damage,2336431,0.0005%
+BUF,2015,10,Passenger Property Loss,2336431,0.0004%
+BUF,2016,12,Property Damage,2313724,0.0005%
+BUF,2016,3,Passenger Property Loss,2313724,0.0001%
+BUF,2017,13,Passenger Property Loss,2348512,0.0006%
+BUF,2017,13,Property Damage,2348512,0.0006%
+BUR,2013,12,Property Damage,1918011,0.0006%
+BUR,2013,6,Passenger Property Loss,1918011,0.0003%
+BUR,2013,2,Personal Injury,1918011,0.0001%
+BUR,2013,1,Complaint,1918011,0.0001%
+BUR,2014,11,Property Damage,1928491,0.0006%
+BUR,2014,8,Passenger Property Loss,1928491,0.0004%
+BUR,2015,8,Passenger Property Loss,1973897,0.0004%
+BUR,2015,7,Property Damage,1973897,0.0004%
+BUR,2016,14,Passenger Property Loss,2077892,0.0007%
+BUR,2016,10,Property Damage,2077892,0.0005%
+BUR,2016,1,Complaint,2077892,0.0000%
+BUR,2017,13,Property Damage,2402106,0.0005%
+BUR,2017,9,Passenger Property Loss,2402106,0.0004%
+BWI,2013,96,Passenger Property Loss,11132731,0.0009%
+BWI,2013,50,Property Damage,11132731,0.0004%
+BWI,2013,1,Unknown,11132731,0.0000%
+BWI,2014,74,Passenger Property Loss,11022200,0.0007%
+BWI,2014,52,Property Damage,11022200,0.0005%
+BWI,2014,1,Employee Loss (MPCECA),11022200,0.0000%
+BWI,2014,1,Unknown,11022200,0.0000%
+BWI,2014,1,Personal Injury,11022200,0.0000%
+BWI,2015,60,Passenger Property Loss,11738845,0.0005%
+BWI,2015,43,Property Damage,11738845,0.0004%
+BWI,2015,2,Unknown,11738845,0.0000%
+BWI,2016,82,Passenger Property Loss,12340972,0.0007%
+BWI,2016,39,Property Damage,12340972,0.0003%
+BWI,2016,1,Complaint,12340972,0.0000%
+BWI,2017,68,Passenger Property Loss,12976554,0.0005%
+BWI,2017,58,Property Damage,12976554,0.0004%
+BWI,2017,1,Personal Injury,12976554,0.0000%
+BWI,2017,1,Missed Flight,12976554,0.0000%
+BZN,2013,4,Passenger Property Loss,442075,0.0009%
+BZN,2013,3,Property Damage,442075,0.0007%
+BZN,2014,2,Passenger Property Loss,482683,0.0004%
+BZN,2014,2,Property Damage,482683,0.0004%
+BZN,2015,1,Passenger Property Loss,512042,0.0002%
+BZN,2016,3,Passenger Property Loss,553245,0.0005%
+BZN,2017,2,Property Damage,598712,0.0003%
+BZN,2017,1,Passenger Property Loss,598712,0.0002%
+CAE,2013,5,Passenger Property Loss,487180,0.0010%
+CAE,2013,1,Property Damage,487180,0.0002%
+CAE,2014,3,Property Damage,498151,0.0006%
+CAE,2014,1,Passenger Property Loss,498151,0.0002%
+CAE,2015,3,Property Damage,533575,0.0006%
+CAE,2015,1,Passenger Property Loss,533575,0.0002%
+CAE,2016,3,Passenger Property Loss,553658,0.0005%
+CAE,2016,2,Property Damage,553658,0.0004%
+CAE,2016,1,Property Loss,553658,0.0002%
+CAE,2017,2,Property Damage,510188,0.0004%
+CAE,2017,1,Passenger Property Loss,510188,0.0002%
+CAK,2013,6,Passenger Property Loss,851809,0.0007%
+CAK,2013,2,Property Damage,851809,0.0002%
+CAK,2014,5,Passenger Property Loss,771155,0.0006%
+CAK,2014,1,Property Damage,771155,0.0001%
+CAK,2015,4,Property Damage,759335,0.0005%
+CAK,2015,4,Passenger Property Loss,759335,0.0005%
+CAK,2016,4,Property Damage,685553,0.0006%
+CAK,2016,3,Passenger Property Loss,685553,0.0004%
+CAK,2017,4,Passenger Property Loss,619321,0.0006%
+CAK,2017,3,Property Damage,619321,0.0005%
+CDC,2013,1,Property Damage,13214,0.0076%
+CDC,2014,1,Passenger Property Loss,14362,0.0070%
+CDC,2014,1,Property Damage,14362,0.0070%
+CDV,2016,1,Passenger Property Loss,18649,0.0054%
+CEC,2013,1,Passenger Property Loss,12136,0.0082%
+CEZ,2013,1,Property Damage,8218,0.0122%
+CHA,2013,3,Property Damage,312873,0.0010%
+CHA,2013,2,Passenger Property Loss,312873,0.0006%
+CHA,2014,1,Property Damage,356077,0.0003%
+CHA,2014,1,Passenger Property Loss,356077,0.0003%
+CHA,2015,3,Property Damage,393680,0.0008%
+CHA,2015,1,Passenger Property Loss,393680,0.0003%
+CHA,2016,3,Property Damage,422442,0.0007%
+CHA,2016,1,Passenger Property Loss,422442,0.0002%
+CHA,2017,1,Property Damage,482113,0.0002%
+CHO,2013,8,Passenger Property Loss,230699,0.0035%
+CHO,2013,1,Complaint,230699,0.0004%
+CHO,2013,1,Property Damage,230699,0.0004%
+CHO,2016,2,Property Damage,295930,0.0007%
+CHO,2017,2,Property Damage,334347,0.0006%
+CHS,2013,14,Passenger Property Loss,1441415,0.0010%
+CHS,2013,7,Property Damage,1441415,0.0005%
+CHS,2014,11,Passenger Property Loss,1539326,0.0007%
+CHS,2014,6,Property Damage,1539326,0.0004%
+CHS,2015,19,Passenger Property Loss,1669988,0.0011%
+CHS,2015,10,Property Damage,1669988,0.0006%
+CHS,2016,15,Property Damage,1811695,0.0008%
+CHS,2016,8,Passenger Property Loss,1811695,0.0004%
+CHS,2017,14,Property Damage,1945699,0.0007%
+CHS,2017,8,Passenger Property Loss,1945699,0.0004%
+CHS,2017,1,Passenger Theft,1945699,0.0001%
+CIC,2013,1,Passenger Property Loss,16835,0.0059%
+CID,2013,5,Property Damage,520360,0.0010%
+CID,2013,3,Passenger Property Loss,520360,0.0006%
+CID,2013,1,Personal Injury,520360,0.0002%
+CID,2014,5,Property Damage,570571,0.0009%
+CID,2014,1,Passenger Property Loss,570571,0.0002%
+CID,2015,2,Passenger Property Loss,557383,0.0004%
+CID,2015,1,Property Damage,557383,0.0002%
+CID,2016,3,Passenger Property Loss,547786,0.0005%
+CID,2016,2,Property Damage,547786,0.0004%
+CID,2017,1,Passenger Property Loss,574636,0.0002%
+CIU,2016,1,Property Damage,20974,0.0048%
+CIU,2016,1,Passenger Property Loss,20974,0.0048%
+CIU,2017,1,Property Damage,22261,0.0045%
+CKB,2013,1,Passenger Property Loss,10831,0.0092%
+CKB,2015,1,Unknown,24087,0.0042%
+CKB,2015,1,Passenger Property Loss,24087,0.0042%
+CKB,2015,1,Property Damage,24087,0.0042%
+CKB,2017,1,Passenger Property Loss,25105,0.0040%
+CKB,2017,1,Property Damage,25105,0.0040%
+CLE,2013,14,Passenger Property Loss,4375448,0.0003%
+CLE,2013,8,Property Damage,4375448,0.0002%
+CLE,2014,31,Passenger Property Loss,3686315,0.0008%
+CLE,2014,24,Property Damage,3686315,0.0007%
+CLE,2014,1,Personal Injury,3686315,0.0000%
+CLE,2015,31,Passenger Property Loss,3916922,0.0008%
+CLE,2015,24,Property Damage,3916922,0.0006%
+CLE,2016,40,Passenger Property Loss,4083476,0.0010%
+CLE,2016,18,Property Damage,4083476,0.0004%
+CLE,2016,2,Property Loss,4083476,0.0000%
+CLE,2016,2,Personal Injury,4083476,0.0000%
+CLE,2017,42,Passenger Property Loss,4446555,0.0009%
+CLE,2017,32,Property Damage,4446555,0.0007%
+CLL,2013,2,Passenger Property Loss,87409,0.0023%
+CLL,2013,1,Property Damage,87409,0.0011%
+CLL,2014,2,Property Damage,91127,0.0022%
+CLL,2014,2,Passenger Property Loss,91127,0.0022%
+CLL,2015,1,Passenger Property Loss,89844,0.0011%
+CLL,2016,2,Property Damage,78907,0.0025%
+CLT,2013,87,Passenger Property Loss,21346601,0.0004%
+CLT,2013,43,Property Damage,21346601,0.0002%
+CLT,2013,1,Unknown,21346601,0.0000%
+CLT,2013,1,Complaint,21346601,0.0000%
+CLT,2014,59,Property Damage,21537725,0.0003%
+CLT,2014,47,Passenger Property Loss,21537725,0.0002%
+CLT,2014,2,Personal Injury,21537725,0.0000%
+CLT,2014,1,Employee Loss (MPCECA),21537725,0.0000%
+CLT,2015,52,Property Damage,21913166,0.0002%
+CLT,2015,45,Passenger Property Loss,21913166,0.0002%
+CLT,2016,91,Passenger Property Loss,21511880,0.0004%
+CLT,2016,47,Property Damage,21511880,0.0002%
+CLT,2016,1,Personal Injury,21511880,0.0000%
+CLT,2016,1,Missed Flight,21511880,0.0000%
+CLT,2017,54,Passenger Property Loss,22011251,0.0002%
+CLT,2017,48,Property Damage,22011251,0.0002%
+CLT,2017,1,Unknown,22011251,0.0000%
+CMH,2013,16,Passenger Property Loss,3063822,0.0005%
+CMH,2013,13,Property Damage,3063822,0.0004%
+CMH,2013,1,Personal Injury,3063822,0.0000%
+CMH,2014,19,Passenger Property Loss,3115501,0.0006%
+CMH,2014,15,Property Damage,3115501,0.0005%
+CMH,2015,21,Passenger Property Loss,3312496,0.0006%
+CMH,2015,13,Property Damage,3312496,0.0004%
+CMH,2015,2,Personal Injury,3312496,0.0001%
+CMH,2016,17,Passenger Property Loss,3567864,0.0005%
+CMH,2016,13,Property Damage,3567864,0.0004%
+CMH,2017,15,Passenger Property Loss,3689570,0.0004%
+CMH,2017,14,Property Damage,3689570,0.0004%
+CMH,2017,1,Unknown,3689570,0.0000%
+CMI,2014,1,Property Damage,95351,0.0010%
+CMI,2015,2,Passenger Property Loss,89836,0.0022%
+CMI,2016,1,Passenger Property Loss,89318,0.0011%
+CMX,2014,1,Property Damage,23843,0.0042%
+CMX,2016,1,Passenger Property Loss,25439,0.0039%
+CMX,2017,1,Passenger Property Loss,24843,0.0040%
+COD,2013,1,Property Damage,31140,0.0032%
+COD,2014,1,Passenger Property Loss,32317,0.0031%
+COD,2015,1,Passenger Property Loss,33278,0.0030%
+COD,2016,1,Property Damage,40340,0.0025%
+COS,2013,11,Passenger Property Loss,657962,0.0017%
+COS,2013,7,Property Damage,657962,0.0011%
+COS,2014,3,Property Damage,624317,0.0005%
+COS,2014,3,Passenger Property Loss,624317,0.0005%
+COS,2015,4,Property Damage,593246,0.0007%
+COS,2015,2,Passenger Property Loss,593246,0.0003%
+COS,2016,6,Property Damage,657694,0.0009%
+COS,2016,3,Passenger Property Loss,657694,0.0005%
+COS,2017,3,Passenger Property Loss,815839,0.0004%
+COS,2017,3,Property Damage,815839,0.0004%
+COU,2014,1,Property Damage,55556,0.0018%
+COU,2014,1,Passenger Property Loss,55556,0.0018%
+COU,2016,1,Passenger Property Loss,65014,0.0015%
+COU,2017,1,Passenger Property Loss,88650,0.0011%
+COU,2017,1,Property Damage,88650,0.0011%
+CPR,2013,1,Motor Vehicle,98625,0.0010%
+CPR,2014,1,Passenger Property Loss,103397,0.0010%
+CPR,2014,1,Property Damage,103397,0.0010%
+CPR,2016,1,Property Damage,92805,0.0011%
+CPR,2016,1,Passenger Property Loss,92805,0.0011%
+CPR,2017,1,Property Damage,96843,0.0010%
+CRP,2013,3,Passenger Property Loss,317667,0.0009%
+CRP,2013,3,Property Damage,317667,0.0009%
+CRP,2014,3,Property Damage,347977,0.0009%
+CRP,2014,3,Passenger Property Loss,347977,0.0009%
+CRP,2015,3,Property Damage,338312,0.0009%
+CRP,2015,2,Passenger Property Loss,338312,0.0006%
+CRP,2016,2,Passenger Property Loss,325815,0.0006%
+CRP,2016,1,Property Damage,325815,0.0003%
+CRP,2017,1,Passenger Property Loss,320263,0.0003%
+CRP,2017,1,Property Damage,320263,0.0003%
+CRW,2013,1,Passenger Property Loss,250509,0.0004%
+CRW,2014,2,Passenger Property Loss,241566,0.0008%
+CRW,2015,1,Property Damage,225170,0.0004%
+CSG,2013,1,Passenger Property Loss,59675,0.0017%
+CSG,2014,1,Property Damage,50883,0.0020%
+CSG,2015,1,Property Damage,51790,0.0019%
+CSG,2016,1,Passenger Property Loss,44813,0.0022%
+CSG,2017,3,Passenger Property Loss,49773,0.0060%
+CSG,2017,2,Property Damage,49773,0.0040%
+CVG,2013,18,Passenger Property Loss,2776377,0.0006%
+CVG,2013,14,Property Damage,2776377,0.0005%
+CVG,2013,1,Personal Injury,2776377,0.0000%
+CVG,2014,13,Passenger Property Loss,2875844,0.0005%
+CVG,2014,11,Property Damage,2875844,0.0004%
+CVG,2015,17,Passenger Property Loss,3054991,0.0006%
+CVG,2015,9,Property Damage,3054991,0.0003%
+CVG,2015,1,Personal Injury,3054991,0.0000%
+CVG,2015,1,Unknown,3054991,0.0000%
+CVG,2016,14,Passenger Property Loss,3269979,0.0004%
+CVG,2016,6,Property Damage,3269979,0.0002%
+CVG,2016,1,Personal Injury,3269979,0.0000%
+CVG,2017,7,Property Damage,3791989,0.0002%
+CVG,2017,7,Passenger Property Loss,3791989,0.0002%
+CVG,2017,1,Personal Injury,3791989,0.0000%
+CWA,2013,1,Passenger Property Loss,123797,0.0008%
+CWA,2013,1,Property Damage,123797,0.0008%
+CWA,2014,1,Property Damage,125395,0.0008%
+CWA,2014,1,Passenger Property Loss,125395,0.0008%
+CWA,2015,1,Passenger Property Loss,126016,0.0008%
+CWA,2016,1,Property Damage,119222,0.0008%
+CYS,2014,1,Passenger Property Loss,5794,0.0173%
+CYS,2017,1,Passenger Property Loss,,
+DAB,2013,2,Passenger Property Loss,293843,0.0007%
+DAB,2013,1,Property Damage,293843,0.0003%
+DAB,2014,3,Passenger Property Loss,306542,0.0010%
+DAB,2014,1,Property Damage,306542,0.0003%
+DAB,2015,5,Property Damage,306360,0.0016%
+DAB,2015,2,Passenger Property Loss,306360,0.0007%
+DAB,2015,1,Personal Injury,306360,0.0003%
+DAB,2016,2,Property Damage,342495,0.0006%
+DAB,2016,1,Passenger Property Loss,342495,0.0003%
+DAB,2017,2,Passenger Property Loss,346470,0.0006%
+DAB,2017,1,Property Damage,346470,0.0003%
+DAB,2017,1,Not Provided,346470,0.0003%
+DAL,2013,15,Property Damage,4023779,0.0004%
+DAL,2013,15,Passenger Property Loss,4023779,0.0004%
+DAL,2013,1,Personal Injury,4023779,0.0000%
+DAL,2014,24,Passenger Property Loss,4522341,0.0005%
+DAL,2014,12,Property Damage,4522341,0.0003%
+DAL,2014,1,Personal Injury,4522341,0.0000%
+DAL,2015,30,Property Damage,7040950,0.0004%
+DAL,2015,30,Passenger Property Loss,7040950,0.0004%
+DAL,2015,2,Personal Injury,7040950,0.0000%
+DAL,2016,29,Passenger Property Loss,7554596,0.0004%
+DAL,2016,24,Property Damage,7554596,0.0003%
+DAL,2016,1,Missed Flight,7554596,0.0000%
+DAL,2016,1,Employee Loss (MPCECA),7554596,0.0000%
+DAL,2017,29,Passenger Property Loss,7593361,0.0004%
+DAL,2017,28,Property Damage,7593361,0.0004%
+DAL,2017,2,Personal Injury,7593361,0.0000%
+DAY,2013,5,Property Damage,1244841,0.0004%
+DAY,2013,3,Passenger Property Loss,1244841,0.0002%
+DAY,2014,5,Passenger Property Loss,1120842,0.0004%
+DAY,2014,4,Property Damage,1120842,0.0004%
+DAY,2015,8,Passenger Property Loss,1041759,0.0008%
+DAY,2015,5,Property Damage,1041759,0.0005%
+DAY,2016,7,Property Damage,1019922,0.0007%
+DAY,2016,3,Passenger Property Loss,1019922,0.0003%
+DAY,2016,1,Complaint,1019922,0.0001%
+DAY,2017,5,Property Damage,935373,0.0005%
+DAY,2017,1,Passenger Property Loss,935373,0.0001%
+DBQ,2015,1,Property Damage,38248,0.0026%
+DBQ,2017,2,Property Damage,40324,0.0050%
+DBQ,2017,1,Passenger Property Loss,40324,0.0025%
+DCA,2013,51,Passenger Property Loss,9838034,0.0005%
+DCA,2013,28,Property Damage,9838034,0.0003%
+DCA,2013,1,Personal Injury,9838034,0.0000%
+DCA,2014,43,Passenger Property Loss,10115546,0.0004%
+DCA,2014,36,Property Damage,10115546,0.0004%
+DCA,2014,2,Personal Injury,10115546,0.0000%
+DCA,2015,52,Passenger Property Loss,11242375,0.0005%
+DCA,2015,39,Property Damage,11242375,0.0003%
+DCA,2015,1,Unknown,11242375,0.0000%
+DCA,2016,49,Passenger Property Loss,11470854,0.0004%
+DCA,2016,44,Property Damage,11470854,0.0004%
+DCA,2016,1,Personal Injury,11470854,0.0000%
+DCA,2017,50,Passenger Property Loss,11506310,0.0004%
+DCA,2017,48,Property Damage,11506310,0.0004%
+DCA,2017,2,Unknown,11506310,0.0000%
+DEN,2013,118,Passenger Property Loss,25496885,0.0005%
+DEN,2013,80,Property Damage,25496885,0.0003%
+DEN,2013,3,Personal Injury,25496885,0.0000%
+DEN,2013,1,Motor Vehicle,25496885,0.0000%
+DEN,2014,87,Passenger Property Loss,26000591,0.0003%
+DEN,2014,77,Property Damage,26000591,0.0003%
+DEN,2014,3,Personal Injury,26000591,0.0000%
+DEN,2015,89,Passenger Property Loss,26280043,0.0003%
+DEN,2015,68,Property Damage,26280043,0.0003%
+DEN,2015,2,Personal Injury,26280043,0.0000%
+DEN,2015,2,Complaint,26280043,0.0000%
+DEN,2016,93,Passenger Property Loss,28267394,0.0003%
+DEN,2016,63,Property Damage,28267394,0.0002%
+DEN,2016,1,Personal Injury,28267394,0.0000%
+DEN,2016,1,Missed Flight,28267394,0.0000%
+DEN,2017,86,Property Damage,29809097,0.0003%
+DEN,2017,73,Passenger Property Loss,29809097,0.0002%
+DEN,2017,3,Personal Injury,29809097,0.0000%
+DEN,2017,1,Employee Loss (MPCECA),29809097,0.0000%
+DFW,2013,128,Passenger Property Loss,29038128,0.0004%
+DFW,2013,79,Property Damage,29038128,0.0003%
+DFW,2013,4,Unknown,29038128,0.0000%
+DFW,2013,3,Personal Injury,29038128,0.0000%
+DFW,2014,99,Passenger Property Loss,30804567,0.0003%
+DFW,2014,92,Property Damage,30804567,0.0003%
+DFW,2014,2,Unknown,30804567,0.0000%
+DFW,2014,2,Personal Injury,30804567,0.0000%
+DFW,2015,82,Passenger Property Loss,31589839,0.0003%
+DFW,2015,78,Property Damage,31589839,0.0002%
+DFW,2015,2,Unknown,31589839,0.0000%
+DFW,2015,1,Personal Injury,31589839,0.0000%
+DFW,2016,109,Passenger Property Loss,31283579,0.0003%
+DFW,2016,99,Property Damage,31283579,0.0003%
+DFW,2016,5,Personal Injury,31283579,0.0000%
+DFW,2016,2,Missed Flight,31283579,0.0000%
+DFW,2016,1,Unknown,31283579,0.0000%
+DFW,2016,1,Property Loss,31283579,0.0000%
+DFW,2016,1,Motor Vehicle,31283579,0.0000%
+DFW,2017,120,Passenger Property Loss,31816933,0.0004%
+DFW,2017,102,Property Damage,31816933,0.0003%
+DFW,2017,5,Personal Injury,31816933,0.0000%
+DFW,2017,1,Unknown,31816933,0.0000%
+DFW,2017,1,Missed Flight,31816933,0.0000%
+DHN,2013,1,Property Damage,48423,0.0021%
+DHN,2015,4,Passenger Property Loss,46792,0.0085%
+DHN,2015,2,Property Damage,46792,0.0043%
+DIK,2013,1,Passenger Property Loss,34980,0.0029%
+DIK,2014,1,Property Damage,58987,0.0017%
+DIK,2015,1,Passenger Property Loss,41925,0.0024%
+DIK,2016,1,Passenger Property Loss,16822,0.0059%
+DIK,2017,1,Passenger Property Loss,18963,0.0053%
+DLG,2017,1,Property Damage,28895,0.0035%
+DLH,2014,3,Passenger Property Loss,153583,0.0020%
+DLH,2014,1,Property Damage,153583,0.0007%
+DLH,2015,1,Passenger Property Loss,131128,0.0008%
+DRO,2013,4,Passenger Property Loss,192797,0.0021%
+DRO,2015,2,Passenger Property Loss,186800,0.0011%
+DRO,2015,1,Property Damage,186800,0.0005%
+DRO,2016,1,Property Damage,187789,0.0005%
+DRO,2016,1,Passenger Property Loss,187789,0.0005%
+DRO,2017,2,Property Damage,186917,0.0011%
+DRO,2017,2,Passenger Property Loss,186917,0.0011%
+DSM,2013,5,Property Damage,1078496,0.0005%
+DSM,2013,5,Passenger Property Loss,1078496,0.0005%
+DSM,2014,11,Property Damage,1141172,0.0010%
+DSM,2014,4,Passenger Property Loss,1141172,0.0004%
+DSM,2015,6,Passenger Property Loss,1156462,0.0005%
+DSM,2015,3,Property Damage,1156462,0.0003%
+DSM,2016,7,Property Damage,1216357,0.0006%
+DSM,2016,6,Passenger Property Loss,1216357,0.0005%
+DSM,2017,5,Passenger Property Loss,1257521,0.0004%
+DSM,2017,1,Property Damage,1257521,0.0001%
+DSM,2017,1,Unknown,1257521,0.0001%
+DTW,2013,39,Passenger Property Loss,15683523,0.0002%
+DTW,2013,20,Property Damage,15683523,0.0001%
+DTW,2014,42,Passenger Property Loss,15775941,0.0003%
+DTW,2014,31,Property Damage,15775941,0.0002%
+DTW,2014,1,Unknown,15775941,0.0000%
+DTW,2015,34,Passenger Property Loss,16255520,0.0002%
+DTW,2015,22,Property Damage,16255520,0.0001%
+DTW,2015,1,Personal Injury,16255520,0.0000%
+DTW,2016,60,Passenger Property Loss,16847135,0.0004%
+DTW,2016,39,Property Damage,16847135,0.0002%
+DTW,2016,2,Personal Injury,16847135,0.0000%
+DTW,2016,1,Missed Flight,16847135,0.0000%
+DTW,2016,1,Property Loss,16847135,0.0000%
+DTW,2016,1,Complaint,16847135,0.0000%
+DTW,2017,68,Passenger Property Loss,17036092,0.0004%
+DTW,2017,40,Property Damage,17036092,0.0002%
+DTW,2017,1,Passenger Theft,17036092,0.0000%
+DVL,2016,1,Property Damage,8209,0.0122%
+EAT,2013,2,Property Damage,52051,0.0038%
+EAT,2013,1,Passenger Property Loss,52051,0.0019%
+EAT,2014,1,Property Damage,56589,0.0018%
+EAT,2014,1,Passenger Property Loss,56589,0.0018%
+EAT,2015,2,Property Damage,62319,0.0032%
+EAT,2015,2,Passenger Property Loss,62319,0.0032%
+EAT,2016,1,Passenger Property Loss,60068,0.0017%
+EAU,2013,1,Property Damage,21677,0.0046%
+EAU,2014,1,Property Damage,20757,0.0048%
+EAU,2015,1,Passenger Property Loss,19332,0.0052%
+EAU,2016,1,Property Damage,21304,0.0047%
+EAU,2016,1,Passenger Property Loss,21304,0.0047%
+EAU,2017,1,Property Damage,22822,0.0044%
+ECP,2013,2,Passenger Property Loss,391763,0.0005%
+ECP,2013,2,Property Damage,391763,0.0005%
+ECP,2014,3,Passenger Property Loss,394570,0.0008%
+ECP,2015,2,Passenger Property Loss,428704,0.0005%
+ECP,2016,4,Property Damage,434302,0.0009%
+ECP,2016,2,Passenger Property Loss,434302,0.0005%
+ECP,2017,5,Property Damage,454712,0.0011%
+ECP,2017,4,Passenger Property Loss,454712,0.0009%
+EGE,2013,3,Passenger Property Loss,167166,0.0018%
+EGE,2014,3,Passenger Property Loss,165004,0.0018%
+EGE,2014,2,Property Damage,165004,0.0012%
+EGE,2015,2,Passenger Property Loss,156937,0.0013%
+EGE,2015,2,Property Damage,156937,0.0013%
+EGE,2017,3,Passenger Property Loss,154577,0.0019%
+EGE,2017,1,Property Damage,154577,0.0006%
+EKO,2014,1,Property Damage,18200,0.0055%
+EKO,2014,1,Passenger Property Loss,18200,0.0055%
+EKO,2015,1,Property Damage,13701,0.0073%
+EKO,2015,1,Passenger Property Loss,13701,0.0073%
+EKO,2017,1,Passenger Property Loss,17115,0.0058%
+ELM,2013,1,Passenger Property Loss,129749,0.0008%
+ELM,2014,3,Property Damage,159136,0.0019%
+ELM,2015,3,Property Damage,155936,0.0019%
+ELM,2015,2,Passenger Property Loss,155936,0.0013%
+ELM,2016,1,Passenger Property Loss,139583,0.0007%
+ELP,2013,8,Passenger Property Loss,1363102,0.0006%
+ELP,2013,4,Property Damage,1363102,0.0003%
+ELP,2013,1,Unknown,1363102,0.0001%
+ELP,2014,8,Passenger Property Loss,1395363,0.0006%
+ELP,2014,5,Property Damage,1395363,0.0004%
+ELP,2015,12,Property Damage,1381392,0.0009%
+ELP,2015,5,Passenger Property Loss,1381392,0.0004%
+ELP,2016,13,Passenger Property Loss,1414376,0.0009%
+ELP,2016,8,Property Damage,1414376,0.0006%
+ELP,2017,10,Property Damage,1450115,0.0007%
+ELP,2017,5,Passenger Property Loss,1450115,0.0003%
+ENA,2013,1,Passenger Property Loss,99821,0.0010%
+ENV,2013,1,Property Damage,,
+ENV,2014,1,Passenger Property Loss,,
+ENV,2014,2,Property Damage,,
+ENV,2017,1,Property Damage,,
+ENV,2017,2,Passenger Property Loss,,
+ERI,2013,1,Property Damage,109520,0.0009%
+ERI,2014,1,Property Damage,97063,0.0010%
+ERI,2015,1,Passenger Property Loss,88953,0.0011%
+ERI,2015,1,Property Damage,88953,0.0011%
+ERI,2017,1,Property Damage,85631,0.0012%
+ESC,2013,2,Passenger Property Loss,15110,0.0132%
+ESC,2013,1,Property Damage,15110,0.0066%
+ESC,2017,1,Property Damage,16781,0.0060%
+EUG,2013,8,Passenger Property Loss,434095,0.0018%
+EUG,2013,7,Property Damage,434095,0.0016%
+EUG,2014,3,Property Damage,440198,0.0007%
+EUG,2014,1,Complaint,440198,0.0002%
+EUG,2014,1,Passenger Property Loss,440198,0.0002%
+EUG,2015,3,Property Damage,447813,0.0007%
+EUG,2015,1,Passenger Property Loss,447813,0.0002%
+EUG,2016,2,Property Damage,483224,0.0004%
+EUG,2017,3,Passenger Property Loss,529149,0.0006%
+EUG,2017,1,Property Damage,529149,0.0002%
+EVV,2013,1,Passenger Property Loss,161279,0.0006%
+EVV,2014,1,Passenger Property Loss,171212,0.0006%
+EVV,2015,1,Property Damage,203350,0.0005%
+EVV,2016,2,Property Damage,204352,0.0010%
+EVV,2017,2,Passenger Property Loss,213205,0.0009%
+EWN,2013,1,Passenger Property Loss,121479,0.0008%
+EWN,2013,1,Property Damage,121479,0.0008%
+EWN,2014,3,Property Damage,118749,0.0025%
+EWN,2015,2,Property Damage,109237,0.0018%
+EWN,2015,1,Passenger Property Loss,109237,0.0009%
+EWN,2016,1,Property Damage,106110,0.0009%
+EWN,2017,2,Passenger Property Loss,111147,0.0018%
+EWR,2013,219,Passenger Property Loss,17546506,0.0012%
+EWR,2013,130,Property Damage,17546506,0.0007%
+EWR,2013,2,Personal Injury,17546506,0.0000%
+EWR,2013,1,Unknown,17546506,0.0000%
+EWR,2013,1,Complaint,17546506,0.0000%
+EWR,2014,201,Passenger Property Loss,17773405,0.0011%
+EWR,2014,115,Property Damage,17773405,0.0006%
+EWR,2014,4,Personal Injury,17773405,0.0000%
+EWR,2014,2,Unknown,17773405,0.0000%
+EWR,2015,177,Passenger Property Loss,18684818,0.0009%
+EWR,2015,107,Property Damage,18684818,0.0006%
+EWR,2015,1,Motor Vehicle,18684818,0.0000%
+EWR,2015,1,Complaint,18684818,0.0000%
+EWR,2016,169,Passenger Property Loss,19923009,0.0008%
+EWR,2016,124,Property Damage,19923009,0.0006%
+EWR,2016,2,Personal Injury,19923009,0.0000%
+EWR,2016,1,Property Loss,19923009,0.0000%
+EWR,2016,1,Complaint,19923009,0.0000%
+EWR,2017,159,Passenger Property Loss,21571198,0.0007%
+EWR,2017,132,Property Damage,21571198,0.0006%
+EWR,2017,3,Unknown,21571198,0.0000%
+EWR,2017,2,Missed Flight,21571198,0.0000%
+EWR,2017,2,Personal Injury,21571198,0.0000%
+EYW,2013,1,Property Damage,402842,0.0002%
+EYW,2013,1,Passenger Property Loss,402842,0.0002%
+EYW,2014,1,Passenger Property Loss,383776,0.0003%
+EYW,2015,1,Passenger Property Loss,362108,0.0003%
+EYW,2016,1,Passenger Property Loss,380505,0.0003%
+EYW,2017,1,Passenger Property Loss,392381,0.0003%
+F,2013,66,Passenger Property Loss,,
+F,2013,20,Property Damage,,
+F,2013,1,Unknown,,
+F,2014,75,Passenger Property Loss,,
+F,2014,1,Complaint,,
+F,2014,39,Property Damage,,
+F,2014,1,Unknown,,
+F,2015,1,Personal Injury,,
+F,2015,58,Passenger Property Loss,,
+F,2015,31,Property Damage,,
+F,2015,1,Complaint,,
+F,2015,1,Unknown,,
+F,2016,1,Property Loss,,
+F,2016,28,Property Damage,,
+F,2016,54,Passenger Property Loss,,
+F,2017,24,Property Damage,,
+F,2017,59,Passenger Property Loss,,
+FAI,2013,4,Passenger Property Loss,457372,0.0009%
+FAI,2013,4,Property Damage,457372,0.0009%
+FAI,2014,3,Passenger Property Loss,459769,0.0007%
+FAI,2014,1,Property Damage,459769,0.0002%
+FAI,2015,3,Passenger Property Loss,493443,0.0006%
+FAI,2016,8,Property Damage,538881,0.0015%
+FAI,2016,4,Passenger Property Loss,538881,0.0007%
+FAI,2017,6,Passenger Property Loss,543839,0.0011%
+FAI,2017,2,Property Damage,543839,0.0004%
+FAR,2013,4,Passenger Property Loss,403919,0.0010%
+FAR,2014,5,Property Damage,456372,0.0011%
+FAR,2014,1,Passenger Property Loss,456372,0.0002%
+FAR,2016,3,Passenger Property Loss,402976,0.0007%
+FAR,2016,1,Property Damage,402976,0.0002%
+FAR,2017,1,Property Damage,404937,0.0002%
+FAR,2017,1,Passenger Property Loss,404937,0.0002%
+FAT,2013,4,Passenger Property Loss,684849,0.0006%
+FAT,2013,3,Property Damage,684849,0.0004%
+FAT,2013,1,Unknown,684849,0.0001%
+FAT,2014,4,Passenger Property Loss,710353,0.0006%
+FAT,2014,1,Property Damage,710353,0.0001%
+FAT,2015,6,Property Damage,695008,0.0009%
+FAT,2015,5,Passenger Property Loss,695008,0.0007%
+FAT,2016,3,Property Damage,761298,0.0004%
+FAT,2017,2,Property Damage,755140,0.0003%
+FAT,2017,2,Passenger Property Loss,755140,0.0003%
+FAY,2013,1,Passenger Property Loss,244345,0.0004%
+FAY,2014,4,Property Damage,230436,0.0017%
+FAY,2014,1,Passenger Property Loss,230436,0.0004%
+FAY,2015,3,Property Damage,220339,0.0014%
+FAY,2016,1,Property Damage,224541,0.0004%
+FAY,2017,3,Property Damage,238568,0.0013%
+FLG,2013,1,Property Damage,58323,0.0017%
+FLG,2014,1,Passenger Property Loss,68123,0.0015%
+FLG,2014,1,Property Damage,68123,0.0015%
+FLG,2017,2,Passenger Property Loss,70710,0.0028%
+FLG,2017,1,Property Damage,70710,0.0014%
+FLL,2013,118,Passenger Property Loss,11538140,0.0010%
+FLL,2013,73,Property Damage,11538140,0.0006%
+FLL,2013,4,Personal Injury,11538140,0.0000%
+FLL,2013,1,Unknown,11538140,0.0000%
+FLL,2014,109,Passenger Property Loss,12031860,0.0009%
+FLL,2014,88,Property Damage,12031860,0.0007%
+FLL,2014,2,Personal Injury,12031860,0.0000%
+FLL,2015,78,Passenger Property Loss,13061632,0.0006%
+FLL,2015,73,Property Damage,13061632,0.0006%
+FLL,2015,1,Employee Loss (MPCECA),13061632,0.0000%
+FLL,2016,115,Passenger Property Loss,14263270,0.0008%
+FLL,2016,88,Property Damage,14263270,0.0006%
+FLL,2016,2,Personal Injury,14263270,0.0000%
+FLL,2016,1,Complaint,14263270,0.0000%
+FLL,2017,135,Passenger Property Loss,15817043,0.0009%
+FLL,2017,100,Property Damage,15817043,0.0006%
+FLL,2017,2,Unknown,15817043,0.0000%
+FLL,2017,1,Passenger Theft,15817043,0.0000%
+FLL,2017,1,Personal Injury,15817043,0.0000%
+FLO,2013,1,Property Damage,59894,0.0017%
+FLO,2013,1,Passenger Property Loss,59894,0.0017%
+FLO,2014,1,Passenger Property Loss,59314,0.0017%
+FLO,2016,1,Passenger Property Loss,45300,0.0022%
+FLO,2017,1,Passenger Property Loss,42058,0.0024%
+FNT,2013,5,Passenger Property Loss,398132,0.0013%
+FNT,2013,1,Property Damage,398132,0.0003%
+FNT,2014,3,Passenger Property Loss,421129,0.0007%
+FNT,2014,1,Property Damage,421129,0.0002%
+FNT,2016,1,Property Damage,398508,0.0003%
+FNT,2016,1,Passenger Property Loss,398508,0.0003%
+FNT,2017,3,Passenger Property Loss,393549,0.0008%
+FSD,2015,1,Property Damage,493530,0.0002%
+FSD,2015,1,Passenger Property Loss,493530,0.0002%
+FSD,2016,2,Passenger Property Loss,510105,0.0004%
+FSD,2016,1,Property Damage,510105,0.0002%
+FSD,2017,2,Passenger Property Loss,540877,0.0004%
+FSM,2013,2,Property Damage,82742,0.0024%
+FSM,2015,1,Property Damage,84136,0.0012%
+FSM,2016,1,Property Damage,83920,0.0012%
+FWA,2013,1,Passenger Property Loss,294968,0.0003%
+FWA,2013,1,Property Damage,294968,0.0003%
+FWA,2014,3,Passenger Property Loss,323252,0.0009%
+FWA,2014,1,Property Damage,323252,0.0003%
+FWA,2015,2,Passenger Property Loss,353876,0.0006%
+FWA,2015,1,Property Damage,353876,0.0003%
+FWA,2016,1,Property Damage,360369,0.0003%
+FWA,2017,3,Property Damage,359658,0.0008%
+FWA,2017,2,Passenger Property Loss,359658,0.0006%
+GBD,2013,2,Passenger Property Loss,,
+GCC,2014,1,Motor Vehicle,27173,0.0037%
+GCK,2014,1,Passenger Property Loss,26428,0.0038%
+GCK,2015,1,Passenger Property Loss,27152,0.0037%
+GCK,2017,1,Property Damage,26687,0.0037%
+GCK,2017,1,Passenger Property Loss,26687,0.0037%
+GEG,2013,22,Passenger Property Loss,1417731,0.0016%
+GEG,2013,13,Property Damage,1417731,0.0009%
+GEG,2014,16,Property Damage,1445572,0.0011%
+GEG,2014,6,Passenger Property Loss,1445572,0.0004%
+GEG,2015,9,Property Damage,1515351,0.0006%
+GEG,2015,6,Passenger Property Loss,1515351,0.0004%
+GEG,2016,13,Property Damage,1570652,0.0008%
+GEG,2016,9,Passenger Property Loss,1570652,0.0006%
+GEG,2017,13,Passenger Property Loss,1698433,0.0008%
+GEG,2017,5,Property Damage,1698433,0.0003%
+GFK,2013,2,Passenger Property Loss,148665,0.0013%
+GFK,2013,1,Property Damage,148665,0.0007%
+GFK,2014,4,Passenger Property Loss,146003,0.0027%
+GFK,2015,2,Passenger Property Loss,145785,0.0014%
+GGG,2013,1,Passenger Property Loss,20870,0.0048%
+GGG,2013,1,Property Damage,20870,0.0048%
+GGG,2015,2,Passenger Property Loss,20968,0.0095%
+GGG,2015,1,Property Damage,20968,0.0048%
+GGG,2017,2,Passenger Property Loss,19261,0.0104%
+GGG,2017,1,Property Damage,19261,0.0052%
+GJT,2013,2,Passenger Property Loss,211091,0.0009%
+GJT,2014,1,Property Damage,214313,0.0005%
+GJT,2014,1,Passenger Property Loss,214313,0.0005%
+GJT,2015,2,Property Damage,214404,0.0009%
+GJT,2015,1,Passenger Property Loss,214404,0.0005%
+GJT,2016,4,Property Damage,218319,0.0018%
+GJT,2017,1,Passenger Property Loss,223452,0.0004%
+GJT,2017,1,Property Damage,223452,0.0004%
+GLH,2013,2,Property Damage,,
+GNV,2013,1,Passenger Property Loss,198388,0.0005%
+GNV,2013,1,Property Damage,198388,0.0005%
+GNV,2014,1,Passenger Property Loss,206820,0.0005%
+GNV,2014,1,Property Damage,206820,0.0005%
+GNV,2016,2,Property Damage,206330,0.0010%
+GNV,2017,1,Property Damage,218578,0.0005%
+GNV,2017,1,Passenger Property Loss,218578,0.0005%
+GPI,2013,4,Property Damage,199707,0.0020%
+GPI,2013,1,Passenger Property Loss,199707,0.0005%
+GPI,2014,3,Passenger Property Loss,224820,0.0013%
+GPI,2014,1,Property Damage,224820,0.0004%
+GPT,2013,3,Property Damage,369597,0.0008%
+GPT,2013,2,Passenger Property Loss,369597,0.0005%
+GPT,2014,2,Passenger Property Loss,325437,0.0006%
+GPT,2014,2,Property Damage,325437,0.0006%
+GPT,2015,5,Passenger Property Loss,317154,0.0016%
+GPT,2015,4,Property Damage,317154,0.0013%
+GPT,2016,3,Property Damage,305157,0.0010%
+GPT,2017,3,Passenger Property Loss,324611,0.0009%
+GPT,2017,2,Property Damage,324611,0.0006%
+GPT,2017,1,Unknown,324611,0.0003%
+GRB,2013,3,Property Damage,293703,0.0010%
+GRB,2013,2,Passenger Property Loss,293703,0.0007%
+GRB,2014,3,Passenger Property Loss,302568,0.0010%
+GRB,2014,1,Property Damage,302568,0.0003%
+GRB,2015,2,Property Damage,295245,0.0007%
+GRB,2016,4,Property Damage,292868,0.0014%
+GRB,2017,2,Passenger Property Loss,283823,0.0007%
+GRI,2013,1,Passenger Property Loss,57165,0.0017%
+GRI,2014,2,Passenger Property Loss,61400,0.0033%
+GRI,2014,1,Property Damage,61400,0.0016%
+GRI,2015,2,Property Damage,64602,0.0031%
+GRI,2016,1,Passenger Property Loss,68879,0.0015%
+GRK,2013,1,Passenger Property Loss,195899,0.0005%
+GRK,2014,4,Passenger Property Loss,189529,0.0021%
+GRK,2014,1,Property Damage,189529,0.0005%
+GRK,2015,4,Property Damage,176895,0.0023%
+GRK,2015,3,Passenger Property Loss,176895,0.0017%
+GRK,2016,2,Passenger Property Loss,157161,0.0013%
+GRK,2016,1,Property Damage,157161,0.0006%
+GRK,2017,3,Passenger Property Loss,154951,0.0019%
+GRK,2017,1,Property Damage,154951,0.0006%
+GRO,2015,1,Property Damage,12116,0.0083%
+GRR,2013,4,Property Damage,1123257,0.0004%
+GRR,2013,1,Passenger Property Loss,1123257,0.0001%
+GRR,2014,12,Property Damage,1174821,0.0010%
+GRR,2014,3,Passenger Property Loss,1174821,0.0003%
+GRR,2014,1,Unknown,1174821,0.0001%
+GRR,2015,5,Passenger Property Loss,1280803,0.0004%
+GRR,2015,4,Property Damage,1280803,0.0003%
+GRR,2016,10,Property Damage,1334979,0.0007%
+GRR,2016,7,Passenger Property Loss,1334979,0.0005%
+GRR,2017,2,Passenger Property Loss,1412132,0.0001%
+GRR,2017,2,Property Damage,1412132,0.0001%
+GSN,2013,1,Property Damage,448177,0.0002%
+GSO,2013,8,Passenger Property Loss,853532,0.0009%
+GSO,2013,4,Property Damage,853532,0.0005%
+GSO,2014,2,Passenger Property Loss,851157,0.0002%
+GSO,2015,6,Property Damage,848249,0.0007%
+GSO,2015,5,Passenger Property Loss,848249,0.0006%
+GSO,2016,7,Passenger Property Loss,848261,0.0008%
+GSO,2016,6,Property Damage,848261,0.0007%
+GSO,2017,5,Passenger Property Loss,881024,0.0006%
+GSO,2017,3,Property Damage,881024,0.0003%
+GSO,2017,1,Motor Vehicle,881024,0.0001%
+GSO,2017,1,Personal Injury,881024,0.0001%
+GSP,2013,12,Property Damage,917088,0.0013%
+GSP,2013,5,Passenger Property Loss,917088,0.0005%
+GSP,2014,4,Passenger Property Loss,945477,0.0004%
+GSP,2014,2,Property Damage,945477,0.0002%
+GSP,2015,4,Property Damage,955097,0.0004%
+GSP,2015,2,Passenger Property Loss,955097,0.0002%
+GSP,2016,7,Property Damage,991276,0.0007%
+GSP,2016,6,Passenger Property Loss,991276,0.0006%
+GSP,2016,1,Personal Injury,991276,0.0001%
+GSP,2017,10,Property Damage,1051089,0.0010%
+GSP,2017,1,Passenger Property Loss,1051089,0.0001%
+GST,2014,1,Property Damage,9484,0.0105%
+GST,2015,1,Passenger Property Loss,11189,0.0089%
+GTF,2013,1,Passenger Property Loss,182390,0.0005%
+GTF,2014,1,Passenger Property Loss,190361,0.0005%
+GTF,2016,2,Property Damage,176730,0.0011%
+GTF,2017,1,Property Damage,171049,0.0006%
+GTR,2013,2,Property Damage,41140,0.0049%
+GTR,2013,1,Passenger Property Loss,41140,0.0024%
+GTR,2014,1,Property Damage,38664,0.0026%
+GTR,2017,1,Property Damage,41632,0.0024%
+GUC,2013,2,Property Damage,30780,0.0065%
+GUC,2014,1,Passenger Property Loss,31743,0.0032%
+GUM,2013,5,Passenger Property Loss,1562165,0.0003%
+GUM,2013,5,Property Damage,1562165,0.0003%
+GUM,2014,3,Property Damage,1436726,0.0002%
+GUM,2014,2,Passenger Property Loss,1436726,0.0001%
+GUM,2015,2,Passenger Property Loss,1420500,0.0001%
+GUM,2015,2,Property Damage,1420500,0.0001%
+GUM,2016,4,Property Damage,1444299,0.0003%
+GUM,2016,1,Passenger Property Loss,1444299,0.0001%
+GUM,2017,3,Passenger Property Loss,1566429,0.0002%
+GUM,2017,1,Property Damage,1566429,0.0001%
+GYY,2013,1,Property Damage,,
+HDN,2013,1,Passenger Property Loss,91823,0.0011%
+HDN,2015,2,Passenger Property Loss,93896,0.0021%
+HDN,2016,1,Passenger Property Loss,107339,0.0009%
+HDN,2017,1,Passenger Property Loss,96403,0.0010%
+HDQ,2013,1,Personal Injury,,
+HDQ,2014,2,Passenger Property Loss,,
+HDQ,2014,1,Personal Injury,,
+HDQ,2015,1,Passenger Property Loss,,
+HDQ,2016,3,Property Damage,,
+HGR,2013,1,Passenger Property Loss,12941,0.0077%
+HGR,2014,1,Property Damage,15189,0.0066%
+HHH,2016,2,Passenger Property Loss,,
+HHH,2016,1,Property Damage,,
+HHH,2017,1,Property Damage,,
+HIB,2014,1,Passenger Property Loss,11617,0.0086%
+HIB,2016,1,Passenger Property Loss,12654,0.0079%
+HIB,2017,1,Property Damage,15377,0.0065%
+HIB,2017,1,Passenger Property Loss,15377,0.0065%
+HLN,2013,1,Passenger Property Loss,97310,0.0010%
+HLN,2015,1,Property Damage,99460,0.0010%
+HLN,2016,3,Property Damage,103239,0.0029%
+HLN,2016,2,Passenger Property Loss,103239,0.0019%
+HNL,2013,96,Passenger Property Loss,9466995,0.0010%
+HNL,2013,40,Property Damage,9466995,0.0004%
+HNL,2013,1,Personal Injury,9466995,0.0000%
+HNL,2013,1,Complaint,9466995,0.0000%
+HNL,2014,87,Passenger Property Loss,9463000,0.0009%
+HNL,2014,55,Property Damage,9463000,0.0006%
+HNL,2014,2,Personal Injury,9463000,0.0000%
+HNL,2015,73,Passenger Property Loss,9479094,0.0008%
+HNL,2015,29,Property Damage,9479094,0.0003%
+HNL,2015,4,Personal Injury,9479094,0.0000%
+HNL,2016,55,Passenger Property Loss,9656340,0.0006%
+HNL,2016,45,Property Damage,9656340,0.0005%
+HNL,2016,2,Personal Injury,9656340,0.0000%
+HNL,2017,63,Passenger Property Loss,9743989,0.0006%
+HNL,2017,26,Property Damage,9743989,0.0003%
+HNL,2017,1,Unknown,9743989,0.0000%
+HNL,2017,1,Complaint,9743989,0.0000%
+HOB,2015,1,Passenger Property Loss,16567,0.0060%
+HOB,2016,1,Passenger Property Loss,14707,0.0068%
+HOM,2013,1,Property Damage,37705,0.0027%
+HOM,2015,2,Passenger Property Loss,40770,0.0049%
+HOU,2013,35,Passenger Property Loss,5377050,0.0007%
+HOU,2013,23,Property Damage,5377050,0.0004%
+HOU,2014,24,Property Damage,5800726,0.0004%
+HOU,2014,21,Passenger Property Loss,5800726,0.0004%
+HOU,2015,34,Passenger Property Loss,5937990,0.0006%
+HOU,2015,27,Property Damage,5937990,0.0005%
+HOU,2016,47,Passenger Property Loss,6285181,0.0007%
+HOU,2016,46,Property Damage,6285181,0.0007%
+HOU,2017,36,Passenger Property Loss,6538976,0.0006%
+HOU,2017,34,Property Damage,6538976,0.0005%
+HOU,2017,1,Personal Injury,6538976,0.0000%
+HPN,2013,8,Passenger Property Loss,764002,0.0010%
+HPN,2013,6,Property Damage,764002,0.0008%
+HPN,2014,5,Passenger Property Loss,756189,0.0007%
+HPN,2014,2,Property Damage,756189,0.0003%
+HPN,2015,7,Property Damage,757466,0.0009%
+HPN,2015,4,Passenger Property Loss,757466,0.0005%
+HPN,2016,3,Passenger Property Loss,766170,0.0004%
+HPN,2016,2,Property Damage,766170,0.0003%
+HPN,2017,3,Passenger Property Loss,759334,0.0004%
+HPN,2017,3,Property Damage,759334,0.0004%
+HRL,2013,7,Passenger Property Loss,347829,0.0020%
+HRL,2014,8,Passenger Property Loss,293306,0.0027%
+HRL,2015,3,Passenger Property Loss,259864,0.0012%
+HRL,2015,1,Property Damage,259864,0.0004%
+HRL,2016,7,Passenger Property Loss,263760,0.0027%
+HRL,2017,8,Passenger Property Loss,273070,0.0029%
+HRL,2017,2,Property Damage,273070,0.0007%
+HRL,2017,1,Unknown,273070,0.0004%
+HSV,2013,3,Passenger Property Loss,505541,0.0006%
+HSV,2013,1,Property Damage,505541,0.0002%
+HSV,2013,1,Personal Injury,505541,0.0002%
+HSV,2014,5,Property Damage,523248,0.0010%
+HSV,2014,1,Passenger Property Loss,523248,0.0002%
+HSV,2015,4,Property Damage,519785,0.0008%
+HSV,2015,3,Passenger Property Loss,519785,0.0006%
+HSV,2016,4,Property Damage,527801,0.0008%
+HSV,2017,4,Passenger Property Loss,519003,0.0008%
+HSV,2017,2,Property Damage,519003,0.0004%
+HSV,2017,1,Personal Injury,519003,0.0002%
+HTS,2014,1,Property Damage,96367,0.0010%
+HTS,2015,1,Passenger Property Loss,101741,0.0010%
+HTS,2016,1,Unknown,98489,0.0010%
+HTS,2016,1,Property Damage,98489,0.0010%
+HTS,2017,1,Passenger Property Loss,103724,0.0010%
+HVN,2013,1,Passenger Property Loss,37434,0.0027%
+HVN,2015,1,Passenger Property Loss,30955,0.0032%
+HVN,2017,1,Passenger Property Loss,28669,0.0035%
+HXD,2013,2,Passenger Property Loss,58348,0.0034%
+HXD,2013,1,Property Damage,58348,0.0017%
+HXD,2013,1,Personal Injury,58348,0.0017%
+HXD,2014,2,Passenger Property Loss,54712,0.0037%
+HXD,2015,4,Passenger Property Loss,38322,0.0104%
+HXD,2015,1,Property Damage,38322,0.0026%
+HYA,2014,1,Passenger Property Loss,85184,0.0012%
+IAD,2013,110,Passenger Property Loss,10570993,0.0010%
+IAD,2013,94,Property Damage,10570993,0.0009%
+IAD,2013,2,Personal Injury,10570993,0.0000%
+IAD,2014,111,Passenger Property Loss,10415948,0.0011%
+IAD,2014,87,Property Damage,10415948,0.0008%
+IAD,2014,3,Personal Injury,10415948,0.0000%
+IAD,2014,1,Unknown,10415948,0.0000%
+IAD,2015,77,Passenger Property Loss,10363974,0.0007%
+IAD,2015,71,Property Damage,10363974,0.0007%
+IAD,2015,1,Personal Injury,10363974,0.0000%
+IAD,2016,74,Passenger Property Loss,10596942,0.0007%
+IAD,2016,63,Property Damage,10596942,0.0006%
+IAD,2016,3,Personal Injury,10596942,0.0000%
+IAD,2016,1,Property Loss,10596942,0.0000%
+IAD,2016,1,Complaint,10596942,0.0000%
+IAD,2017,71,Passenger Property Loss,11024306,0.0006%
+IAD,2017,67,Property Damage,11024306,0.0006%
+IAD,2017,2,Unknown,11024306,0.0000%
+IAG,2013,3,Passenger Property Loss,98958,0.0030%
+IAG,2013,3,Property Damage,98958,0.0030%
+IAG,2014,1,Passenger Property Loss,111212,0.0009%
+IAG,2015,1,Property Damage,121616,0.0008%
+IAH,2013,105,Passenger Property Loss,18952840,0.0006%
+IAH,2013,89,Property Damage,18952840,0.0005%
+IAH,2014,106,Passenger Property Loss,19772087,0.0005%
+IAH,2014,82,Property Damage,19772087,0.0004%
+IAH,2014,1,Personal Injury,19772087,0.0000%
+IAH,2015,74,Passenger Property Loss,20595881,0.0004%
+IAH,2015,58,Property Damage,20595881,0.0003%
+IAH,2015,2,Personal Injury,20595881,0.0000%
+IAH,2015,1,Complaint,20595881,0.0000%
+IAH,2015,1,Unknown,20595881,0.0000%
+IAH,2016,77,Passenger Property Loss,20062072,0.0004%
+IAH,2016,64,Property Damage,20062072,0.0003%
+IAH,2016,1,Personal Injury,20062072,0.0000%
+IAH,2017,91,Passenger Property Loss,19603731,0.0005%
+IAH,2017,89,Property Damage,19603731,0.0005%
+IAH,2017,2,Unknown,19603731,0.0000%
+ICT,2013,3,Property Damage,736090,0.0004%
+ICT,2013,3,Passenger Property Loss,736090,0.0004%
+ICT,2014,4,Property Damage,757695,0.0005%
+ICT,2014,3,Passenger Property Loss,757695,0.0004%
+ICT,2015,6,Property Damage,773550,0.0008%
+ICT,2015,3,Passenger Property Loss,773550,0.0004%
+ICT,2016,6,Passenger Property Loss,781944,0.0008%
+ICT,2016,5,Property Damage,781944,0.0006%
+ICT,2017,6,Property Damage,789533,0.0008%
+ICT,2017,2,Passenger Property Loss,789533,0.0003%
+ICT,2017,1,Personal Injury,789533,0.0001%
+IDA,2013,1,Passenger Property Loss,147073,0.0007%
+IDA,2014,2,Property Damage,166864,0.0012%
+IDA,2014,2,Passenger Property Loss,166864,0.0012%
+IDA,2015,1,Passenger Property Loss,147923,0.0007%
+IDA,2016,3,Property Damage,146213,0.0021%
+IDA,2016,1,Passenger Property Loss,146213,0.0007%
+IFP,2013,1,Passenger Property Loss,109647,0.0009%
+IFP,2013,1,Property Damage,109647,0.0009%
+IFP,2014,3,Property Damage,99443,0.0030%
+IFP,2015,1,Passenger Property Loss,108888,0.0009%
+IFP,2015,1,Property Damage,108888,0.0009%
+IFP,2016,1,Property Damage,109334,0.0009%
+ILG,2013,2,Property Damage,52159,0.0038%
+ILG,2014,4,Property Damage,104488,0.0038%
+ILG,2014,1,Passenger Property Loss,104488,0.0010%
+ILG,2014,1,Complaint,104488,0.0010%
+ILM,2013,5,Passenger Property Loss,397274,0.0013%
+ILM,2013,3,Property Damage,397274,0.0008%
+ILM,2014,2,Passenger Property Loss,378203,0.0005%
+ILM,2014,1,Property Damage,378203,0.0003%
+ILM,2015,3,Passenger Property Loss,388023,0.0008%
+ILM,2015,2,Property Damage,388023,0.0005%
+ILM,2016,4,Property Damage,413185,0.0010%
+ILM,2017,3,Passenger Property Loss,422553,0.0007%
+ILM,2017,2,Property Damage,422553,0.0005%
+IMT,2013,1,Passenger Property Loss,11271,0.0089%
+IND,2013,29,Passenger Property Loss,3535015,0.0008%
+IND,2013,26,Property Damage,3535015,0.0007%
+IND,2014,24,Passenger Property Loss,3605908,0.0007%
+IND,2014,20,Property Damage,3605908,0.0006%
+IND,2014,1,Personal Injury,3605908,0.0000%
+IND,2015,12,Property Damage,3889567,0.0003%
+IND,2015,11,Passenger Property Loss,3889567,0.0003%
+IND,2015,1,Unknown,3889567,0.0000%
+IND,2016,20,Passenger Property Loss,4216766,0.0005%
+IND,2016,19,Property Damage,4216766,0.0005%
+IND,2017,19,Property Damage,4343722,0.0004%
+IND,2017,10,Passenger Property Loss,4343722,0.0002%
+IND,2017,1,Passenger Theft,4343722,0.0000%
+INL,2013,2,Passenger Property Loss,15796,0.0127%
+INL,2014,1,Property Damage,16328,0.0061%
+INL,2014,1,Passenger Property Loss,16328,0.0061%
+INL,2016,3,Property Damage,13831,0.0217%
+INL,2016,1,Passenger Property Loss,13831,0.0072%
+INL,2017,2,Passenger Property Loss,15278,0.0131%
+INL,2017,1,Property Damage,15278,0.0065%
+IPT,2013,2,Passenger Property Loss,23371,0.0086%
+IPT,2014,1,Property Damage,24686,0.0041%
+IPT,2017,1,Passenger Property Loss,18323,0.0055%
+ISN,2014,1,Property Damage,114281,0.0009%
+ISN,2016,1,Personal Injury,68829,0.0015%
+ISN,2016,1,Passenger Property Loss,68829,0.0015%
+ISN,2017,2,Passenger Property Loss,69802,0.0029%
+ISN,2017,1,Property Damage,69802,0.0014%
+ISP,2013,6,Property Damage,662612,0.0009%
+ISP,2013,5,Passenger Property Loss,662612,0.0008%
+ISP,2014,4,Property Damage,646171,0.0006%
+ISP,2014,2,Passenger Property Loss,646171,0.0003%
+ISP,2014,1,Unknown,646171,0.0002%
+ISP,2015,6,Property Damage,603653,0.0010%
+ISP,2015,5,Passenger Property Loss,603653,0.0008%
+ISP,2015,1,Complaint,603653,0.0002%
+ISP,2016,4,Passenger Property Loss,597133,0.0007%
+ISP,2017,4,Property Damage,648593,0.0006%
+ISP,2017,3,Passenger Property Loss,648593,0.0005%
+ITH,2013,5,Passenger Property Loss,103501,0.0048%
+ITH,2013,1,Property Damage,103501,0.0010%
+ITH,2014,1,Property Damage,89501,0.0011%
+ITH,2017,3,Property Damage,97212,0.0031%
+ITO,2013,9,Passenger Property Loss,640411,0.0014%
+ITO,2013,5,Property Damage,640411,0.0008%
+ITO,2013,1,Unknown,640411,0.0002%
+ITO,2014,5,Passenger Property Loss,626950,0.0008%
+ITO,2014,1,Property Damage,626950,0.0002%
+ITO,2015,6,Property Damage,627171,0.0010%
+ITO,2015,2,Passenger Property Loss,627171,0.0003%
+ITO,2016,2,Property Damage,640757,0.0003%
+ITO,2016,2,Passenger Property Loss,640757,0.0003%
+ITO,2017,2,Property Damage,664790,0.0003%
+IWA,2013,4,Passenger Property Loss,725048,0.0006%
+IWA,2013,1,Property Damage,725048,0.0001%
+IWA,2014,4,Property Damage,669807,0.0006%
+IWA,2014,2,Passenger Property Loss,669807,0.0003%
+IWA,2015,4,Passenger Property Loss,666187,0.0006%
+IWA,2015,2,Property Damage,666187,0.0003%
+IWA,2016,3,Passenger Property Loss,705731,0.0004%
+IWA,2016,1,Property Damage,705731,0.0001%
+IWA,2017,4,Passenger Property Loss,704247,0.0006%
+IWA,2017,2,Property Damage,704247,0.0003%
+IWD,2017,1,Property Damage,5348,0.0187%
+JAC,2014,1,Property Damage,308509,0.0003%
+JAC,2014,1,Passenger Property Loss,308509,0.0003%
+JAC,2016,1,Property Damage,342044,0.0003%
+JAC,2016,1,Passenger Property Loss,342044,0.0003%
+JAC,2017,1,Passenger Property Loss,341662,0.0003%
+JAN,2013,16,Passenger Property Loss,595951,0.0027%
+JAN,2013,1,Property Damage,595951,0.0002%
+JAN,2014,10,Passenger Property Loss,537821,0.0019%
+JAN,2014,2,Property Damage,537821,0.0004%
+JAN,2015,6,Property Damage,497042,0.0012%
+JAN,2015,5,Passenger Property Loss,497042,0.0010%
+JAN,2016,10,Passenger Property Loss,491464,0.0020%
+JAN,2016,6,Property Damage,491464,0.0012%
+JAN,2016,1,Personal Injury,491464,0.0002%
+JAN,2017,6,Property Damage,462655,0.0013%
+JAN,2017,1,Passenger Property Loss,462655,0.0002%
+JAX,2013,16,Passenger Property Loss,2549070,0.0006%
+JAX,2013,10,Property Damage,2549070,0.0004%
+JAX,2013,2,Personal Injury,2549070,0.0001%
+JAX,2014,18,Passenger Property Loss,2589198,0.0007%
+JAX,2014,12,Property Damage,2589198,0.0005%
+JAX,2014,1,Personal Injury,2589198,0.0000%
+JAX,2015,16,Passenger Property Loss,2716473,0.0006%
+JAX,2015,9,Property Damage,2716473,0.0003%
+JAX,2015,1,Personal Injury,2716473,0.0000%
+JAX,2016,17,Property Damage,2729129,0.0006%
+JAX,2016,13,Passenger Property Loss,2729129,0.0005%
+JAX,2016,1,Personal Injury,2729129,0.0000%
+JAX,2017,25,Property Damage,2701861,0.0009%
+JAX,2017,12,Passenger Property Loss,2701861,0.0004%
+JBR,2014,1,Passenger Property Loss,5056,0.0198%
+JFK,2013,488,Passenger Property Loss,25036358,0.0019%
+JFK,2013,200,Property Damage,25036358,0.0008%
+JFK,2013,4,Personal Injury,25036358,0.0000%
+JFK,2013,3,Unknown,25036358,0.0000%
+JFK,2013,1,Motor Vehicle,25036358,0.0000%
+JFK,2014,369,Passenger Property Loss,26244928,0.0014%
+JFK,2014,243,Property Damage,26244928,0.0009%
+JFK,2014,2,Personal Injury,26244928,0.0000%
+JFK,2014,1,Motor Vehicle,26244928,0.0000%
+JFK,2014,1,Unknown,26244928,0.0000%
+JFK,2015,266,Passenger Property Loss,27782369,0.0010%
+JFK,2015,195,Property Damage,27782369,0.0007%
+JFK,2015,4,Personal Injury,27782369,0.0000%
+JFK,2015,2,Complaint,27782369,0.0000%
+JFK,2015,1,Unknown,27782369,0.0000%
+JFK,2016,255,Passenger Property Loss,29239151,0.0009%
+JFK,2016,203,Property Damage,29239151,0.0007%
+JFK,2016,6,Personal Injury,29239151,0.0000%
+JFK,2016,1,Unknown,29239151,0.0000%
+JFK,2017,277,Passenger Property Loss,29533154,0.0009%
+JFK,2017,200,Property Damage,29533154,0.0007%
+JFK,2017,4,Personal Injury,29533154,0.0000%
+JFK,2017,4,Unknown,29533154,0.0000%
+JFK,2017,2,Motor Vehicle,29533154,0.0000%
+JFK,2017,1,Missed Flight,29533154,0.0000%
+JFK,2017,1,Passenger Theft,29533154,0.0000%
+JHW,2013,1,Property Damage,3315,0.0302%
+JLN,2013,1,Passenger Property Loss,23329,0.0043%
+JLN,2014,1,Passenger Property Loss,26380,0.0038%
+JLN,2017,1,Passenger Property Loss,35498,0.0028%
+JNU,2013,3,Property Damage,359291,0.0008%
+JNU,2014,3,Passenger Property Loss,375828,0.0008%
+JNU,2014,2,Property Damage,375828,0.0005%
+JNU,2015,3,Property Damage,403538,0.0007%
+JNU,2016,1,Property Damage,420442,0.0002%
+JNU,2016,1,Passenger Property Loss,420442,0.0002%
+JNU,2017,3,Passenger Property Loss,422266,0.0007%
+JNU,2017,1,Property Damage,422266,0.0002%
+JQF,2015,4,Passenger Property Loss,73727,0.0054%
+JQF,2016,4,Property Damage,90338,0.0044%
+JQF,2017,1,Passenger Property Loss,129034,0.0008%
+KOA,2013,11,Property Damage,1376641,0.0008%
+KOA,2013,11,Passenger Property Loss,1376641,0.0008%
+KOA,2014,14,Passenger Property Loss,1403559,0.0010%
+KOA,2014,7,Property Damage,1403559,0.0005%
+KOA,2015,15,Passenger Property Loss,1485777,0.0010%
+KOA,2015,14,Property Damage,1485777,0.0009%
+KOA,2015,1,Personal Injury,1485777,0.0001%
+KOA,2016,8,Property Damage,1569602,0.0005%
+KOA,2016,7,Passenger Property Loss,1569602,0.0004%
+KOA,2017,11,Passenger Property Loss,1764995,0.0006%
+KOA,2017,6,Property Damage,1764995,0.0003%
+KOA,2017,2,Unknown,1764995,0.0001%
+KTN,2013,3,Passenger Property Loss,109433,0.0027%
+KTN,2013,1,Property Damage,109433,0.0009%
+KTN,2014,1,Personal Injury,115948,0.0009%
+KTN,2015,3,Passenger Property Loss,124747,0.0024%
+KTN,2016,1,Property Damage,127881,0.0008%
+KTN,2017,2,Property Damage,131144,0.0015%
+KTN,2017,1,Passenger Property Loss,131144,0.0008%
+LAN,2013,1,Property Damage,216925,0.0005%
+LAN,2013,1,Passenger Property Loss,216925,0.0005%
+LAN,2015,2,Property Damage,180927,0.0011%
+LAN,2015,1,Passenger Property Loss,180927,0.0006%
+LAN,2016,1,Passenger Property Loss,161863,0.0006%
+LAN,2017,2,Passenger Property Loss,196617,0.0010%
+LAN,2017,2,Property Damage,196617,0.0010%
+LAR,2017,1,Passenger Property Loss,16072,0.0062%
+LAS,2013,143,Passenger Property Loss,19946179,0.0007%
+LAS,2013,86,Property Damage,19946179,0.0004%
+LAS,2013,2,Complaint,19946179,0.0000%
+LAS,2013,2,Personal Injury,19946179,0.0000%
+LAS,2013,1,Motor Vehicle,19946179,0.0000%
+LAS,2013,1,Unknown,19946179,0.0000%
+LAS,2014,127,Passenger Property Loss,20620248,0.0006%
+LAS,2014,90,Property Damage,20620248,0.0004%
+LAS,2014,7,Personal Injury,20620248,0.0000%
+LAS,2015,129,Passenger Property Loss,21857693,0.0006%
+LAS,2015,97,Property Damage,21857693,0.0004%
+LAS,2015,2,Personal Injury,21857693,0.0000%
+LAS,2015,1,Unknown,21857693,0.0000%
+LAS,2016,164,Passenger Property Loss,22833267,0.0007%
+LAS,2016,105,Property Damage,22833267,0.0005%
+LAS,2016,5,Personal Injury,22833267,0.0000%
+LAS,2016,1,Complaint,22833267,0.0000%
+LAS,2017,158,Passenger Property Loss,23364393,0.0007%
+LAS,2017,87,Property Damage,23364393,0.0004%
+LAS,2017,3,Unknown,23364393,0.0000%
+LAS,2017,2,Personal Injury,23364393,0.0000%
+LAS,2017,1,Complaint,23364393,0.0000%
+LAW,2013,1,Passenger Property Loss,55526,0.0018%
+LAW,2013,1,Property Damage,55526,0.0018%
+LAW,2016,2,Passenger Property Loss,51088,0.0039%
+LAW,2016,1,Property Damage,51088,0.0020%
+LAW,2017,2,Passenger Property Loss,50939,0.0039%
+LAX,2013,316,Passenger Property Loss,32425892,0.0010%
+LAX,2013,153,Property Damage,32425892,0.0005%
+LAX,2013,2,Unknown,32425892,0.0000%
+LAX,2013,2,Personal Injury,32425892,0.0000%
+LAX,2014,246,Passenger Property Loss,34314197,0.0007%
+LAX,2014,193,Property Damage,34314197,0.0006%
+LAX,2014,4,Personal Injury,34314197,0.0000%
+LAX,2015,238,Passenger Property Loss,36351272,0.0007%
+LAX,2015,200,Property Damage,36351272,0.0006%
+LAX,2015,6,Personal Injury,36351272,0.0000%
+LAX,2015,2,Complaint,36351272,0.0000%
+LAX,2016,256,Passenger Property Loss,39636042,0.0006%
+LAX,2016,203,Property Damage,39636042,0.0005%
+LAX,2016,8,Personal Injury,39636042,0.0000%
+LAX,2016,1,Motor Vehicle,39636042,0.0000%
+LAX,2016,1,Complaint,39636042,0.0000%
+LAX,2017,255,Passenger Property Loss,41232432,0.0006%
+LAX,2017,251,Property Damage,41232432,0.0006%
+LAX,2017,6,Personal Injury,41232432,0.0000%
+LAX,2017,3,Unknown,41232432,0.0000%
+LAX,2017,2,Passenger Theft,41232432,0.0000%
+LAX,2017,1,Motor Vehicle,41232432,0.0000%
+LAX,2017,1,Complaint,41232432,0.0000%
+LBB,2013,2,Property Damage,454408,0.0004%
+LBB,2014,4,Property Damage,451238,0.0009%
+LBB,2014,4,Passenger Property Loss,451238,0.0009%
+LBB,2015,2,Passenger Property Loss,443239,0.0005%
+LBB,2015,1,Property Damage,443239,0.0002%
+LBB,2016,2,Property Damage,448093,0.0004%
+LBB,2016,1,Passenger Property Loss,448093,0.0002%
+LBB,2017,4,Passenger Property Loss,460236,0.0009%
+LBB,2017,4,Property Damage,460236,0.0009%
+LBE,2013,11,Passenger Property Loss,127040,0.0087%
+LBE,2013,3,Property Damage,127040,0.0024%
+LBE,2014,2,Property Damage,128415,0.0016%
+LBE,2015,3,Passenger Property Loss,181105,0.0017%
+LBE,2015,1,Property Damage,181105,0.0006%
+LBE,2016,1,Property Damage,146127,0.0007%
+LBF,2017,1,Passenger Property Loss,3911,0.0256%
+LCH,2014,1,Property Damage,69334,0.0014%
+LCH,2017,1,Personal Injury,50899,0.0020%
+LCK,2014,3,Passenger Property Loss,49486,0.0061%
+LCK,2014,1,Property Damage,49486,0.0020%
+LCK,2015,4,Passenger Property Loss,83466,0.0048%
+LCK,2015,1,Property Damage,83466,0.0012%
+LCK,2016,4,Passenger Property Loss,102751,0.0039%
+LCK,2016,1,Property Damage,102751,0.0010%
+LCK,2017,3,Passenger Property Loss,133649,0.0022%
+LCK,2017,1,Property Damage,133649,0.0007%
+LEB,2015,1,Passenger Property Loss,10144,0.0099%
+LEB,2017,1,Property Damage,10383,0.0096%
+LEX,2013,4,Property Damage,539238,0.0007%
+LEX,2013,1,Passenger Property Loss,539238,0.0002%
+LEX,2014,8,Passenger Property Loss,595083,0.0013%
+LEX,2014,4,Property Damage,595083,0.0007%
+LEX,2015,6,Property Damage,606980,0.0010%
+LEX,2015,4,Passenger Property Loss,606980,0.0007%
+LEX,2016,4,Property Damage,638316,0.0006%
+LEX,2016,4,Passenger Property Loss,638316,0.0006%
+LEX,2017,3,Passenger Property Loss,637301,0.0005%
+LEX,2017,2,Property Damage,637301,0.0003%
+LFT,2013,5,Passenger Property Loss,233498,0.0021%
+LFT,2013,1,Property Damage,233498,0.0004%
+LFT,2014,6,Passenger Property Loss,247857,0.0024%
+LFT,2014,1,Property Damage,247857,0.0004%
+LFT,2015,2,Passenger Property Loss,243840,0.0008%
+LFT,2015,1,Property Damage,243840,0.0004%
+LFT,2016,1,Passenger Property Loss,206667,0.0005%
+LFT,2017,1,Property Damage,202640,0.0005%
+LFT,2017,1,Unknown,202640,0.0005%
+LFT,2017,1,Passenger Property Loss,202640,0.0005%
+LGA,2013,102,Passenger Property Loss,13372269,0.0008%
+LGA,2013,55,Property Damage,13372269,0.0004%
+LGA,2013,3,Personal Injury,13372269,0.0000%
+LGA,2014,64,Property Damage,13535372,0.0005%
+LGA,2014,57,Passenger Property Loss,13535372,0.0004%
+LGA,2014,3,Personal Injury,13535372,0.0000%
+LGA,2014,2,Unknown,13535372,0.0000%
+LGA,2015,53,Passenger Property Loss,14319924,0.0004%
+LGA,2015,52,Property Damage,14319924,0.0004%
+LGA,2015,1,Personal Injury,14319924,0.0000%
+LGA,2016,75,Property Damage,14762593,0.0005%
+LGA,2016,62,Passenger Property Loss,14762593,0.0004%
+LGA,2016,1,Personal Injury,14762593,0.0000%
+LGA,2016,1,Motor Vehicle,14762593,0.0000%
+LGA,2016,1,Complaint,14762593,0.0000%
+LGA,2017,70,Property Damage,14614802,0.0005%
+LGA,2017,41,Passenger Property Loss,14614802,0.0003%
+LGA,2017,1,Personal Injury,14614802,0.0000%
+LGB,2013,6,Passenger Property Loss,1438756,0.0004%
+LGB,2013,5,Property Damage,1438756,0.0003%
+LGB,2013,1,Unknown,1438756,0.0001%
+LGB,2014,10,Property Damage,1368923,0.0007%
+LGB,2014,2,Passenger Property Loss,1368923,0.0001%
+LGB,2015,10,Passenger Property Loss,1220937,0.0008%
+LGB,2015,4,Property Damage,1220937,0.0003%
+LGB,2016,9,Property Damage,1386357,0.0006%
+LGB,2016,6,Passenger Property Loss,1386357,0.0004%
+LGB,2017,7,Property Damage,1830745,0.0004%
+LGB,2017,3,Passenger Property Loss,1830745,0.0002%
+LGB,2017,1,Personal Injury,1830745,0.0001%
+LIH,2013,14,Passenger Property Loss,1315141,0.0011%
+LIH,2013,8,Property Damage,1315141,0.0006%
+LIH,2014,14,Passenger Property Loss,1340014,0.0010%
+LIH,2014,11,Property Damage,1340014,0.0008%
+LIH,2015,10,Passenger Property Loss,1491688,0.0007%
+LIH,2015,7,Property Damage,1491688,0.0005%
+LIH,2016,14,Passenger Property Loss,1458940,0.0010%
+LIH,2016,8,Property Damage,1458940,0.0005%
+LIH,2016,1,Personal Injury,1458940,0.0001%
+LIH,2017,19,Passenger Property Loss,1535075,0.0012%
+LIH,2017,10,Property Damage,1535075,0.0007%
+LIH,2017,1,Personal Injury,1535075,0.0001%
+LIT,2013,12,Passenger Property Loss,1055293,0.0011%
+LIT,2013,2,Property Damage,1055293,0.0002%
+LIT,2014,5,Property Damage,1005251,0.0005%
+LIT,2014,4,Passenger Property Loss,1005251,0.0004%
+LIT,2014,1,Motor Vehicle,1005251,0.0001%
+LIT,2015,9,Property Damage,958510,0.0009%
+LIT,2015,7,Passenger Property Loss,958510,0.0007%
+LIT,2016,4,Property Damage,958824,0.0004%
+LIT,2017,5,Property Damage,979530,0.0005%
+LIT,2017,4,Passenger Property Loss,979530,0.0004%
+LNK,2013,2,Property Damage,138787,0.0014%
+LNK,2014,2,Property Damage,142205,0.0014%
+LNK,2015,1,Property Damage,160525,0.0006%
+LNK,2015,1,Passenger Property Loss,160525,0.0006%
+LNK,2016,2,Property Damage,162876,0.0012%
+LNY,2017,1,Passenger Property Loss,37993,0.0026%
+LRD,2013,1,Property Damage,109773,0.0009%
+LRD,2017,1,Property Damage,91462,0.0011%
+LSE,2013,1,Passenger Property Loss,90297,0.0011%
+LSE,2013,1,Property Damage,90297,0.0011%
+LSE,2014,1,Passenger Property Loss,98869,0.0010%
+LSE,2017,2,Property Damage,92101,0.0022%
+LSE,2017,1,Passenger Property Loss,92101,0.0011%
+LWS,2013,3,Passenger Property Loss,62209,0.0048%
+LWS,2014,1,Property Damage,62479,0.0016%
+LWS,2015,2,Property Damage,66579,0.0030%
+LWS,2016,1,Property Damage,72724,0.0014%
+LWS,2017,1,Passenger Property Loss,76729,0.0013%
+LWS,2017,1,Property Damage,76729,0.0013%
+LYH,2013,1,Property Damage,77795,0.0013%
+LYH,2014,3,Passenger Property Loss,78876,0.0038%
+LYH,2014,1,Personal Injury,78876,0.0013%
+LYH,2015,3,Passenger Property Loss,75824,0.0040%
+LYH,2015,1,Property Damage,75824,0.0013%
+LYH,2016,1,Property Damage,75465,0.0013%
+LYH,2016,1,Passenger Property Loss,75465,0.0013%
+LYH,2017,2,Passenger Property Loss,82489,0.0024%
+MAF,2013,3,Passenger Property Loss,506726,0.0006%
+MAF,2013,1,Property Damage,506726,0.0002%
+MAF,2014,3,Passenger Property Loss,547355,0.0005%
+MAF,2014,1,Property Damage,547355,0.0002%
+MAF,2015,1,Property Damage,518509,0.0002%
+MAF,2015,1,Passenger Property Loss,518509,0.0002%
+MAF,2016,2,Property Damage,471490,0.0004%
+MAF,2016,1,Passenger Property Loss,471490,0.0002%
+MAF,2017,4,Passenger Property Loss,516983,0.0008%
+MAF,2017,2,Property Damage,516983,0.0004%
+MBS,2013,1,Property Damage,120689,0.0008%
+MBS,2014,1,Passenger Property Loss,122918,0.0008%
+MBS,2015,1,Passenger Property Loss,119004,0.0008%
+MBS,2016,2,Property Damage,122469,0.0016%
+MBS,2016,1,Passenger Property Loss,122469,0.0008%
+MBS,2017,2,Passenger Property Loss,110964,0.0018%
+MBS,2017,1,Property Damage,110964,0.0009%
+MCE,2016,1,Property Damage,9426,0.0106%
+MCI,2013,3,Passenger Property Loss,4836221,0.0001%
+MCI,2013,1,Property Damage,4836221,0.0000%
+MCI,2014,2,Passenger Property Loss,4982722,0.0000%
+MCI,2014,1,Property Damage,4982722,0.0000%
+MCI,2015,7,Passenger Property Loss,5135127,0.0001%
+MCI,2015,3,Property Damage,5135127,0.0001%
+MCI,2016,7,Passenger Property Loss,5391557,0.0001%
+MCI,2016,4,Property Damage,5391557,0.0001%
+MCI,2017,8,Passenger Property Loss,5628581,0.0001%
+MCI,2017,2,Property Damage,5628581,0.0000%
+MCI,2017,1,Unknown,5628581,0.0000%
+MCK,2017,1,Property Damage,2710,0.0369%
+MCO,2013,220,Passenger Property Loss,16884524,0.0013%
+MCO,2013,135,Property Damage,16884524,0.0008%
+MCO,2013,4,Personal Injury,16884524,0.0000%
+MCO,2013,1,Motor Vehicle,16884524,0.0000%
+MCO,2013,1,Unknown,16884524,0.0000%
+MCO,2014,201,Passenger Property Loss,17278608,0.0012%
+MCO,2014,146,Property Damage,17278608,0.0008%
+MCO,2014,2,Personal Injury,17278608,0.0000%
+MCO,2014,1,Complaint,17278608,0.0000%
+MCO,2015,191,Passenger Property Loss,18759938,0.0010%
+MCO,2015,131,Property Damage,18759938,0.0007%
+MCO,2015,3,Personal Injury,18759938,0.0000%
+MCO,2015,1,Complaint,18759938,0.0000%
+MCO,2016,218,Passenger Property Loss,20283541,0.0011%
+MCO,2016,166,Property Damage,20283541,0.0008%
+MCO,2016,3,Personal Injury,20283541,0.0000%
+MCO,2016,2,Unknown,20283541,0.0000%
+MCO,2016,2,Missed Flight,20283541,0.0000%
+MCO,2016,1,Property Loss,20283541,0.0000%
+MCO,2017,187,Passenger Property Loss,21565448,0.0009%
+MCO,2017,173,Property Damage,21565448,0.0008%
+MCO,2017,8,Personal Injury,21565448,0.0000%
+MCO,2017,3,Missed Flight,21565448,0.0000%
+MCO,2017,1,Unknown,21565448,0.0000%
+MDT,2013,10,Passenger Property Loss,657650,0.0015%
+MDT,2013,1,Property Damage,657650,0.0002%
+MDT,2014,3,Property Damage,644048,0.0005%
+MDT,2014,3,Passenger Property Loss,644048,0.0005%
+MDT,2015,5,Property Damage,587049,0.0009%
+MDT,2015,2,Passenger Property Loss,587049,0.0003%
+MDT,2016,7,Property Damage,589511,0.0012%
+MDT,2016,2,Passenger Property Loss,589511,0.0003%
+MDT,2017,2,Property Damage,582291,0.0003%
+MDT,2017,2,Passenger Property Loss,582291,0.0003%
+MDW,2013,38,Passenger Property Loss,9915646,0.0004%
+MDW,2013,25,Property Damage,9915646,0.0003%
+MDW,2013,1,Personal Injury,9915646,0.0000%
+MDW,2014,48,Passenger Property Loss,10311996,0.0005%
+MDW,2014,38,Property Damage,10311996,0.0004%
+MDW,2015,34,Passenger Property Loss,10830850,0.0003%
+MDW,2015,22,Property Damage,10830850,0.0002%
+MDW,2015,1,Personal Injury,10830850,0.0000%
+MDW,2016,47,Passenger Property Loss,11044387,0.0004%
+MDW,2016,19,Property Damage,11044387,0.0002%
+MDW,2016,1,Personal Injury,11044387,0.0000%
+MDW,2016,1,Complaint,11044387,0.0000%
+MDW,2017,34,Passenger Property Loss,10912074,0.0003%
+MDW,2017,17,Property Damage,10912074,0.0002%
+MDW,2017,2,Personal Injury,10912074,0.0000%
+MEM,2013,20,Passenger Property Loss,2301003,0.0009%
+MEM,2013,11,Property Damage,2301003,0.0005%
+MEM,2014,15,Passenger Property Loss,1800268,0.0008%
+MEM,2014,10,Property Damage,1800268,0.0006%
+MEM,2015,11,Passenger Property Loss,1873716,0.0006%
+MEM,2015,10,Property Damage,1873716,0.0005%
+MEM,2016,7,Passenger Property Loss,2016089,0.0003%
+MEM,2016,5,Property Damage,2016089,0.0002%
+MEM,2017,11,Passenger Property Loss,2102739,0.0005%
+MEM,2017,9,Property Damage,2102739,0.0004%
+MEM,2017,1,Passenger Theft,2102739,0.0000%
+MFE,2013,2,Property Damage,335483,0.0006%
+MFE,2014,2,Property Damage,385631,0.0005%
+MFE,2014,2,Passenger Property Loss,385631,0.0005%
+MFE,2015,2,Passenger Property Loss,391687,0.0005%
+MFE,2015,1,Property Damage,391687,0.0003%
+MFE,2016,3,Passenger Property Loss,355224,0.0008%
+MFE,2017,3,Property Damage,336431,0.0009%
+MFE,2017,1,Passenger Property Loss,336431,0.0003%
+MFR,2013,4,Passenger Property Loss,306450,0.0013%
+MFR,2013,1,Property Damage,306450,0.0003%
+MFR,2013,1,Unknown,306450,0.0003%
+MFR,2014,5,Passenger Property Loss,323563,0.0015%
+MFR,2015,6,Property Damage,370187,0.0016%
+MFR,2015,3,Passenger Property Loss,370187,0.0008%
+MFR,2016,1,Property Damage,401469,0.0002%
+MFR,2016,1,Passenger Property Loss,401469,0.0002%
+MFR,2017,1,Passenger Property Loss,440506,0.0002%
+MFR,2017,1,Property Damage,440506,0.0002%
+MGM,2013,2,Passenger Property Loss,157958,0.0013%
+MGM,2014,1,Property Damage,169764,0.0006%
+MGM,2015,1,Passenger Property Loss,175619,0.0006%
+MGM,2016,2,Passenger Property Loss,173210,0.0012%
+MGM,2017,1,Property Damage,152773,0.0007%
+MGM,2017,1,Passenger Property Loss,152773,0.0007%
+MGW,2014,1,Property Damage,10676,0.0094%
+MHK,2013,1,Passenger Property Loss,65683,0.0015%
+MHK,2013,1,Property Damage,65683,0.0015%
+MHK,2014,4,Passenger Property Loss,65649,0.0061%
+MHK,2014,2,Property Damage,65649,0.0030%
+MHK,2015,2,Passenger Property Loss,66263,0.0030%
+MHK,2015,1,Property Damage,66263,0.0015%
+MHK,2016,4,Passenger Property Loss,63761,0.0063%
+MHK,2017,1,Property Damage,68791,0.0015%
+MHK,2017,1,Passenger Property Loss,68791,0.0015%
+MHT,2013,8,Property Damage,1190082,0.0007%
+MHT,2013,6,Passenger Property Loss,1190082,0.0005%
+MHT,2013,1,Unknown,1190082,0.0001%
+MHT,2014,13,Property Damage,1032964,0.0013%
+MHT,2014,9,Passenger Property Loss,1032964,0.0009%
+MHT,2015,13,Property Damage,1026349,0.0013%
+MHT,2015,7,Passenger Property Loss,1026349,0.0007%
+MHT,2016,4,Property Damage,995403,0.0004%
+MHT,2017,5,Passenger Property Loss,969229,0.0005%
+MHT,2017,3,Property Damage,969229,0.0003%
+MHT,2017,1,Motor Vehicle,969229,0.0001%
+MIA,2013,255,Passenger Property Loss,19420089,0.0013%
+MIA,2013,119,Property Damage,19420089,0.0006%
+MIA,2013,5,Personal Injury,19420089,0.0000%
+MIA,2013,2,Unknown,19420089,0.0000%
+MIA,2013,1,Motor Vehicle,19420089,0.0000%
+MIA,2014,196,Passenger Property Loss,19471466,0.0010%
+MIA,2014,136,Property Damage,19471466,0.0007%
+MIA,2014,3,Personal Injury,19471466,0.0000%
+MIA,2015,160,Passenger Property Loss,20986349,0.0008%
+MIA,2015,112,Property Damage,20986349,0.0005%
+MIA,2015,2,Unknown,20986349,0.0000%
+MIA,2015,1,Complaint,20986349,0.0000%
+MIA,2015,1,Personal Injury,20986349,0.0000%
+MIA,2016,217,Passenger Property Loss,20875813,0.0010%
+MIA,2016,143,Property Damage,20875813,0.0007%
+MIA,2016,2,Personal Injury,20875813,0.0000%
+MIA,2016,2,Employee Loss (MPCECA),20875813,0.0000%
+MIA,2016,1,Property Loss,20875813,0.0000%
+MIA,2016,1,Complaint,20875813,0.0000%
+MIA,2017,211,Passenger Property Loss,20709225,0.0010%
+MIA,2017,129,Property Damage,20709225,0.0006%
+MIA,2017,1,Complaint,20709225,0.0000%
+MIA,2017,1,Unknown,20709225,0.0000%
+MIA,2017,1,Motor Vehicle,20709225,0.0000%
+MKE,2013,22,Passenger Property Loss,3214811,0.0007%
+MKE,2013,9,Property Damage,3214811,0.0003%
+MKE,2014,21,Passenger Property Loss,3228607,0.0007%
+MKE,2014,15,Property Damage,3228607,0.0005%
+MKE,2014,1,Personal Injury,3228607,0.0000%
+MKE,2015,19,Passenger Property Loss,3229897,0.0006%
+MKE,2015,18,Property Damage,3229897,0.0006%
+MKE,2016,19,Passenger Property Loss,3327536,0.0006%
+MKE,2016,10,Property Damage,3327536,0.0003%
+MKE,2016,1,Personal Injury,3327536,0.0000%
+MKE,2017,12,Property Damage,3414477,0.0004%
+MKE,2017,11,Passenger Property Loss,3414477,0.0003%
+MKE,2017,1,Complaint,3414477,0.0000%
+MKG,2013,1,Passenger Property Loss,18020,0.0055%
+MKG,2017,1,Passenger Property Loss,17007,0.0059%
+MKK,2014,1,Property Damage,79597,0.0013%
+MKK,2015,1,Property Damage,90122,0.0011%
+MKK,2016,1,Missed Flight,92560,0.0011%
+MKK,2017,1,Property Damage,84139,0.0012%
+MLB,2013,1,Passenger Property Loss,211702,0.0005%
+MLB,2015,2,Property Damage,220393,0.0009%
+MLB,2015,1,Passenger Property Loss,220393,0.0005%
+MLB,2016,1,Property Damage,220360,0.0005%
+MLB,2017,3,Property Damage,221928,0.0014%
+MLB,2017,3,Passenger Property Loss,221928,0.0014%
+MLI,2013,3,Property Damage,384198,0.0008%
+MLI,2013,2,Passenger Property Loss,384198,0.0005%
+MLI,2014,3,Property Damage,372526,0.0008%
+MLI,2014,3,Passenger Property Loss,372526,0.0008%
+MLI,2015,4,Property Damage,368114,0.0011%
+MLI,2015,3,Passenger Property Loss,368114,0.0008%
+MLI,2016,2,Property Damage,364393,0.0005%
+MLI,2016,1,Passenger Property Loss,364393,0.0003%
+MLI,2016,1,Missed Flight,364393,0.0003%
+MLU,2014,1,Property Damage,120589,0.0008%
+MLU,2015,2,Passenger Property Loss,114170,0.0018%
+MLU,2016,1,Passenger Property Loss,102342,0.0010%
+MLU,2017,1,Property Damage,103547,0.0010%
+MMH,2013,3,Passenger Property Loss,30970,0.0097%
+MMH,2013,1,Property Damage,30970,0.0032%
+MMH,2014,2,Property Damage,25916,0.0077%
+MMH,2014,1,Compliment,25916,0.0039%
+MMH,2015,2,Property Damage,23504,0.0085%
+MMH,2015,1,Passenger Property Loss,23504,0.0043%
+MMH,2016,2,Passenger Property Loss,21826,0.0092%
+MOB,2013,4,Passenger Property Loss,287661,0.0014%
+MOB,2013,1,Property Damage,287661,0.0003%
+MOB,2014,5,Property Damage,288376,0.0017%
+MOB,2014,2,Passenger Property Loss,288376,0.0007%
+MOB,2015,1,Property Damage,278053,0.0004%
+MOB,2015,1,Passenger Property Loss,278053,0.0004%
+MOB,2016,1,Property Damage,288209,0.0003%
+MOB,2017,3,Passenger Property Loss,288222,0.0010%
+MOB,2017,2,Property Damage,288222,0.0007%
+MOD,2013,1,Passenger Property Loss,11310,0.0088%
+MOT,2013,1,Property Damage,220797,0.0005%
+MOT,2014,1,Property Damage,219957,0.0005%
+MOT,2014,1,Passenger Property Loss,219957,0.0005%
+MOT,2015,2,Property Damage,181328,0.0011%
+MOT,2015,1,Passenger Property Loss,181328,0.0006%
+MOT,2016,2,Property Damage,150634,0.0013%
+MRY,2013,2,Passenger Property Loss,205069,0.0010%
+MRY,2013,1,Property Damage,205069,0.0005%
+MRY,2014,3,Passenger Property Loss,186935,0.0016%
+MRY,2014,1,Property Damage,186935,0.0005%
+MRY,2016,1,Passenger Property Loss,192136,0.0005%
+MRY,2017,1,Property Damage,197099,0.0005%
+MSL,2013,1,Property Damage,,
+MSL,2014,1,Property Damage,,
+MSL,2016,1,Passenger Property Loss,5295,0.0189%
+MSN,2013,9,Passenger Property Loss,825702,0.0011%
+MSN,2013,7,Property Damage,825702,0.0008%
+MSN,2014,4,Property Damage,833634,0.0005%
+MSN,2014,4,Passenger Property Loss,833634,0.0005%
+MSN,2015,4,Property Damage,826640,0.0005%
+MSN,2015,2,Passenger Property Loss,826640,0.0002%
+MSN,2016,7,Property Damage,903155,0.0008%
+MSN,2016,1,Passenger Property Loss,903155,0.0001%
+MSN,2017,9,Property Damage,943363,0.0010%
+MSN,2017,2,Passenger Property Loss,943363,0.0002%
+MSO,2013,4,Passenger Property Loss,298253,0.0013%
+MSO,2013,2,Property Damage,298253,0.0007%
+MSO,2014,3,Passenger Property Loss,334948,0.0009%
+MSO,2014,1,Property Damage,334948,0.0003%
+MSO,2015,2,Passenger Property Loss,350172,0.0006%
+MSO,2015,1,Property Damage,350172,0.0003%
+MSO,2016,4,Passenger Property Loss,381582,0.0010%
+MSO,2017,1,Property Damage,387976,0.0003%
+MSP,2013,52,Passenger Property Loss,16280835,0.0003%
+MSP,2013,35,Property Damage,16280835,0.0002%
+MSP,2013,1,Personal Injury,16280835,0.0000%
+MSP,2014,53,Property Damage,16972678,0.0003%
+MSP,2014,45,Passenger Property Loss,16972678,0.0003%
+MSP,2014,1,Unknown,16972678,0.0000%
+MSP,2015,43,Property Damage,17634273,0.0002%
+MSP,2015,34,Passenger Property Loss,17634273,0.0002%
+MSP,2015,2,Personal Injury,17634273,0.0000%
+MSP,2015,1,Unknown,17634273,0.0000%
+MSP,2016,42,Passenger Property Loss,18123844,0.0002%
+MSP,2016,35,Property Damage,18123844,0.0002%
+MSP,2017,37,Passenger Property Loss,18409704,0.0002%
+MSP,2017,35,Property Damage,18409704,0.0002%
+MSP,2017,1,Personal Injury,18409704,0.0000%
+MSP,2017,1,Motor Vehicle,18409704,0.0000%
+MSS,2017,1,Passenger Property Loss,4852,0.0206%
+MSY,2013,60,Passenger Property Loss,4576539,0.0013%
+MSY,2013,27,Property Damage,4576539,0.0006%
+MSY,2013,1,Unknown,4576539,0.0000%
+MSY,2013,1,Personal Injury,4576539,0.0000%
+MSY,2014,42,Passenger Property Loss,4870569,0.0009%
+MSY,2014,27,Property Damage,4870569,0.0006%
+MSY,2014,1,Personal Injury,4870569,0.0000%
+MSY,2014,1,Complaint,4870569,0.0000%
+MSY,2015,34,Property Damage,5329711,0.0006%
+MSY,2015,32,Passenger Property Loss,5329711,0.0006%
+MSY,2015,1,Complaint,5329711,0.0000%
+MSY,2015,1,Personal Injury,5329711,0.0000%
+MSY,2016,40,Property Damage,5569705,0.0007%
+MSY,2016,32,Passenger Property Loss,5569705,0.0006%
+MSY,2016,1,Personal Injury,5569705,0.0000%
+MSY,2016,1,Motor Vehicle,5569705,0.0000%
+MSY,2017,38,Passenger Property Loss,6022318,0.0006%
+MSY,2017,25,Property Damage,6022318,0.0004%
+MSY,2017,1,Unknown,6022318,0.0000%
+MTJ,2013,1,Passenger Property Loss,84579,0.0012%
+MTJ,2014,2,Property Damage,90630,0.0022%
+MTJ,2015,2,Passenger Property Loss,102756,0.0019%
+MTJ,2016,2,Passenger Property Loss,116272,0.0017%
+MTJ,2016,1,Property Damage,116272,0.0009%
+MTJ,2017,2,Passenger Property Loss,123206,0.0016%
+MVY,2013,3,Passenger Property Loss,56313,0.0053%
+MVY,2014,4,Passenger Property Loss,52362,0.0076%
+MVY,2015,2,Passenger Property Loss,49853,0.0040%
+MVY,2015,1,Property Damage,49853,0.0020%
+MVY,2016,1,Property Damage,54084,0.0018%
+MWA,2013,1,Passenger Property Loss,11241,0.0089%
+MWA,2017,2,Passenger Property Loss,11029,0.0181%
+MWA,2017,1,Property Damage,11029,0.0091%
+MYR,2013,4,Passenger Property Loss,823294,0.0005%
+MYR,2013,3,Property Damage,823294,0.0004%
+MYR,2014,4,Property Damage,858288,0.0005%
+MYR,2014,2,Passenger Property Loss,858288,0.0002%
+MYR,2015,5,Property Damage,899859,0.0006%
+MYR,2015,2,Passenger Property Loss,899859,0.0002%
+MYR,2016,7,Property Damage,944849,0.0007%
+MYR,2016,1,Passenger Property Loss,944849,0.0001%
+MYR,2017,12,Property Damage,1131959,0.0011%
+MYR,2017,4,Passenger Property Loss,1131959,0.0004%
+OAJ,2013,3,Property Damage,168828,0.0018%
+OAJ,2015,3,Passenger Property Loss,148960,0.0020%
+OAJ,2015,2,Property Damage,148960,0.0013%
+OAK,2013,53,Passenger Property Loss,4770716,0.0011%
+OAK,2013,22,Property Damage,4770716,0.0005%
+OAK,2014,55,Passenger Property Loss,5069257,0.0011%
+OAK,2014,30,Property Damage,5069257,0.0006%
+OAK,2014,1,Unknown,5069257,0.0000%
+OAK,2015,39,Passenger Property Loss,5506687,0.0007%
+OAK,2015,33,Property Damage,5506687,0.0006%
+OAK,2016,35,Passenger Property Loss,5934639,0.0006%
+OAK,2016,28,Property Damage,5934639,0.0005%
+OAK,2016,1,Personal Injury,5934639,0.0000%
+OAK,2016,1,Missed Flight,5934639,0.0000%
+OAK,2017,35,Passenger Property Loss,6413842,0.0005%
+OAK,2017,21,Property Damage,6413842,0.0003%
+OAK,2017,1,Personal Injury,6413842,0.0000%
+OAK,2017,1,Unknown,6413842,0.0000%
+OGG,2013,36,Passenger Property Loss,2955304,0.0012%
+OGG,2013,16,Property Damage,2955304,0.0005%
+OGG,2013,1,Unknown,2955304,0.0000%
+OGG,2014,22,Property Damage,3019338,0.0007%
+OGG,2014,20,Passenger Property Loss,3019338,0.0007%
+OGG,2015,20,Passenger Property Loss,3220753,0.0006%
+OGG,2015,18,Property Damage,3220753,0.0006%
+OGG,2015,1,Unknown,3220753,0.0000%
+OGG,2016,27,Passenger Property Loss,3352813,0.0008%
+OGG,2016,23,Property Damage,3352813,0.0007%
+OGG,2017,24,Property Damage,3442189,0.0007%
+OGG,2017,14,Passenger Property Loss,3442189,0.0004%
+OGS,2013,1,Property Damage,5392,0.0185%
+OGS,2017,2,Passenger Property Loss,22957,0.0087%
+OGS,2017,1,Unknown,22957,0.0044%
+OKC,2013,12,Passenger Property Loss,1788400,0.0007%
+OKC,2013,7,Property Damage,1788400,0.0004%
+OKC,2014,8,Passenger Property Loss,1861272,0.0004%
+OKC,2014,4,Property Damage,1861272,0.0002%
+OKC,2015,10,Property Damage,1803188,0.0006%
+OKC,2015,8,Passenger Property Loss,1803188,0.0004%
+OKC,2016,8,Passenger Property Loss,1796473,0.0004%
+OKC,2016,7,Property Damage,1796473,0.0004%
+OKC,2017,8,Property Damage,1894289,0.0004%
+OKC,2017,5,Passenger Property Loss,1894289,0.0003%
+OLF,2013,1,Passenger Property Loss,2630,0.0380%
+OMA,2013,16,Passenger Property Loss,1975339,0.0008%
+OMA,2013,13,Property Damage,1975339,0.0007%
+OMA,2013,1,Personal Injury,1975339,0.0001%
+OMA,2014,17,Passenger Property Loss,2020354,0.0008%
+OMA,2014,10,Property Damage,2020354,0.0005%
+OMA,2014,1,Complaint,2020354,0.0000%
+OMA,2015,9,Property Damage,2046179,0.0004%
+OMA,2015,5,Passenger Property Loss,2046179,0.0002%
+OMA,2016,16,Property Damage,2127387,0.0008%
+OMA,2016,8,Passenger Property Loss,2127387,0.0004%
+OMA,2017,7,Property Damage,2243658,0.0003%
+OMA,2017,5,Passenger Property Loss,2243658,0.0002%
+OME,2013,2,Passenger Property Loss,58020,0.0034%
+OME,2013,1,Property Damage,58020,0.0017%
+OME,2014,1,Passenger Property Loss,58610,0.0017%
+OME,2015,1,Property Damage,59929,0.0017%
+OME,2015,1,Passenger Property Loss,59929,0.0017%
+OME,2016,1,Property Damage,60655,0.0016%
+OME,2016,1,Passenger Property Loss,60655,0.0016%
+OME,2017,2,Passenger Property Loss,61651,0.0032%
+ONT,2013,17,Passenger Property Loss,1970538,0.0009%
+ONT,2013,15,Property Damage,1970538,0.0008%
+ONT,2014,13,Passenger Property Loss,2037346,0.0006%
+ONT,2014,12,Property Damage,2037346,0.0006%
+ONT,2014,1,Personal Injury,2037346,0.0000%
+ONT,2015,10,Passenger Property Loss,2089801,0.0005%
+ONT,2015,9,Property Damage,2089801,0.0004%
+ONT,2016,15,Passenger Property Loss,2104625,0.0007%
+ONT,2016,13,Property Damage,2104625,0.0006%
+ONT,2017,13,Passenger Property Loss,2247645,0.0006%
+ONT,2017,12,Property Damage,2247645,0.0005%
+ORD,2013,142,Passenger Property Loss,32317835,0.0004%
+ORD,2013,112,Property Damage,32317835,0.0003%
+ORD,2013,1,Unknown,32317835,0.0000%
+ORD,2014,125,Property Damage,33843426,0.0004%
+ORD,2014,118,Passenger Property Loss,33843426,0.0003%
+ORD,2014,2,Unknown,33843426,0.0000%
+ORD,2014,2,Personal Injury,33843426,0.0000%
+ORD,2014,1,Employee Loss (MPCECA),33843426,0.0000%
+ORD,2015,117,Property Damage,36305668,0.0003%
+ORD,2015,113,Passenger Property Loss,36305668,0.0003%
+ORD,2015,2,Personal Injury,36305668,0.0000%
+ORD,2015,2,Employee Loss (MPCECA),36305668,0.0000%
+ORD,2015,2,Unknown,36305668,0.0000%
+ORD,2016,112,Passenger Property Loss,37589899,0.0003%
+ORD,2016,101,Property Damage,37589899,0.0003%
+ORD,2016,3,Personal Injury,37589899,0.0000%
+ORD,2016,3,Missed Flight,37589899,0.0000%
+ORD,2016,1,Complaint,37589899,0.0000%
+ORD,2017,132,Passenger Property Loss,38593028,0.0003%
+ORD,2017,110,Property Damage,38593028,0.0003%
+ORD,2017,2,Unknown,38593028,0.0000%
+ORD,2017,1,Missed Flight,38593028,0.0000%
+ORD,2017,1,Complaint,38593028,0.0000%
+ORD,2017,1,Personal Injury,38593028,0.0000%
+ORD,2017,1,Passenger Theft,38593028,0.0000%
+ORF,2013,17,Passenger Property Loss,1560754,0.0011%
+ORF,2013,6,Property Damage,1560754,0.0004%
+ORF,2013,1,Personal Injury,1560754,0.0001%
+ORF,2014,10,Passenger Property Loss,1488114,0.0007%
+ORF,2014,4,Property Damage,1488114,0.0003%
+ORF,2015,13,Passenger Property Loss,1515200,0.0009%
+ORF,2015,12,Property Damage,1515200,0.0008%
+ORF,2016,16,Passenger Property Loss,1602631,0.0010%
+ORF,2016,10,Property Damage,1602631,0.0006%
+ORF,2016,1,Property Loss,1602631,0.0001%
+ORF,2016,1,Personal Injury,1602631,0.0001%
+ORF,2017,25,Passenger Property Loss,1694329,0.0015%
+ORF,2017,14,Property Damage,1694329,0.0008%
+ORF,2017,1,Unknown,1694329,0.0001%
+ORH,2013,1,Passenger Property Loss,8007,0.0125%
+ORH,2014,1,Property Damage,57818,0.0017%
+ORH,2014,1,Passenger Property Loss,57818,0.0017%
+ORH,2015,1,Property Damage,59624,0.0017%
+ORH,2016,1,Passenger Property Loss,57800,0.0017%
+OTH,2014,1,Property Damage,15080,0.0066%
+OTH,2015,2,Passenger Property Loss,16207,0.0123%
+OTH,2016,1,Property Damage,14719,0.0068%
+OTH,2017,2,Property Damage,12971,0.0154%
+OTZ,2015,1,Passenger Property Loss,66503,0.0015%
+OTZ,2016,1,Passenger Property Loss,64481,0.0016%
+OWB,2013,2,Passenger Property Loss,21751,0.0092%
+PAH,2013,1,Property Damage,20523,0.0049%
+PAH,2017,1,Passenger Property Loss,20910,0.0048%
+PBG,2013,1,Property Damage,151235,0.0007%
+PBG,2015,1,Passenger Property Loss,131600,0.0008%
+PBG,2016,1,Passenger Property Loss,129622,0.0008%
+PBG,2017,1,Property Damage,139398,0.0007%
+PBI,2013,35,Passenger Property Loss,2844507,0.0012%
+PBI,2013,22,Property Damage,2844507,0.0008%
+PBI,2013,1,Unknown,2844507,0.0000%
+PBI,2014,25,Passenger Property Loss,2926242,0.0009%
+PBI,2014,19,Property Damage,2926242,0.0006%
+PBI,2014,1,Personal Injury,2926242,0.0000%
+PBI,2015,26,Passenger Property Loss,3113591,0.0008%
+PBI,2015,13,Property Damage,3113591,0.0004%
+PBI,2015,1,Personal Injury,3113591,0.0000%
+PBI,2016,26,Property Damage,3100624,0.0008%
+PBI,2016,21,Passenger Property Loss,3100624,0.0007%
+PBI,2017,25,Passenger Property Loss,3110450,0.0008%
+PBI,2017,20,Property Damage,3110450,0.0006%
+PBI,2017,1,Personal Injury,3110450,0.0000%
+PDT,2013,1,Passenger Property Loss,4105,0.0244%
+PDX,2013,69,Passenger Property Loss,7452603,0.0009%
+PDX,2013,34,Property Damage,7452603,0.0005%
+PDX,2013,1,Personal Injury,7452603,0.0000%
+PDX,2013,1,Unknown,7452603,0.0000%
+PDX,2014,51,Passenger Property Loss,7878760,0.0006%
+PDX,2014,34,Property Damage,7878760,0.0004%
+PDX,2014,1,Motor Vehicle,7878760,0.0000%
+PDX,2015,36,Passenger Property Loss,8340252,0.0004%
+PDX,2015,29,Property Damage,8340252,0.0003%
+PDX,2015,2,Personal Injury,8340252,0.0000%
+PDX,2015,1,Employee Loss (MPCECA),8340252,0.0000%
+PDX,2016,37,Passenger Property Loss,9071154,0.0004%
+PDX,2016,31,Property Damage,9071154,0.0003%
+PDX,2016,1,Personal Injury,9071154,0.0000%
+PDX,2016,1,Complaint,9071154,0.0000%
+PDX,2017,46,Passenger Property Loss,9435473,0.0005%
+PDX,2017,29,Property Damage,9435473,0.0003%
+PDX,2017,2,Personal Injury,9435473,0.0000%
+PFN,2013,1,Property Damage,,
+PFN,2014,1,Property Damage,,
+PFN,2016,1,Passenger Property Loss,,
+PGA,2014,1,Property Damage,21616,0.0046%
+PGD,2013,1,Passenger Property Loss,171121,0.0006%
+PGD,2014,3,Property Damage,336905,0.0009%
+PGD,2014,2,Passenger Property Loss,336905,0.0006%
+PGD,2015,3,Property Damage,421162,0.0007%
+PGD,2015,2,Passenger Property Loss,421162,0.0005%
+PGD,2016,2,Passenger Property Loss,558482,0.0004%
+PGD,2017,1,Property Damage,643563,0.0002%
+PGV,2013,1,Passenger Property Loss,60020,0.0017%
+PGV,2014,2,Passenger Property Loss,60547,0.0033%
+PGV,2015,1,Passenger Property Loss,55017,0.0018%
+PGV,2016,2,Passenger Property Loss,47457,0.0042%
+PGV,2017,1,Passenger Property Loss,51966,0.0019%
+PGV,2017,1,Property Damage,51966,0.0019%
+PHF,2013,3,Passenger Property Loss,263964,0.0011%
+PHF,2013,1,Property Damage,263964,0.0004%
+PHF,2014,2,Passenger Property Loss,259082,0.0008%
+PHF,2015,3,Property Damage,202104,0.0015%
+PHF,2015,1,Passenger Property Loss,202104,0.0005%
+PHF,2016,3,Property Damage,199421,0.0015%
+PHF,2016,2,Passenger Property Loss,199421,0.0010%
+PHF,2017,2,Property Damage,197994,0.0010%
+PHL,2013,136,Passenger Property Loss,14727945,0.0009%
+PHL,2013,72,Property Damage,14727945,0.0005%
+PHL,2013,4,Personal Injury,14727945,0.0000%
+PHL,2013,1,Unknown,14727945,0.0000%
+PHL,2014,88,Passenger Property Loss,14792339,0.0006%
+PHL,2014,79,Property Damage,14792339,0.0005%
+PHL,2014,2,Unknown,14792339,0.0000%
+PHL,2015,76,Passenger Property Loss,15101349,0.0005%
+PHL,2015,67,Property Damage,15101349,0.0004%
+PHL,2015,1,Personal Injury,15101349,0.0000%
+PHL,2015,1,Motor Vehicle,15101349,0.0000%
+PHL,2015,1,Employee Loss (MPCECA),15101349,0.0000%
+PHL,2016,95,Passenger Property Loss,14564419,0.0007%
+PHL,2016,55,Property Damage,14564419,0.0004%
+PHL,2017,75,Passenger Property Loss,14271243,0.0005%
+PHL,2017,56,Property Damage,14271243,0.0004%
+PHL,2017,1,Complaint,14271243,0.0000%
+PHL,2017,1,Unknown,14271243,0.0000%
+PHX,2013,140,Passenger Property Loss,19525109,0.0007%
+PHX,2013,77,Property Damage,19525109,0.0004%
+PHX,2013,5,Personal Injury,19525109,0.0000%
+PHX,2013,2,Unknown,19525109,0.0000%
+PHX,2014,128,Passenger Property Loss,20344867,0.0006%
+PHX,2014,85,Property Damage,20344867,0.0004%
+PHX,2014,4,Personal Injury,20344867,0.0000%
+PHX,2014,2,Unknown,20344867,0.0000%
+PHX,2014,2,Complaint,20344867,0.0000%
+PHX,2015,139,Passenger Property Loss,21351504,0.0007%
+PHX,2015,75,Property Damage,21351504,0.0004%
+PHX,2015,3,Personal Injury,21351504,0.0000%
+PHX,2015,2,Complaint,21351504,0.0000%
+PHX,2015,1,Unknown,21351504,0.0000%
+PHX,2016,100,Passenger Property Loss,20896265,0.0005%
+PHX,2016,75,Property Damage,20896265,0.0004%
+PHX,2016,1,Personal Injury,20896265,0.0000%
+PHX,2016,1,Missed Flight,20896265,0.0000%
+PHX,2017,117,Passenger Property Loss,21185458,0.0006%
+PHX,2017,87,Property Damage,21185458,0.0004%
+PHX,2017,2,Unknown,21185458,0.0000%
+PHX,2017,2,Personal Injury,21185458,0.0000%
+PHX,2017,1,Missed Flight,21185458,0.0000%
+PHX,2017,1,Not Provided,21185458,0.0000%
+PIA,2013,5,Passenger Property Loss,291147,0.0017%
+PIA,2013,3,Property Damage,291147,0.0010%
+PIA,2014,3,Passenger Property Loss,320054,0.0009%
+PIA,2015,2,Property Damage,318162,0.0006%
+PIA,2016,2,Property Damage,307189,0.0007%
+PIA,2017,3,Property Damage,312378,0.0010%
+PIA,2017,2,Passenger Property Loss,312378,0.0006%
+PIB,2016,1,Property Damage,12367,0.0081%
+PIB,2016,1,Passenger Property Loss,12367,0.0081%
+PIE,2013,3,Passenger Property Loss,514358,0.0006%
+PIE,2013,1,Property Damage,514358,0.0002%
+PIE,2014,4,Property Damage,663810,0.0006%
+PIE,2014,3,Passenger Property Loss,663810,0.0005%
+PIE,2015,4,Property Damage,819974,0.0005%
+PIE,2016,4,Passenger Property Loss,915672,0.0004%
+PIE,2017,6,Property Damage,1023471,0.0006%
+PIE,2017,4,Passenger Property Loss,1023471,0.0004%
+PIH,2016,1,Passenger Property Loss,34462,0.0029%
+PIH,2017,1,Property Damage,40188,0.0025%
+PIR,2013,2,Property Damage,14507,0.0138%
+PIT,2013,28,Property Damage,3812460,0.0007%
+PIT,2013,22,Passenger Property Loss,3812460,0.0006%
+PIT,2014,14,Passenger Property Loss,3827860,0.0004%
+PIT,2014,13,Property Damage,3827860,0.0003%
+PIT,2015,26,Property Damage,3890681,0.0007%
+PIT,2015,13,Passenger Property Loss,3890681,0.0003%
+PIT,2015,1,Unknown,3890681,0.0000%
+PIT,2016,31,Property Damage,3986114,0.0008%
+PIT,2016,13,Passenger Property Loss,3986114,0.0003%
+PIT,2016,1,Motor Vehicle,3986114,0.0000%
+PIT,2017,24,Passenger Property Loss,4327434,0.0006%
+PIT,2017,21,Property Damage,4327434,0.0005%
+PLN,2013,2,Property Damage,27281,0.0073%
+PLN,2013,2,Passenger Property Loss,27281,0.0073%
+PLN,2014,3,Passenger Property Loss,28168,0.0107%
+PLN,2014,1,Property Damage,28168,0.0036%
+PLN,2015,1,Property Damage,25197,0.0040%
+PLN,2016,2,Property Damage,25497,0.0078%
+PLN,2016,1,Passenger Property Loss,25497,0.0039%
+PNS,2013,9,Passenger Property Loss,744259,0.0012%
+PNS,2013,6,Property Damage,744259,0.0008%
+PNS,2014,6,Passenger Property Loss,758612,0.0008%
+PNS,2014,5,Property Damage,758612,0.0007%
+PNS,2014,1,Personal Injury,758612,0.0001%
+PNS,2015,8,Property Damage,787916,0.0010%
+PNS,2015,4,Passenger Property Loss,787916,0.0005%
+PNS,2016,5,Passenger Property Loss,792916,0.0006%
+PNS,2016,4,Property Damage,792916,0.0005%
+PNS,2017,5,Passenger Property Loss,839248,0.0006%
+PNS,2017,3,Property Damage,839248,0.0004%
+PNS,2017,1,Personal Injury,839248,0.0001%
+PQI,2013,1,Passenger Property Loss,11488,0.0087%
+PQI,2015,1,Passenger Property Loss,12928,0.0077%
+PRC,2016,1,Property Damage,3451,0.0290%
+PSC,2013,6,Passenger Property Loss,327419,0.0018%
+PSC,2013,5,Property Damage,327419,0.0015%
+PSC,2014,1,Passenger Property Loss,329087,0.0003%
+PSC,2015,1,Property Damage,348990,0.0003%
+PSC,2015,1,Passenger Property Loss,348990,0.0003%
+PSC,2016,2,Passenger Property Loss,374301,0.0005%
+PSC,2016,1,Property Damage,374301,0.0003%
+PSC,2017,1,Property Damage,376044,0.0003%
+PSC,2017,1,Passenger Property Loss,376044,0.0003%
+PSE,2014,2,Complaint,97271,0.0021%
+PSE,2014,1,Personal Injury,97271,0.0010%
+PSE,2014,1,Property Damage,97271,0.0010%
+PSE,2015,1,Property Damage,98830,0.0010%
+PSE,2015,1,Passenger Property Loss,98830,0.0010%
+PSE,2016,1,Personal Injury,105804,0.0009%
+PSE,2016,1,Passenger Property Loss,105804,0.0009%
+PSE,2017,1,Unknown,89334,0.0011%
+PSE,2017,1,Property Damage,89334,0.0011%
+PSG,2014,1,Property Damage,19065,0.0052%
+PSG,2014,1,Passenger Property Loss,19065,0.0052%
+PSG,2015,1,Passenger Property Loss,20477,0.0049%
+PSG,2016,1,Property Damage,21896,0.0046%
+PSG,2017,1,Passenger Property Loss,22915,0.0044%
+PSM,2014,1,Passenger Property Loss,45708,0.0022%
+PSM,2016,2,Property Damage,73247,0.0027%
+PSP,2013,17,Passenger Property Loss,875699,0.0019%
+PSP,2013,10,Property Damage,875699,0.0011%
+PSP,2014,11,Property Damage,953607,0.0012%
+PSP,2014,9,Passenger Property Loss,953607,0.0009%
+PSP,2015,10,Passenger Property Loss,947728,0.0011%
+PSP,2015,7,Property Damage,947728,0.0007%
+PSP,2016,9,Passenger Property Loss,995801,0.0009%
+PSP,2016,7,Property Damage,995801,0.0007%
+PSP,2017,20,Passenger Property Loss,1055970,0.0019%
+PSP,2017,7,Property Damage,1055970,0.0007%
+PUB,2016,1,Passenger Property Loss,,
+PUB,2017,1,Passenger Property Loss,3833,0.0261%
+PUW,2014,1,Property Damage,42294,0.0024%
+PUW,2014,1,Passenger Property Loss,42294,0.0024%
+PUW,2016,2,Property Damage,61833,0.0032%
+PVC,2017,1,Passenger Property Loss,8900,0.0112%
+PVD,2013,23,Passenger Property Loss,1884830,0.0012%
+PVD,2013,18,Property Damage,1884830,0.0010%
+PVD,2014,16,Property Damage,1764828,0.0009%
+PVD,2014,14,Passenger Property Loss,1764828,0.0008%
+PVD,2015,7,Property Damage,1763676,0.0004%
+PVD,2015,7,Passenger Property Loss,1763676,0.0004%
+PVD,2016,8,Property Damage,1803000,0.0004%
+PVD,2016,8,Passenger Property Loss,1803000,0.0004%
+PVD,2017,12,Property Damage,1940806,0.0006%
+PVD,2017,12,Passenger Property Loss,1940806,0.0006%
+PVD,2017,1,Unknown,1940806,0.0001%
+PVU,2013,1,Passenger Property Loss,30090,0.0033%
+PVU,2016,2,Property Damage,78451,0.0025%
+PVU,2016,2,Passenger Property Loss,78451,0.0025%
+PVU,2017,2,Property Damage,91581,0.0022%
+PVU,2017,1,Passenger Property Loss,91581,0.0011%
+PWM,2013,11,Passenger Property Loss,836942,0.0013%
+PWM,2013,4,Property Damage,836942,0.0005%
+PWM,2014,9,Passenger Property Loss,837820,0.0011%
+PWM,2014,6,Property Damage,837820,0.0007%
+PWM,2015,8,Property Damage,858449,0.0009%
+PWM,2015,2,Passenger Property Loss,858449,0.0002%
+PWM,2015,1,Personal Injury,858449,0.0001%
+PWM,2015,1,Motor Vehicle,858449,0.0001%
+PWM,2016,3,Passenger Property Loss,886343,0.0003%
+PWM,2016,1,Property Damage,886343,0.0001%
+PWM,2017,7,Property Damage,925903,0.0008%
+PWM,2017,2,Passenger Property Loss,925903,0.0002%
+RAP,2013,2,Property Damage,256052,0.0008%
+RAP,2013,1,Passenger Property Loss,256052,0.0004%
+RAP,2014,1,Passenger Property Loss,266623,0.0004%
+RAP,2014,1,Property Damage,266623,0.0004%
+RAP,2015,2,Property Damage,264183,0.0008%
+RAP,2015,2,Passenger Property Loss,264183,0.0008%
+RAP,2016,4,Passenger Property Loss,272537,0.0015%
+RAP,2016,1,Property Damage,272537,0.0004%
+RAP,2017,2,Property Damage,286567,0.0007%
+RDD,2013,1,Property Damage,24875,0.0040%
+RDD,2013,1,Passenger Property Loss,24875,0.0040%
+RDD,2014,2,Passenger Property Loss,23170,0.0086%
+RDD,2015,1,Passenger Property Loss,30852,0.0032%
+RDD,2016,1,Passenger Property Loss,43414,0.0023%
+RDD,2017,3,Property Damage,42361,0.0071%
+RDM,2013,4,Property Damage,236303,0.0017%
+RDM,2013,2,Passenger Property Loss,236303,0.0008%
+RDM,2014,2,Passenger Property Loss,255654,0.0008%
+RDM,2014,1,Property Damage,255654,0.0004%
+RDM,2015,6,Property Damage,280823,0.0021%
+RDM,2015,2,Passenger Property Loss,280823,0.0007%
+RDM,2016,5,Passenger Property Loss,306517,0.0016%
+RDM,2016,1,Property Damage,306517,0.0003%
+RDM,2017,3,Property Damage,364921,0.0008%
+RDM,2017,1,Passenger Property Loss,364921,0.0003%
+RDU,2013,33,Passenger Property Loss,4482016,0.0007%
+RDU,2013,18,Property Damage,4482016,0.0004%
+RDU,2013,1,Personal Injury,4482016,0.0000%
+RDU,2014,24,Property Damage,4673869,0.0005%
+RDU,2014,22,Passenger Property Loss,4673869,0.0005%
+RDU,2015,33,Passenger Property Loss,4954735,0.0007%
+RDU,2015,27,Property Damage,4954735,0.0005%
+RDU,2016,30,Passenger Property Loss,5401714,0.0006%
+RDU,2016,19,Property Damage,5401714,0.0004%
+RDU,2016,1,Personal Injury,5401714,0.0000%
+RDU,2016,1,Employee Loss (MPCECA),5401714,0.0000%
+RDU,2017,37,Property Damage,5692659,0.0006%
+RDU,2017,28,Passenger Property Loss,5692659,0.0005%
+RDU,2017,1,Motor Vehicle,5692659,0.0000%
+RFD,2013,1,Passenger Property Loss,109384,0.0009%
+RFD,2014,1,Property Damage,111983,0.0009%
+RFD,2016,1,Passenger Property Loss,101790,0.0010%
+RHI,2013,1,Property Damage,18819,0.0053%
+RHI,2015,1,Property Damage,20673,0.0048%
+RHI,2017,1,Property Damage,23014,0.0043%
+RIC,2013,12,Passenger Property Loss,1597913,0.0008%
+RIC,2013,5,Property Damage,1597913,0.0003%
+RIC,2014,14,Property Damage,1671096,0.0008%
+RIC,2014,14,Passenger Property Loss,1671096,0.0008%
+RIC,2014,1,Complaint,1671096,0.0001%
+RIC,2015,10,Passenger Property Loss,1740391,0.0006%
+RIC,2015,8,Property Damage,1740391,0.0005%
+RIC,2015,1,Personal Injury,1740391,0.0001%
+RIC,2016,8,Property Damage,1777648,0.0005%
+RIC,2016,8,Passenger Property Loss,1777648,0.0005%
+RIC,2017,11,Passenger Property Loss,1822486,0.0006%
+RIC,2017,7,Property Damage,1822486,0.0004%
+RKS,2017,1,Property Damage,18109,0.0055%
+RNO,2013,32,Passenger Property Loss,1671926,0.0019%
+RNO,2013,23,Property Damage,1671926,0.0014%
+RNO,2014,18,Passenger Property Loss,1611572,0.0011%
+RNO,2014,16,Property Damage,1611572,0.0010%
+RNO,2014,1,Personal Injury,1611572,0.0001%
+RNO,2015,15,Passenger Property Loss,1669876,0.0009%
+RNO,2015,15,Property Damage,1669876,0.0009%
+RNO,2015,1,Complaint,1669876,0.0001%
+RNO,2016,14,Passenger Property Loss,1771864,0.0008%
+RNO,2016,7,Property Damage,1771864,0.0004%
+RNO,2016,1,Personal Injury,1771864,0.0001%
+RNO,2017,14,Passenger Property Loss,1953028,0.0007%
+RNO,2017,9,Property Damage,1953028,0.0005%
+ROA,2013,3,Property Damage,310295,0.0010%
+ROA,2013,2,Passenger Property Loss,310295,0.0006%
+ROA,2014,2,Passenger Property Loss,305496,0.0007%
+ROA,2014,1,Property Damage,305496,0.0003%
+ROA,2015,5,Passenger Property Loss,300181,0.0017%
+ROA,2015,3,Property Damage,300181,0.0010%
+ROA,2016,2,Property Damage,305212,0.0007%
+ROA,2017,1,Property Damage,309341,0.0003%
+ROA,2017,1,Passenger Property Loss,309341,0.0003%
+ROC,2013,2,Property Damage,1209245,0.0002%
+ROC,2013,2,Passenger Property Loss,1209245,0.0002%
+ROC,2013,1,Personal Injury,1209245,0.0001%
+ROC,2014,3,Property Damage,1173933,0.0003%
+ROC,2014,2,Passenger Property Loss,1173933,0.0002%
+ROC,2015,3,Passenger Property Loss,1177994,0.0003%
+ROC,2016,3,Passenger Property Loss,1186002,0.0003%
+ROC,2017,2,Passenger Property Loss,1205774,0.0002%
+ROC,2017,1,Property Damage,1205774,0.0001%
+ROW,2013,1,Property Damage,32616,0.0031%
+RST,2013,2,Passenger Property Loss,109870,0.0018%
+RST,2014,1,Property Damage,119874,0.0008%
+RST,2014,1,Passenger Property Loss,119874,0.0008%
+RST,2016,2,Passenger Property Loss,112864,0.0018%
+RST,2017,1,Property Damage,143675,0.0007%
+RST,2017,1,Personal Injury,143675,0.0007%
+RST,2017,1,Passenger Property Loss,143675,0.0007%
+RSW,2013,41,Passenger Property Loss,3788870,0.0011%
+RSW,2013,21,Property Damage,3788870,0.0006%
+RSW,2013,2,Personal Injury,3788870,0.0001%
+RSW,2014,38,Passenger Property Loss,3948006,0.0010%
+RSW,2014,28,Property Damage,3948006,0.0007%
+RSW,2015,26,Passenger Property Loss,4159215,0.0006%
+RSW,2015,24,Property Damage,4159215,0.0006%
+RSW,2016,29,Passenger Property Loss,4239261,0.0007%
+RSW,2016,24,Property Damage,4239261,0.0006%
+RSW,2016,1,Missed Flight,4239261,0.0000%
+RSW,2017,34,Property Damage,4364224,0.0008%
+RSW,2017,28,Passenger Property Loss,4364224,0.0006%
+RSW,2017,1,Unknown,4364224,0.0000%
+RUT,2013,1,Property Damage,5321,0.0188%
+RUT,2017,2,Property Damage,5024,0.0398%
+SAF,2013,6,Passenger Property Loss,65118,0.0092%
+SAF,2013,1,Property Damage,65118,0.0015%
+SAF,2014,3,Property Damage,74749,0.0040%
+SAF,2014,3,Passenger Property Loss,74749,0.0040%
+SAF,2015,4,Passenger Property Loss,75460,0.0053%
+SAF,2016,5,Property Damage,71252,0.0070%
+SAF,2016,2,Passenger Property Loss,71252,0.0028%
+SAF,2017,6,Passenger Property Loss,103679,0.0058%
+SAN,2013,73,Passenger Property Loss,8878772,0.0008%
+SAN,2013,59,Property Damage,8878772,0.0007%
+SAN,2013,2,Unknown,8878772,0.0000%
+SAN,2013,1,Personal Injury,8878772,0.0000%
+SAN,2014,65,Passenger Property Loss,9333152,0.0007%
+SAN,2014,64,Property Damage,9333152,0.0007%
+SAN,2014,1,Unknown,9333152,0.0000%
+SAN,2015,59,Property Damage,9985763,0.0006%
+SAN,2015,52,Passenger Property Loss,9985763,0.0005%
+SAN,2016,67,Property Damage,10340164,0.0006%
+SAN,2016,51,Passenger Property Loss,10340164,0.0005%
+SAN,2016,1,Personal Injury,10340164,0.0000%
+SAN,2017,62,Passenger Property Loss,11139933,0.0006%
+SAN,2017,56,Property Damage,11139933,0.0005%
+SAN,2017,1,Unknown,11139933,0.0000%
+SAN,2017,1,Personal Injury,11139933,0.0000%
+SAT,2013,55,Passenger Property Loss,4005874,0.0014%
+SAT,2013,19,Property Damage,4005874,0.0005%
+SAT,2013,1,Personal Injury,4005874,0.0000%
+SAT,2014,29,Passenger Property Loss,4046856,0.0007%
+SAT,2014,22,Property Damage,4046856,0.0005%
+SAT,2014,2,Personal Injury,4046856,0.0000%
+SAT,2014,1,Unknown,4046856,0.0000%
+SAT,2015,18,Passenger Property Loss,4091434,0.0004%
+SAT,2015,13,Property Damage,4091434,0.0003%
+SAT,2015,2,Personal Injury,4091434,0.0000%
+SAT,2016,23,Passenger Property Loss,4179994,0.0006%
+SAT,2016,20,Property Damage,4179994,0.0005%
+SAT,2016,2,Personal Injury,4179994,0.0000%
+SAT,2016,1,Property Loss,4179994,0.0000%
+SAT,2017,14,Passenger Property Loss,4382127,0.0003%
+SAT,2017,13,Property Damage,4382127,0.0003%
+SAV,2013,13,Property Damage,798376,0.0016%
+SAV,2013,7,Passenger Property Loss,798376,0.0009%
+SAV,2014,20,Passenger Property Loss,932416,0.0021%
+SAV,2014,7,Property Damage,932416,0.0008%
+SAV,2014,1,Motor Vehicle,932416,0.0001%
+SAV,2015,11,Property Damage,980531,0.0011%
+SAV,2015,6,Passenger Property Loss,980531,0.0006%
+SAV,2016,11,Passenger Property Loss,1056265,0.0010%
+SAV,2016,6,Property Damage,1056265,0.0006%
+SAV,2017,10,Property Damage,1192340,0.0008%
+SAV,2017,6,Passenger Property Loss,1192340,0.0005%
+SAV,2017,2,Passenger Theft,1192340,0.0002%
+SAW,2015,1,Passenger Property Loss,42578,0.0023%
+SBA,2013,2,Property Damage,364360,0.0005%
+SBA,2013,2,Passenger Property Loss,364360,0.0005%
+SBA,2014,4,Property Damage,335049,0.0012%
+SBA,2014,3,Passenger Property Loss,335049,0.0009%
+SBA,2015,1,Property Damage,316511,0.0003%
+SBA,2015,1,Passenger Property Loss,316511,0.0003%
+SBA,2016,1,Passenger Property Loss,329751,0.0003%
+SBA,2017,5,Passenger Property Loss,356608,0.0014%
+SBA,2017,1,Property Damage,356608,0.0003%
+SBN,2013,4,Property Damage,328992,0.0012%
+SBN,2014,2,Property Damage,311158,0.0006%
+SBN,2015,1,Property Damage,315313,0.0003%
+SBN,2016,1,Passenger Property Loss,329957,0.0003%
+SBN,2016,1,Property Damage,329957,0.0003%
+SBN,2017,5,Property Damage,307471,0.0016%
+SBN,2017,1,Passenger Property Loss,307471,0.0003%
+SBP,2013,2,Passenger Property Loss,135844,0.0015%
+SBP,2013,1,Property Damage,135844,0.0007%
+SBP,2014,2,Property Damage,151394,0.0013%
+SBP,2014,2,Passenger Property Loss,151394,0.0013%
+SBP,2015,1,Passenger Property Loss,144324,0.0007%
+SBP,2016,1,Passenger Property Loss,162719,0.0006%
+SBP,2017,1,Property Damage,197594,0.0005%
+SBY,2013,1,Passenger Property Loss,62670,0.0016%
+SBY,2016,2,Property Damage,58695,0.0034%
+SCC,2014,1,Passenger Property Loss,56001,0.0018%
+SCC,2017,1,Passenger Property Loss,41849,0.0024%
+SCE,2015,2,Property Damage,,
+SCE,2016,2,Property Damage,,
+SCE,2017,1,Property Damage,,
+SCE,2017,1,Passenger Property Loss,,
+SCK,2013,1,Property Damage,71757,0.0014%
+SCK,2013,1,Passenger Property Loss,71757,0.0014%
+SCK,2014,1,Passenger Property Loss,82298,0.0012%
+SCK,2015,2,Property Damage,80163,0.0025%
+SCK,2017,1,Property Damage,96201,0.0010%
+SDF,2013,14,Property Damage,1668667,0.0008%
+SDF,2013,14,Passenger Property Loss,1668667,0.0008%
+SDF,2014,9,Passenger Property Loss,1634983,0.0006%
+SDF,2014,4,Property Damage,1634983,0.0002%
+SDF,2015,14,Passenger Property Loss,1640297,0.0009%
+SDF,2015,12,Property Damage,1640297,0.0007%
+SDF,2016,11,Passenger Property Loss,1631494,0.0007%
+SDF,2016,9,Property Damage,1631494,0.0006%
+SDF,2017,11,Property Damage,1684738,0.0007%
+SDF,2017,7,Passenger Property Loss,1684738,0.0004%
+SDY,2014,1,Passenger Property Loss,11878,0.0084%
+SEA,2013,157,Passenger Property Loss,16690295,0.0009%
+SEA,2013,112,Property Damage,16690295,0.0007%
+SEA,2013,2,Unknown,16690295,0.0000%
+SEA,2014,129,Passenger Property Loss,17888080,0.0007%
+SEA,2014,70,Property Damage,17888080,0.0004%
+SEA,2014,1,Unknown,17888080,0.0000%
+SEA,2015,124,Passenger Property Loss,20148980,0.0006%
+SEA,2015,98,Property Damage,20148980,0.0005%
+SEA,2015,1,Employee Loss (MPCECA),20148980,0.0000%
+SEA,2015,1,Complaint,20148980,0.0000%
+SEA,2016,109,Passenger Property Loss,21887110,0.0005%
+SEA,2016,87,Property Damage,21887110,0.0004%
+SEA,2016,2,Personal Injury,21887110,0.0000%
+SEA,2016,1,Complaint,21887110,0.0000%
+SEA,2017,108,Passenger Property Loss,22639124,0.0005%
+SEA,2017,92,Property Damage,22639124,0.0004%
+SEA,2017,3,Unknown,22639124,0.0000%
+SEA,2017,1,Personal Injury,22639124,0.0000%
+SEA,2017,1,Missed Flight,22639124,0.0000%
+SFB,2013,8,Passenger Property Loss,971522,0.0008%
+SFB,2013,2,Property Damage,971522,0.0002%
+SFB,2014,11,Property Damage,1064133,0.0010%
+SFB,2014,1,Passenger Property Loss,1064133,0.0001%
+SFB,2015,3,Passenger Property Loss,1209382,0.0002%
+SFB,2015,1,Property Damage,1209382,0.0001%
+SFB,2017,6,Passenger Property Loss,1434990,0.0004%
+SFO,2013,14,Passenger Property Loss,21704626,0.0001%
+SFO,2013,8,Property Damage,21704626,0.0000%
+SFO,2013,2,Personal Injury,21704626,0.0000%
+SFO,2014,18,Passenger Property Loss,22770783,0.0001%
+SFO,2014,9,Property Damage,22770783,0.0000%
+SFO,2014,1,Personal Injury,22770783,0.0000%
+SFO,2015,19,Passenger Property Loss,24190560,0.0001%
+SFO,2015,8,Property Damage,24190560,0.0000%
+SFO,2015,1,Unknown,24190560,0.0000%
+SFO,2016,25,Passenger Property Loss,25707101,0.0001%
+SFO,2016,8,Property Damage,25707101,0.0000%
+SFO,2017,25,Passenger Property Loss,26900048,0.0001%
+SFO,2017,16,Property Damage,26900048,0.0001%
+SFO,2017,1,Motor Vehicle,26900048,0.0000%
+SGF,2013,2,Passenger Property Loss,368752,0.0005%
+SGF,2013,2,Property Damage,368752,0.0005%
+SGF,2014,5,Passenger Property Loss,420017,0.0012%
+SGF,2014,2,Property Damage,420017,0.0005%
+SGF,2015,3,Property Damage,447843,0.0007%
+SGF,2015,2,Passenger Property Loss,447843,0.0004%
+SGF,2015,1,Motor Vehicle,447843,0.0002%
+SGF,2016,4,Passenger Property Loss,462126,0.0009%
+SGF,2017,4,Passenger Property Loss,483259,0.0008%
+SGF,2017,1,Property Damage,483259,0.0002%
+SGF,2017,1,Motor Vehicle,483259,0.0002%
+SGJ,2015,1,Passenger Property Loss,22030,0.0045%
+SGJ,2016,2,Property Damage,28462,0.0070%
+SGJ,2017,1,Passenger Property Loss,11431,0.0087%
+SGU,2014,1,Passenger Property Loss,59321,0.0017%
+SGU,2015,1,Property Damage,69680,0.0014%
+SGU,2017,1,Property Damage,103569,0.0010%
+SGU,2017,1,Passenger Property Loss,103569,0.0010%
+SHD,2013,2,Passenger Property Loss,19730,0.0101%
+SHR,2013,1,Passenger Property Loss,14126,0.0071%
+SHV,2013,1,Property Damage,279897,0.0004%
+SHV,2013,1,Personal Injury,279897,0.0004%
+SHV,2014,3,Property Damage,307540,0.0010%
+SHV,2014,2,Passenger Property Loss,307540,0.0007%
+SHV,2015,1,Property Damage,295257,0.0003%
+SHV,2015,1,Passenger Property Loss,295257,0.0003%
+SHV,2016,3,Property Damage,270395,0.0011%
+SHV,2016,1,Passenger Property Loss,270395,0.0004%
+SIT,2013,1,Property Damage,67989,0.0015%
+SIT,2014,1,Passenger Property Loss,72027,0.0014%
+SIT,2015,1,Property Damage,81019,0.0012%
+SIT,2016,1,Property Damage,83404,0.0012%
+SJC,2013,29,Passenger Property Loss,4315839,0.0007%
+SJC,2013,22,Property Damage,4315839,0.0005%
+SJC,2013,1,Unknown,4315839,0.0000%
+SJC,2014,25,Passenger Property Loss,4621003,0.0005%
+SJC,2014,18,Property Damage,4621003,0.0004%
+SJC,2015,18,Passenger Property Loss,4822480,0.0004%
+SJC,2015,15,Property Damage,4822480,0.0003%
+SJC,2016,31,Passenger Property Loss,5321603,0.0006%
+SJC,2016,22,Property Damage,5321603,0.0004%
+SJC,2017,30,Property Damage,6130878,0.0005%
+SJC,2017,29,Passenger Property Loss,6130878,0.0005%
+SJC,2017,3,Unknown,6130878,0.0000%
+SJC,2017,1,Missed Flight,6130878,0.0000%
+SJT,2013,4,Passenger Property Loss,62296,0.0064%
+SJT,2013,2,Property Damage,62296,0.0032%
+SJT,2014,1,Passenger Property Loss,65973,0.0015%
+SJT,2014,1,Property Damage,65973,0.0015%
+SJT,2016,1,Property Damage,60277,0.0017%
+SJT,2016,1,Passenger Property Loss,60277,0.0017%
+SJU,2013,57,Passenger Property Loss,4103197,0.0014%
+SJU,2013,23,Property Damage,4103197,0.0006%
+SJU,2013,2,Unknown,4103197,0.0000%
+SJU,2014,54,Passenger Property Loss,4187888,0.0013%
+SJU,2014,28,Property Damage,4187888,0.0007%
+SJU,2015,32,Passenger Property Loss,4233638,0.0008%
+SJU,2015,24,Property Damage,4233638,0.0006%
+SJU,2015,2,Personal Injury,4233638,0.0000%
+SJU,2015,1,Unknown,4233638,0.0000%
+SJU,2016,31,Passenger Property Loss,4343354,0.0007%
+SJU,2016,23,Property Damage,4343354,0.0005%
+SJU,2017,32,Passenger Property Loss,4203766,0.0008%
+SJU,2017,23,Property Damage,4203766,0.0005%
+SLC,2013,46,Property Damage,9668048,0.0005%
+SLC,2013,38,Passenger Property Loss,9668048,0.0004%
+SLC,2013,1,Personal Injury,9668048,0.0000%
+SLC,2014,42,Property Damage,10139065,0.0004%
+SLC,2014,28,Passenger Property Loss,10139065,0.0003%
+SLC,2015,36,Property Damage,10634538,0.0003%
+SLC,2015,30,Passenger Property Loss,10634538,0.0003%
+SLC,2015,2,Unknown,10634538,0.0000%
+SLC,2016,38,Property Damage,11143738,0.0003%
+SLC,2016,28,Passenger Property Loss,11143738,0.0003%
+SLC,2017,37,Passenger Property Loss,11615954,0.0003%
+SLC,2017,29,Property Damage,11615954,0.0002%
+SLC,2017,1,Motor Vehicle,11615954,0.0000%
+SMF,2013,34,Passenger Property Loss,4255145,0.0008%
+SMF,2013,28,Property Damage,4255145,0.0007%
+SMF,2013,1,Personal Injury,4255145,0.0000%
+SMF,2014,29,Passenger Property Loss,4384616,0.0007%
+SMF,2014,19,Property Damage,4384616,0.0004%
+SMF,2015,30,Passenger Property Loss,4714729,0.0006%
+SMF,2015,18,Property Damage,4714729,0.0004%
+SMF,2015,1,Complaint,4714729,0.0000%
+SMF,2015,1,Motor Vehicle,4714729,0.0000%
+SMF,2016,40,Passenger Property Loss,4969366,0.0008%
+SMF,2016,26,Property Damage,4969366,0.0005%
+SMF,2016,1,Property Loss,4969366,0.0000%
+SMF,2017,40,Passenger Property Loss,5341595,0.0007%
+SMF,2017,27,Property Damage,5341595,0.0005%
+SMX,2015,1,Property Damage,43941,0.0023%
+SNA,2013,44,Passenger Property Loss,4540628,0.0010%
+SNA,2013,24,Property Damage,4540628,0.0005%
+SNA,2013,1,Unknown,4540628,0.0000%
+SNA,2014,37,Passenger Property Loss,4584147,0.0008%
+SNA,2014,19,Property Damage,4584147,0.0004%
+SNA,2015,30,Property Damage,4945209,0.0006%
+SNA,2015,16,Passenger Property Loss,4945209,0.0003%
+SNA,2015,1,Personal Injury,4945209,0.0000%
+SNA,2016,18,Passenger Property Loss,5217242,0.0003%
+SNA,2016,15,Property Damage,5217242,0.0003%
+SNA,2017,24,Property Damage,5082716,0.0005%
+SNA,2017,21,Passenger Property Loss,5082716,0.0004%
+SOW,2015,1,Passenger Property Loss,2253,0.0444%
+SPI,2014,1,Passenger Property Loss,86198,0.0012%
+SPI,2015,2,Passenger Property Loss,90413,0.0022%
+SPI,2017,1,Property Damage,92048,0.0011%
+SPI,2017,1,Passenger Property Loss,92048,0.0011%
+SPS,2013,2,Passenger Property Loss,45298,0.0044%
+SPS,2013,1,Property Damage,45298,0.0022%
+SPS,2014,1,Passenger Property Loss,46906,0.0021%
+SRQ,2013,5,Passenger Property Loss,594970,0.0008%
+SRQ,2013,5,Property Damage,594970,0.0008%
+SRQ,2014,6,Property Damage,598219,0.0010%
+SRQ,2014,4,Passenger Property Loss,598219,0.0007%
+SRQ,2014,1,Personal Injury,598219,0.0002%
+SRQ,2015,5,Property Damage,607449,0.0008%
+SRQ,2016,1,Passenger Property Loss,589860,0.0002%
+SRQ,2017,2,Passenger Property Loss,590941,0.0003%
+SRQ,2017,1,Property Damage,590941,0.0002%
+STC,2017,1,Passenger Property Loss,20918,0.0048%
+STL,2013,37,Passenger Property Loss,6216104,0.0006%
+STL,2013,23,Property Damage,6216104,0.0004%
+STL,2014,33,Passenger Property Loss,6108758,0.0005%
+STL,2014,24,Property Damage,6108758,0.0004%
+STL,2014,1,Employee Loss (MPCECA),6108758,0.0000%
+STL,2015,23,Passenger Property Loss,6239248,0.0004%
+STL,2015,21,Property Damage,6239248,0.0003%
+STL,2015,1,Complaint,6239248,0.0000%
+STL,2016,25,Passenger Property Loss,6793076,0.0004%
+STL,2016,24,Property Damage,6793076,0.0004%
+STL,2017,25,Property Damage,7194745,0.0003%
+STL,2017,22,Passenger Property Loss,7194745,0.0003%
+STL,2017,1,Passenger Theft,7194745,0.0000%
+STL,2017,1,Personal Injury,7194745,0.0000%
+STS,2015,1,Passenger Property Loss,129086,0.0008%
+STS,2017,1,Passenger Property Loss,195296,0.0005%
+STT,2013,10,Passenger Property Loss,645401,0.0015%
+STT,2013,8,Property Damage,645401,0.0012%
+STT,2014,11,Passenger Property Loss,687172,0.0016%
+STT,2014,6,Property Damage,687172,0.0009%
+STT,2015,10,Passenger Property Loss,706098,0.0014%
+STT,2015,7,Property Damage,706098,0.0010%
+STT,2016,20,Passenger Property Loss,729382,0.0027%
+STT,2016,6,Property Damage,729382,0.0008%
+STT,2017,7,Property Damage,619729,0.0011%
+STT,2017,7,Passenger Property Loss,619729,0.0011%
+STT,2017,1,Missed Flight,619729,0.0002%
+STX,2013,2,Passenger Property Loss,182752,0.0011%
+STX,2014,2,Passenger Property Loss,185899,0.0011%
+STX,2014,2,Property Damage,185899,0.0011%
+STX,2015,4,Passenger Property Loss,176588,0.0023%
+STX,2015,1,Property Damage,176588,0.0006%
+STX,2015,1,Complaint,176588,0.0006%
+STX,2016,2,Property Damage,196047,0.0010%
+STX,2016,2,Personal Injury,196047,0.0010%
+STX,2016,1,Passenger Property Loss,196047,0.0005%
+SUN,2014,2,Property Damage,65801,0.0030%
+SUN,2015,1,Passenger Property Loss,67955,0.0015%
+SUN,2016,1,Passenger Property Loss,77729,0.0013%
+SUN,2017,1,Property Damage,86641,0.0012%
+SUX,2013,1,Property Damage,25313,0.0040%
+SUX,2013,1,Passenger Property Loss,25313,0.0040%
+SUX,2015,1,Property Damage,26104,0.0038%
+SUX,2015,1,Passenger Property Loss,26104,0.0038%
+SUX,2016,2,Passenger Property Loss,36413,0.0055%
+SWF,2013,2,Passenger Property Loss,163815,0.0012%
+SWF,2014,1,Property Damage,158556,0.0006%
+SWF,2014,1,Passenger Property Loss,158556,0.0006%
+SWF,2015,1,Property Damage,142603,0.0007%
+SWF,2015,1,Passenger Property Loss,142603,0.0007%
+SWF,2016,2,Property Damage,140328,0.0014%
+SWF,2016,1,Passenger Property Loss,140328,0.0007%
+SWF,2017,3,Property Damage,228640,0.0013%
+SWF,2017,2,Passenger Property Loss,228640,0.0009%
+SWO,2017,1,Property Damage,27370,0.0037%
+SYR,2013,6,Property Damage,991551,0.0006%
+SYR,2013,4,Passenger Property Loss,991551,0.0004%
+SYR,2014,4,Passenger Property Loss,987169,0.0004%
+SYR,2014,4,Property Damage,987169,0.0004%
+SYR,2015,6,Property Damage,987732,0.0006%
+SYR,2015,5,Passenger Property Loss,987732,0.0005%
+SYR,2016,5,Property Damage,988496,0.0005%
+SYR,2016,4,Passenger Property Loss,988496,0.0004%
+SYR,2017,5,Property Damage,1013149,0.0005%
+SYR,2017,4,Passenger Property Loss,1013149,0.0004%
+TBN,2015,1,Property Damage,8065,0.0124%
+TBN,2015,1,Passenger Property Loss,8065,0.0124%
+TLH,2013,5,Property Damage,336129,0.0015%
+TLH,2013,1,Passenger Property Loss,336129,0.0003%
+TLH,2014,6,Passenger Property Loss,339078,0.0018%
+TLH,2014,3,Property Damage,339078,0.0009%
+TLH,2015,2,Property Damage,332777,0.0006%
+TLH,2015,1,Passenger Property Loss,332777,0.0003%
+TLH,2016,3,Passenger Property Loss,345404,0.0009%
+TLH,2017,5,Passenger Property Loss,350174,0.0014%
+TLH,2017,1,Property Damage,350174,0.0003%
+TOL,2013,1,Passenger Property Loss,86221,0.0012%
+TOL,2014,1,Property Damage,98941,0.0010%
+TOL,2014,1,Passenger Property Loss,98941,0.0010%
+TOL,2015,1,Passenger Property Loss,94044,0.0011%
+TOL,2017,1,Property Damage,102988,0.0010%
+TOL,2017,1,Passenger Property Loss,102988,0.0010%
+TPA,2013,73,Passenger Property Loss,8267752,0.0009%
+TPA,2013,61,Property Damage,8267752,0.0007%
+TPA,2013,3,Unknown,8267752,0.0000%
+TPA,2014,55,Property Damage,8531561,0.0006%
+TPA,2014,53,Passenger Property Loss,8531561,0.0006%
+TPA,2014,1,Personal Injury,8531561,0.0000%
+TPA,2015,48,Property Damage,9150458,0.0005%
+TPA,2015,40,Passenger Property Loss,9150458,0.0004%
+TPA,2016,48,Passenger Property Loss,9194994,0.0005%
+TPA,2016,33,Property Damage,9194994,0.0004%
+TPA,2017,49,Passenger Property Loss,9548580,0.0005%
+TPA,2017,38,Property Damage,9548580,0.0004%
+TPA,2017,1,Unknown,9548580,0.0000%
+TRI,2013,3,Property Damage,204402,0.0015%
+TRI,2013,2,Passenger Property Loss,204402,0.0010%
+TRI,2014,6,Property Damage,215259,0.0028%
+TRI,2014,6,Passenger Property Loss,215259,0.0028%
+TRI,2014,1,Employee Loss (MPCECA),215259,0.0005%
+TRI,2015,3,Property Damage,216426,0.0014%
+TRI,2015,2,Passenger Property Loss,216426,0.0009%
+TRI,2015,1,Unknown,216426,0.0005%
+TRI,2016,3,Property Damage,204926,0.0015%
+TRI,2016,2,Passenger Property Loss,204926,0.0010%
+TRI,2017,3,Property Damage,193068,0.0016%
+TRI,2017,1,Passenger Property Loss,193068,0.0005%
+TSA,2014,3,Passenger Property Loss,,
+TSA,2014,2,Property Damage,,
+TSA,2014,1,Unknown,,
+TSA,2015,1,Complaint,,
+TSA,2015,1,Employee Loss (MPCECA),,
+TSA,2015,6,Property Damage,,
+TSA,2015,1,Motor Vehicle,,
+TSA,2016,1,Employee Loss (MPCECA),,
+TSA,2017,6,Passenger Property Loss,,
+TSA,2017,3,Property Damage,,
+TTN,2013,2,Passenger Property Loss,147826,0.0014%
+TTN,2013,2,Property Damage,147826,0.0014%
+TTN,2014,3,Passenger Property Loss,377961,0.0008%
+TTN,2014,2,Property Damage,377961,0.0005%
+TTN,2015,3,Property Damage,389598,0.0008%
+TTN,2015,3,Passenger Property Loss,389598,0.0008%
+TTN,2016,3,Passenger Property Loss,278436,0.0011%
+TTN,2016,1,Property Damage,278436,0.0004%
+TTN,2017,3,Passenger Property Loss,363654,0.0008%
+TTN,2017,1,Property Damage,363654,0.0003%
+TUL,2013,7,Passenger Property Loss,1323377,0.0005%
+TUL,2013,5,Property Damage,1323377,0.0004%
+TUL,2013,1,Personal Injury,1323377,0.0001%
+TUL,2014,9,Passenger Property Loss,1371613,0.0007%
+TUL,2014,8,Property Damage,1371613,0.0006%
+TUL,2015,4,Passenger Property Loss,1359582,0.0003%
+TUL,2015,3,Property Damage,1359582,0.0002%
+TUL,2016,4,Property Damage,1342315,0.0003%
+TUL,2016,4,Passenger Property Loss,1342315,0.0003%
+TUL,2017,5,Passenger Property Loss,1374424,0.0004%
+TUL,2017,4,Property Damage,1374424,0.0003%
+TUL,2017,1,Unknown,1374424,0.0001%
+TUS,2013,15,Passenger Property Loss,1569932,0.0010%
+TUS,2013,9,Property Damage,1569932,0.0006%
+TUS,2014,14,Property Damage,1597247,0.0009%
+TUS,2014,12,Passenger Property Loss,1597247,0.0008%
+TUS,2015,9,Passenger Property Loss,1549253,0.0006%
+TUS,2015,8,Property Damage,1549253,0.0005%
+TUS,2016,7,Passenger Property Loss,1594594,0.0004%
+TUS,2016,3,Property Damage,1594594,0.0002%
+TUS,2017,18,Passenger Property Loss,1669928,0.0011%
+TUS,2017,10,Property Damage,1669928,0.0006%
+TUS,2017,1,Complaint,1669928,0.0001%
+TUS,2017,1,Personal Injury,1669928,0.0001%
+TVC,2013,2,Passenger Property Loss,189644,0.0011%
+TVC,2013,1,Property Damage,189644,0.0005%
+TVC,2014,4,Passenger Property Loss,196451,0.0020%
+TVC,2014,1,Property Damage,196451,0.0005%
+TVC,2015,1,Property Damage,210231,0.0005%
+TVC,2015,1,Passenger Property Loss,210231,0.0005%
+TVC,2016,4,Property Damage,223924,0.0018%
+TVC,2017,3,Property Damage,235137,0.0013%
+TVC,2017,1,Passenger Property Loss,235137,0.0004%
+TWF,2013,1,Passenger Property Loss,28601,0.0035%
+TWF,2014,1,Property Damage,28678,0.0035%
+TWF,2014,1,Unknown,28678,0.0035%
+TWF,2017,1,Passenger Property Loss,45736,0.0022%
+TXK,2013,1,Passenger Property Loss,32882,0.0030%
+TXK,2015,2,Property Damage,34881,0.0057%
+TXK,2015,2,Passenger Property Loss,34881,0.0057%
+TXK,2016,1,Property Damage,33565,0.0030%
+TXK,2017,1,Passenger Property Loss,34101,0.0029%
+TYR,2013,2,Property Damage,85789,0.0023%
+TYR,2013,1,Passenger Property Loss,85789,0.0012%
+TYR,2014,5,Passenger Property Loss,86625,0.0058%
+TYR,2014,2,Property Damage,86625,0.0023%
+TYR,2015,2,Passenger Property Loss,72294,0.0028%
+TYR,2015,1,Property Damage,72294,0.0014%
+TYR,2016,1,Property Damage,52494,0.0019%
+TYR,2017,2,Property Damage,49653,0.0040%
+TYR,2017,1,Passenger Property Loss,49653,0.0020%
+TYS,2013,9,Property Damage,832588,0.0011%
+TYS,2013,5,Passenger Property Loss,832588,0.0006%
+TYS,2014,4,Property Damage,845913,0.0005%
+TYS,2014,2,Passenger Property Loss,845913,0.0002%
+TYS,2015,4,Property Damage,848390,0.0005%
+TYS,2015,2,Passenger Property Loss,848390,0.0002%
+TYS,2016,4,Property Damage,887103,0.0005%
+TYS,2016,4,Passenger Property Loss,887103,0.0005%
+TYS,2017,6,Property Damage,963752,0.0006%
+TYS,2017,1,Passenger Property Loss,963752,0.0001%
+UIN,2017,1,Property Damage,7709,0.0130%
+UNK,2015,1,Property Damage,15927,0.0063%
+UNV,2014,1,Property Damage,142551,0.0007%
+UNV,2014,1,Passenger Property Loss,142551,0.0007%
+UTA,2014,1,Passenger Property Loss,,
+Unknown,2013,42,Passenger Property Loss,,
+Unknown,2013,23,Property Damage,,
+Unknown,2013,15,Unknown,,
+Unknown,2013,2,Personal Injury,,
+Unknown,2013,2,Motor Vehicle,,
+Unknown,2014,29,Passenger Property Loss,,
+Unknown,2014,23,Property Damage,,
+Unknown,2014,5,Unknown,,
+Unknown,2014,2,Personal Injury,,
+Unknown,2014,1,Motor Vehicle,,
+Unknown,2014,1,Compliment,,
+Unknown,2015,28,Passenger Property Loss,,
+Unknown,2015,20,Property Damage,,
+Unknown,2015,3,Unknown,,
+Unknown,2015,2,Motor Vehicle,,
+Unknown,2015,2,Complaint,,
+Unknown,2016,37,Passenger Property Loss,,
+Unknown,2016,19,Property Damage,,
+Unknown,2016,6,Unknown,,
+Unknown,2016,2,Motor Vehicle,,
+Unknown,2016,1,Property Loss,,
+Unknown,2017,35,Passenger Property Loss,,
+Unknown,2017,28,Property Damage,,
+Unknown,2017,16,Unknown,,
+Unknown,2017,2,Motor Vehicle,,
+Unknown,2017,1,Complaint,,
+VIS,2013,2,Passenger Property Loss,,
+VLD,2013,1,Property Damage,36814,0.0027%
+VLD,2013,1,Passenger Property Loss,36814,0.0027%
+VLD,2015,2,Property Damage,39544,0.0051%
+VLD,2017,1,Property Damage,43738,0.0023%
+VPS,2013,5,Property Damage,353953,0.0014%
+VPS,2013,2,Passenger Property Loss,353953,0.0006%
+VPS,2014,3,Passenger Property Loss,360542,0.0008%
+VPS,2014,2,Property Damage,360542,0.0006%
+VPS,2015,2,Property Damage,373072,0.0005%
+VPS,2015,1,Passenger Property Loss,373072,0.0003%
+VPS,2016,2,Passenger Property Loss,440002,0.0005%
+VPS,2016,1,Property Damage,440002,0.0002%
+VPS,2017,3,Passenger Property Loss,567633,0.0005%
+VPS,2017,1,Property Damage,567633,0.0002%
+WRG,2015,1,Passenger Property Loss,12588,0.0079%
+WRG,2016,1,Passenger Property Loss,12569,0.0080%
+WRG,2017,1,Passenger Property Loss,13160,0.0076%
+XNA,2013,6,Passenger Property Loss,558141,0.0011%
+XNA,2013,4,Property Damage,558141,0.0007%
+XNA,2014,3,Passenger Property Loss,619157,0.0005%
+XNA,2014,3,Property Damage,619157,0.0005%
+XNA,2015,1,Property Damage,629905,0.0002%
+XNA,2015,1,Passenger Property Loss,629905,0.0002%
+XNA,2016,1,Property Damage,673810,0.0001%
+XNA,2017,5,Passenger Property Loss,698257,0.0007%
+XNA,2017,3,Property Damage,698257,0.0004%
+YAK,2014,1,Property Damage,10619,0.0094%
+YAK,2015,1,Passenger Property Loss,10230,0.0098%
+YKM,2013,1,Property Damage,54308,0.0018%
+YKM,2013,1,Passenger Property Loss,54308,0.0018%
+YKM,2014,1,Property Damage,57076,0.0018%
+YKM,2015,2,Passenger Property Loss,63747,0.0031%
+YKM,2015,1,Property Damage,63747,0.0016%
+YKM,2016,2,Passenger Property Loss,70993,0.0028%
+YKM,2017,1,Passenger Property Loss,71547,0.0014%
+YNG,2013,2,Property Damage,47518,0.0042%
+YNG,2014,6,Passenger Property Loss,65983,0.0091%
+YNG,2014,2,Property Damage,65983,0.0030%
+YNG,2015,2,Passenger Property Loss,66299,0.0030%
+YNG,2015,1,Property Damage,66299,0.0015%
+YNG,2016,3,Passenger Property Loss,53633,0.0056%
+YNG,2016,1,Property Damage,53633,0.0019%
+YUM,2013,3,Passenger Property Loss,,
+YUM,2013,2,Property Damage,,
+YUM,2014,3,Passenger Property Loss,,
+YUM,2014,2,Property Damage,,
+YUM,2015,5,Passenger Property Loss,,
+YUM,2015,2,Property Damage,,
+YUM,2016,3,Passenger Property Loss,,
+YUM,2016,1,Property Damage,,
+YUM,2017,5,Passenger Property Loss,,
+ZZX,2013,26,Motor Vehicle,,
+ZZX,2013,10,Personal Injury,,
+ZZX,2013,4,Property Damage,,
+ZZX,2013,2,Employee Loss (MPCECA),,
+ZZX,2013,1,Passenger Property Loss,,
+ZZX,2014,19,Motor Vehicle,,
+ZZX,2014,8,Personal Injury,,
+ZZX,2014,5,Property Damage,,
+ZZX,2014,1,Employee Loss (MPCECA),,
+ZZX,2015,15,Motor Vehicle,,
+ZZX,2015,1,Property Damage,,
+ZZX,2015,1,Employee Loss (MPCECA),,
+ZZX,2016,14,Motor Vehicle,,
+ZZX,2016,2,Personal Injury,,
+ZZX,2016,1,Property Damage,,
+ZZX,2017,16,Motor Vehicle,,
+ZZX,2017,8,Property Damage,,
+ZZX,2017,3,Personal Injury,,
+ZZZ,2013,4,Personal Injury,,
+ZZZ,2013,1,Complaint,,
+ZZZ,2014,1,Personal Injury,,

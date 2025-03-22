@@ -1,0 +1,2976 @@
+Airport_Code,Claim_Type,Year,TotalClaims
+ABE,Property Damage,2013,5
+ABE,Passenger Property Loss,2013,3
+ABE,Unknown,2013,1
+ABI,Property Damage,2013,3
+ABI,Unknown,2013,1
+ABQ,Passenger Property Loss,2013,24
+ABQ,Property Damage,2013,14
+ABQ,Complaint,2013,1
+ABR,Passenger Property Loss,2013,1
+ACK,Property Damage,2013,1
+ACK,Passenger Property Loss,2013,1
+ACT,Property Damage,2013,1
+ACT,Passenger Property Loss,2013,1
+ACY,Passenger Property Loss,2013,6
+ACY,Property Damage,2013,4
+ACY,Motor Vehicle,2013,1
+AEX,Property Damage,2013,2
+AEX,Passenger Property Loss,2013,1
+AGS,Passenger Property Loss,2013,2
+AGS,Property Damage,2013,1
+ALB,Property Damage,2013,11
+ALB,Passenger Property Loss,2013,10
+ALB,Unknown,2013,1
+ALO,Passenger Property Loss,2013,2
+ALO,Property Damage,2013,1
+AMA,Passenger Property Loss,2013,4
+ANC,Passenger Property Loss,2013,19
+ANC,Property Damage,2013,13
+APN,Passenger Property Loss,2013,1
+ART,Passenger Property Loss,2013,1
+ASE,Property Damage,2013,1
+ATL,Passenger Property Loss,2013,176
+ATL,Property Damage,2013,137
+ATL,Unknown,2013,3
+ATL,Personal Injury,2013,2
+ATW,Property Damage,2013,1
+AUS,Passenger Property Loss,2013,38
+AUS,Property Damage,2013,29
+AUS,Personal Injury,2013,1
+AVL,Property Damage,2013,5
+AVL,Passenger Property Loss,2013,4
+AVP,Passenger Property Loss,2013,4
+AZO,Unknown,2013,1
+AZO,Property Damage,2013,1
+BDL,Passenger Property Loss,2013,21
+BDL,Property Damage,2013,14
+BFL,Passenger Property Loss,2013,3
+BFL,Property Damage,2013,1
+BGM,Passenger Property Loss,2013,3
+BGM,Property Damage,2013,1
+BGR,Passenger Property Loss,2013,2
+BGR,Property Damage,2013,1
+BHB,Passenger Property Loss,2013,1
+BHM,Passenger Property Loss,2013,8
+BHM,Property Damage,2013,4
+BHM,Personal Injury,2013,1
+BIL,Passenger Property Loss,2013,5
+BIL,Property Damage,2013,2
+BIS,Passenger Property Loss,2013,1
+BJI,Passenger Property Loss,2013,2
+BJI,Property Damage,2013,1
+BKG,Property Damage,2013,2
+BKG,Passenger Property Loss,2013,2
+BLI,Passenger Property Loss,2013,3
+BLI,Property Damage,2013,3
+BLV,Property Damage,2013,1
+BMI,Passenger Property Loss,2013,2
+BMI,Property Damage,2013,1
+BNA,Passenger Property Loss,2013,24
+BNA,Property Damage,2013,23
+BNA,Personal Injury,2013,1
+BOI,Passenger Property Loss,2013,8
+BOI,Property Damage,2013,4
+BOS,Passenger Property Loss,2013,160
+BOS,Property Damage,2013,108
+BOS,Personal Injury,2013,3
+BOS,Unknown,2013,1
+BPT,Passenger Property Loss,2013,1
+BQN,Property Damage,2013,1
+BQN,Unknown,2013,1
+BRL,Passenger Property Loss,2013,1
+BRO,Passenger Property Loss,2013,1
+BTR,Passenger Property Loss,2013,3
+BTR,Property Damage,2013,1
+BTV,Passenger Property Loss,2013,7
+BTV,Property Damage,2013,3
+BTV,Unknown,2013,1
+BUF,Passenger Property Loss,2013,25
+BUF,Property Damage,2013,15
+BUF,Personal Injury,2013,1
+BUR,Property Damage,2013,12
+BUR,Passenger Property Loss,2013,6
+BUR,Personal Injury,2013,2
+BUR,Complaint,2013,1
+BWI,Passenger Property Loss,2013,96
+BWI,Property Damage,2013,50
+BWI,Unknown,2013,1
+BZN,Passenger Property Loss,2013,4
+BZN,Property Damage,2013,3
+CAE,Passenger Property Loss,2013,5
+CAE,Property Damage,2013,1
+CAK,Passenger Property Loss,2013,6
+CAK,Property Damage,2013,2
+CDC,Property Damage,2013,1
+CEC,Passenger Property Loss,2013,1
+CEZ,Property Damage,2013,1
+CHA,Property Damage,2013,3
+CHA,Passenger Property Loss,2013,2
+CHO,Passenger Property Loss,2013,8
+CHO,Property Damage,2013,1
+CHO,Complaint,2013,1
+CHS,Passenger Property Loss,2013,14
+CHS,Property Damage,2013,7
+CIC,Passenger Property Loss,2013,1
+CID,Property Damage,2013,5
+CID,Passenger Property Loss,2013,3
+CID,Personal Injury,2013,1
+CKB,Passenger Property Loss,2013,1
+CLE,Passenger Property Loss,2013,14
+CLE,Property Damage,2013,8
+CLL,Passenger Property Loss,2013,2
+CLL,Property Damage,2013,1
+CLT,Passenger Property Loss,2013,87
+CLT,Property Damage,2013,43
+CLT,Unknown,2013,1
+CLT,Complaint,2013,1
+CMH,Passenger Property Loss,2013,16
+CMH,Property Damage,2013,13
+CMH,Personal Injury,2013,1
+COD,Property Damage,2013,1
+COS,Passenger Property Loss,2013,11
+COS,Property Damage,2013,7
+CPR,Motor Vehicle,2013,1
+CRP,Passenger Property Loss,2013,3
+CRP,Property Damage,2013,3
+CRW,Passenger Property Loss,2013,1
+CSG,Passenger Property Loss,2013,1
+CVG,Passenger Property Loss,2013,18
+CVG,Property Damage,2013,14
+CVG,Personal Injury,2013,1
+CWA,Passenger Property Loss,2013,1
+CWA,Property Damage,2013,1
+DAB,Passenger Property Loss,2013,2
+DAB,Property Damage,2013,1
+DAL,Property Damage,2013,15
+DAL,Passenger Property Loss,2013,15
+DAL,Personal Injury,2013,1
+DAY,Property Damage,2013,5
+DAY,Passenger Property Loss,2013,3
+DCA,Passenger Property Loss,2013,51
+DCA,Property Damage,2013,28
+DCA,Personal Injury,2013,1
+DEN,Passenger Property Loss,2013,118
+DEN,Property Damage,2013,80
+DEN,Personal Injury,2013,3
+DEN,Motor Vehicle,2013,1
+DFW,Passenger Property Loss,2013,128
+DFW,Property Damage,2013,79
+DFW,Unknown,2013,4
+DFW,Personal Injury,2013,3
+DHN,Property Damage,2013,1
+DIK,Passenger Property Loss,2013,1
+DRO,Passenger Property Loss,2013,4
+DSM,Property Damage,2013,5
+DSM,Passenger Property Loss,2013,5
+DTW,Passenger Property Loss,2013,39
+DTW,Property Damage,2013,20
+EAT,Property Damage,2013,2
+EAT,Passenger Property Loss,2013,1
+EAU,Property Damage,2013,1
+ECP,Property Damage,2013,2
+ECP,Passenger Property Loss,2013,2
+EGE,Passenger Property Loss,2013,3
+ELM,Passenger Property Loss,2013,1
+ELP,Passenger Property Loss,2013,8
+ELP,Property Damage,2013,4
+ELP,Unknown,2013,1
+ENA,Passenger Property Loss,2013,1
+ENV,Property Damage,2013,1
+ERI,Property Damage,2013,1
+ESC,Passenger Property Loss,2013,2
+ESC,Property Damage,2013,1
+EUG,Passenger Property Loss,2013,8
+EUG,Property Damage,2013,7
+EVV,Passenger Property Loss,2013,1
+EWN,Passenger Property Loss,2013,1
+EWN,Property Damage,2013,1
+EWR,Passenger Property Loss,2013,219
+EWR,Property Damage,2013,130
+EWR,Personal Injury,2013,2
+EWR,Unknown,2013,1
+EWR,Complaint,2013,1
+EYW,Property Damage,2013,1
+EYW,Passenger Property Loss,2013,1
+F,Passenger Property Loss,2013,66
+F,Property Damage,2013,20
+F,Unknown,2013,1
+FAI,Passenger Property Loss,2013,4
+FAI,Property Damage,2013,4
+FAR,Passenger Property Loss,2013,4
+FAT,Passenger Property Loss,2013,4
+FAT,Property Damage,2013,3
+FAT,Unknown,2013,1
+FAY,Passenger Property Loss,2013,1
+FLG,Property Damage,2013,1
+FLL,Passenger Property Loss,2013,118
+FLL,Property Damage,2013,73
+FLL,Personal Injury,2013,4
+FLL,Unknown,2013,1
+FLO,Property Damage,2013,1
+FLO,Passenger Property Loss,2013,1
+FNT,Passenger Property Loss,2013,5
+FNT,Property Damage,2013,1
+FSM,Property Damage,2013,2
+FWA,Passenger Property Loss,2013,1
+FWA,Property Damage,2013,1
+GBD,Passenger Property Loss,2013,2
+GEG,Passenger Property Loss,2013,22
+GEG,Property Damage,2013,13
+GFK,Passenger Property Loss,2013,2
+GFK,Property Damage,2013,1
+GGG,Passenger Property Loss,2013,1
+GGG,Property Damage,2013,1
+GJT,Passenger Property Loss,2013,2
+GLH,Property Damage,2013,2
+GNV,Passenger Property Loss,2013,1
+GNV,Property Damage,2013,1
+GPI,Property Damage,2013,4
+GPI,Passenger Property Loss,2013,1
+GPT,Property Damage,2013,3
+GPT,Passenger Property Loss,2013,2
+GRB,Property Damage,2013,3
+GRB,Passenger Property Loss,2013,2
+GRI,Passenger Property Loss,2013,1
+GRK,Passenger Property Loss,2013,1
+GRR,Property Damage,2013,4
+GRR,Passenger Property Loss,2013,1
+GSN,Property Damage,2013,1
+GSO,Passenger Property Loss,2013,8
+GSO,Property Damage,2013,4
+GSP,Property Damage,2013,12
+GSP,Passenger Property Loss,2013,5
+GTF,Passenger Property Loss,2013,1
+GTR,Property Damage,2013,2
+GTR,Passenger Property Loss,2013,1
+GUC,Property Damage,2013,2
+GUM,Passenger Property Loss,2013,5
+GUM,Property Damage,2013,5
+GYY,Property Damage,2013,1
+HDN,Passenger Property Loss,2013,1
+HDQ,Personal Injury,2013,1
+HGR,Passenger Property Loss,2013,1
+HLN,Passenger Property Loss,2013,1
+HNL,Passenger Property Loss,2013,96
+HNL,Property Damage,2013,40
+HNL,Personal Injury,2013,1
+HNL,Complaint,2013,1
+HOM,Property Damage,2013,1
+HOU,Passenger Property Loss,2013,35
+HOU,Property Damage,2013,23
+HPN,Passenger Property Loss,2013,8
+HPN,Property Damage,2013,6
+HRL,Passenger Property Loss,2013,7
+HSV,Passenger Property Loss,2013,3
+HSV,Property Damage,2013,1
+HSV,Personal Injury,2013,1
+HVN,Passenger Property Loss,2013,1
+HXD,Passenger Property Loss,2013,2
+HXD,Property Damage,2013,1
+HXD,Personal Injury,2013,1
+IAD,Passenger Property Loss,2013,110
+IAD,Property Damage,2013,94
+IAD,Personal Injury,2013,2
+IAG,Passenger Property Loss,2013,3
+IAG,Property Damage,2013,3
+IAH,Passenger Property Loss,2013,105
+IAH,Property Damage,2013,89
+ICT,Property Damage,2013,3
+ICT,Passenger Property Loss,2013,3
+IDA,Passenger Property Loss,2013,1
+IFP,Passenger Property Loss,2013,1
+IFP,Property Damage,2013,1
+ILG,Property Damage,2013,2
+ILM,Passenger Property Loss,2013,5
+ILM,Property Damage,2013,3
+IMT,Passenger Property Loss,2013,1
+IND,Passenger Property Loss,2013,29
+IND,Property Damage,2013,26
+INL,Passenger Property Loss,2013,2
+IPT,Passenger Property Loss,2013,2
+ISP,Property Damage,2013,6
+ISP,Passenger Property Loss,2013,5
+ITH,Passenger Property Loss,2013,5
+ITH,Property Damage,2013,1
+ITO,Passenger Property Loss,2013,9
+ITO,Property Damage,2013,5
+ITO,Unknown,2013,1
+IWA,Passenger Property Loss,2013,4
+IWA,Property Damage,2013,1
+JAN,Passenger Property Loss,2013,16
+JAN,Property Damage,2013,1
+JAX,Passenger Property Loss,2013,16
+JAX,Property Damage,2013,10
+JAX,Personal Injury,2013,2
+JFK,Passenger Property Loss,2013,488
+JFK,Property Damage,2013,200
+JFK,Personal Injury,2013,4
+JFK,Unknown,2013,3
+JFK,Motor Vehicle,2013,1
+JHW,Property Damage,2013,1
+JLN,Passenger Property Loss,2013,1
+JNU,Property Damage,2013,3
+KOA,Property Damage,2013,11
+KOA,Passenger Property Loss,2013,11
+KTN,Passenger Property Loss,2013,3
+KTN,Property Damage,2013,1
+LAN,Property Damage,2013,1
+LAN,Passenger Property Loss,2013,1
+LAS,Passenger Property Loss,2013,143
+LAS,Property Damage,2013,86
+LAS,Complaint,2013,2
+LAS,Personal Injury,2013,2
+LAS,Motor Vehicle,2013,1
+LAS,Unknown,2013,1
+LAW,Passenger Property Loss,2013,1
+LAW,Property Damage,2013,1
+LAX,Passenger Property Loss,2013,316
+LAX,Property Damage,2013,153
+LAX,Unknown,2013,2
+LAX,Personal Injury,2013,2
+LBB,Property Damage,2013,2
+LBE,Passenger Property Loss,2013,11
+LBE,Property Damage,2013,3
+LEX,Property Damage,2013,4
+LEX,Passenger Property Loss,2013,1
+LFT,Passenger Property Loss,2013,5
+LFT,Property Damage,2013,1
+LGA,Passenger Property Loss,2013,102
+LGA,Property Damage,2013,55
+LGA,Personal Injury,2013,3
+LGB,Passenger Property Loss,2013,6
+LGB,Property Damage,2013,5
+LGB,Unknown,2013,1
+LIH,Passenger Property Loss,2013,14
+LIH,Property Damage,2013,8
+LIT,Passenger Property Loss,2013,12
+LIT,Property Damage,2013,2
+LNK,Property Damage,2013,2
+LRD,Property Damage,2013,1
+LSE,Passenger Property Loss,2013,1
+LSE,Property Damage,2013,1
+LWS,Passenger Property Loss,2013,3
+LYH,Property Damage,2013,1
+MAF,Passenger Property Loss,2013,3
+MAF,Property Damage,2013,1
+MBS,Property Damage,2013,1
+MCI,Passenger Property Loss,2013,3
+MCI,Property Damage,2013,1
+MCO,Passenger Property Loss,2013,220
+MCO,Property Damage,2013,135
+MCO,Personal Injury,2013,4
+MCO,Motor Vehicle,2013,1
+MCO,Unknown,2013,1
+MDT,Passenger Property Loss,2013,10
+MDT,Property Damage,2013,1
+MDW,Passenger Property Loss,2013,38
+MDW,Property Damage,2013,25
+MDW,Personal Injury,2013,1
+MEM,Passenger Property Loss,2013,20
+MEM,Property Damage,2013,11
+MFE,Property Damage,2013,2
+MFR,Passenger Property Loss,2013,4
+MFR,Property Damage,2013,1
+MFR,Unknown,2013,1
+MGM,Passenger Property Loss,2013,2
+MHK,Passenger Property Loss,2013,1
+MHK,Property Damage,2013,1
+MHT,Property Damage,2013,8
+MHT,Passenger Property Loss,2013,6
+MHT,Unknown,2013,1
+MIA,Passenger Property Loss,2013,255
+MIA,Property Damage,2013,119
+MIA,Personal Injury,2013,5
+MIA,Unknown,2013,2
+MIA,Motor Vehicle,2013,1
+MKE,Passenger Property Loss,2013,22
+MKE,Property Damage,2013,9
+MKG,Passenger Property Loss,2013,1
+MLB,Passenger Property Loss,2013,1
+MLI,Property Damage,2013,3
+MLI,Passenger Property Loss,2013,2
+MMH,Passenger Property Loss,2013,3
+MMH,Property Damage,2013,1
+MOB,Passenger Property Loss,2013,4
+MOB,Property Damage,2013,1
+MOD,Passenger Property Loss,2013,1
+MOT,Property Damage,2013,1
+MRY,Passenger Property Loss,2013,2
+MRY,Property Damage,2013,1
+MSL,Property Damage,2013,1
+MSN,Passenger Property Loss,2013,9
+MSN,Property Damage,2013,7
+MSO,Passenger Property Loss,2013,4
+MSO,Property Damage,2013,2
+MSP,Passenger Property Loss,2013,52
+MSP,Property Damage,2013,35
+MSP,Personal Injury,2013,1
+MSY,Passenger Property Loss,2013,60
+MSY,Property Damage,2013,27
+MSY,Unknown,2013,1
+MSY,Personal Injury,2013,1
+MTJ,Passenger Property Loss,2013,1
+MVY,Passenger Property Loss,2013,3
+MWA,Passenger Property Loss,2013,1
+MYR,Passenger Property Loss,2013,4
+MYR,Property Damage,2013,3
+OAJ,Property Damage,2013,3
+OAK,Passenger Property Loss,2013,53
+OAK,Property Damage,2013,22
+OGG,Passenger Property Loss,2013,36
+OGG,Property Damage,2013,16
+OGG,Unknown,2013,1
+OGS,Property Damage,2013,1
+OKC,Passenger Property Loss,2013,12
+OKC,Property Damage,2013,7
+OLF,Passenger Property Loss,2013,1
+OMA,Passenger Property Loss,2013,16
+OMA,Property Damage,2013,13
+OMA,Personal Injury,2013,1
+OME,Passenger Property Loss,2013,2
+OME,Property Damage,2013,1
+ONT,Passenger Property Loss,2013,17
+ONT,Property Damage,2013,15
+ORD,Passenger Property Loss,2013,142
+ORD,Property Damage,2013,112
+ORD,Unknown,2013,1
+ORF,Passenger Property Loss,2013,17
+ORF,Property Damage,2013,6
+ORF,Personal Injury,2013,1
+ORH,Passenger Property Loss,2013,1
+OWB,Passenger Property Loss,2013,2
+PAH,Property Damage,2013,1
+PBG,Property Damage,2013,1
+PBI,Passenger Property Loss,2013,35
+PBI,Property Damage,2013,22
+PBI,Unknown,2013,1
+PDT,Passenger Property Loss,2013,1
+PDX,Passenger Property Loss,2013,69
+PDX,Property Damage,2013,34
+PDX,Personal Injury,2013,1
+PDX,Unknown,2013,1
+PFN,Property Damage,2013,1
+PGD,Passenger Property Loss,2013,1
+PGV,Passenger Property Loss,2013,1
+PHF,Passenger Property Loss,2013,3
+PHF,Property Damage,2013,1
+PHL,Passenger Property Loss,2013,136
+PHL,Property Damage,2013,72
+PHL,Personal Injury,2013,4
+PHL,Unknown,2013,1
+PHX,Passenger Property Loss,2013,140
+PHX,Property Damage,2013,77
+PHX,Personal Injury,2013,5
+PHX,Unknown,2013,2
+PIA,Passenger Property Loss,2013,5
+PIA,Property Damage,2013,3
+PIE,Passenger Property Loss,2013,3
+PIE,Property Damage,2013,1
+PIR,Property Damage,2013,2
+PIT,Property Damage,2013,28
+PIT,Passenger Property Loss,2013,22
+PLN,Property Damage,2013,2
+PLN,Passenger Property Loss,2013,2
+PNS,Passenger Property Loss,2013,9
+PNS,Property Damage,2013,6
+PQI,Passenger Property Loss,2013,1
+PSC,Passenger Property Loss,2013,6
+PSC,Property Damage,2013,5
+PSP,Passenger Property Loss,2013,17
+PSP,Property Damage,2013,10
+PVD,Passenger Property Loss,2013,23
+PVD,Property Damage,2013,18
+PVU,Passenger Property Loss,2013,1
+PWM,Passenger Property Loss,2013,11
+PWM,Property Damage,2013,4
+RAP,Property Damage,2013,2
+RAP,Passenger Property Loss,2013,1
+RDD,Property Damage,2013,1
+RDD,Passenger Property Loss,2013,1
+RDM,Property Damage,2013,4
+RDM,Passenger Property Loss,2013,2
+RDU,Passenger Property Loss,2013,33
+RDU,Property Damage,2013,18
+RDU,Personal Injury,2013,1
+RFD,Passenger Property Loss,2013,1
+RHI,Property Damage,2013,1
+RIC,Passenger Property Loss,2013,12
+RIC,Property Damage,2013,5
+RNO,Passenger Property Loss,2013,32
+RNO,Property Damage,2013,23
+ROA,Property Damage,2013,3
+ROA,Passenger Property Loss,2013,2
+ROC,Property Damage,2013,2
+ROC,Passenger Property Loss,2013,2
+ROC,Personal Injury,2013,1
+ROW,Property Damage,2013,1
+RST,Passenger Property Loss,2013,2
+RSW,Passenger Property Loss,2013,41
+RSW,Property Damage,2013,21
+RSW,Personal Injury,2013,2
+RUT,Property Damage,2013,1
+SAF,Passenger Property Loss,2013,6
+SAF,Property Damage,2013,1
+SAN,Passenger Property Loss,2013,73
+SAN,Property Damage,2013,59
+SAN,Unknown,2013,2
+SAN,Personal Injury,2013,1
+SAT,Passenger Property Loss,2013,55
+SAT,Property Damage,2013,19
+SAT,Personal Injury,2013,1
+SAV,Property Damage,2013,13
+SAV,Passenger Property Loss,2013,7
+SBA,Property Damage,2013,2
+SBA,Passenger Property Loss,2013,2
+SBN,Property Damage,2013,4
+SBP,Passenger Property Loss,2013,2
+SBP,Property Damage,2013,1
+SBY,Passenger Property Loss,2013,1
+SCK,Property Damage,2013,1
+SCK,Passenger Property Loss,2013,1
+SDF,Property Damage,2013,14
+SDF,Passenger Property Loss,2013,14
+SEA,Passenger Property Loss,2013,157
+SEA,Property Damage,2013,112
+SEA,Unknown,2013,2
+SFB,Passenger Property Loss,2013,8
+SFB,Property Damage,2013,2
+SFO,Passenger Property Loss,2013,14
+SFO,Property Damage,2013,8
+SFO,Personal Injury,2013,2
+SGF,Passenger Property Loss,2013,2
+SGF,Property Damage,2013,2
+SHD,Passenger Property Loss,2013,2
+SHR,Passenger Property Loss,2013,1
+SHV,Property Damage,2013,1
+SHV,Personal Injury,2013,1
+SIT,Property Damage,2013,1
+SJC,Passenger Property Loss,2013,29
+SJC,Property Damage,2013,22
+SJC,Unknown,2013,1
+SJT,Passenger Property Loss,2013,4
+SJT,Property Damage,2013,2
+SJU,Passenger Property Loss,2013,57
+SJU,Property Damage,2013,23
+SJU,Unknown,2013,2
+SLC,Property Damage,2013,46
+SLC,Passenger Property Loss,2013,38
+SLC,Personal Injury,2013,1
+SMF,Passenger Property Loss,2013,34
+SMF,Property Damage,2013,28
+SMF,Personal Injury,2013,1
+SNA,Passenger Property Loss,2013,44
+SNA,Property Damage,2013,24
+SNA,Unknown,2013,1
+SPS,Passenger Property Loss,2013,2
+SPS,Property Damage,2013,1
+SRQ,Passenger Property Loss,2013,5
+SRQ,Property Damage,2013,5
+STL,Passenger Property Loss,2013,37
+STL,Property Damage,2013,23
+STT,Passenger Property Loss,2013,10
+STT,Property Damage,2013,8
+STX,Passenger Property Loss,2013,2
+SUX,Property Damage,2013,1
+SUX,Passenger Property Loss,2013,1
+SWF,Passenger Property Loss,2013,2
+SYR,Property Damage,2013,6
+SYR,Passenger Property Loss,2013,4
+TLH,Property Damage,2013,5
+TLH,Passenger Property Loss,2013,1
+TOL,Passenger Property Loss,2013,1
+TPA,Passenger Property Loss,2013,73
+TPA,Property Damage,2013,61
+TPA,Unknown,2013,3
+TRI,Property Damage,2013,3
+TRI,Passenger Property Loss,2013,2
+TTN,Passenger Property Loss,2013,2
+TTN,Property Damage,2013,2
+TUL,Passenger Property Loss,2013,7
+TUL,Property Damage,2013,5
+TUL,Personal Injury,2013,1
+TUS,Passenger Property Loss,2013,15
+TUS,Property Damage,2013,9
+TVC,Passenger Property Loss,2013,2
+TVC,Property Damage,2013,1
+TWF,Passenger Property Loss,2013,1
+TXK,Passenger Property Loss,2013,1
+TYR,Property Damage,2013,2
+TYR,Passenger Property Loss,2013,1
+TYS,Property Damage,2013,9
+TYS,Passenger Property Loss,2013,5
+Unknown,Passenger Property Loss,2013,42
+Unknown,Property Damage,2013,23
+Unknown,Unknown,2013,15
+Unknown,Personal Injury,2013,2
+Unknown,Motor Vehicle,2013,2
+VIS,Passenger Property Loss,2013,2
+VLD,Property Damage,2013,1
+VLD,Passenger Property Loss,2013,1
+VPS,Property Damage,2013,5
+VPS,Passenger Property Loss,2013,2
+XNA,Passenger Property Loss,2013,6
+XNA,Property Damage,2013,4
+YKM,Property Damage,2013,1
+YKM,Passenger Property Loss,2013,1
+YNG,Property Damage,2013,2
+YUM,Passenger Property Loss,2013,3
+YUM,Property Damage,2013,2
+ZZX,Motor Vehicle,2013,26
+ZZX,Personal Injury,2013,10
+ZZX,Property Damage,2013,4
+ZZX,Employee Loss (MPCECA),2013,2
+ZZX,Passenger Property Loss,2013,1
+ZZZ,Personal Injury,2013,4
+ZZZ,Complaint,2013,1
+ABE,Property Damage,2014,2
+ABE,Passenger Property Loss,2014,1
+ABI,Property Damage,2014,5
+ABI,Passenger Property Loss,2014,1
+ABQ,Passenger Property Loss,2014,18
+ABQ,Property Damage,2014,15
+ACK,Passenger Property Loss,2014,1
+ACK,Property Damage,2014,1
+ACT,Unknown,2014,1
+ACT,Passenger Property Loss,2014,1
+ACY,Property Damage,2014,5
+ACY,Passenger Property Loss,2014,3
+ADQ,Property Damage,2014,1
+AEX,Property Damage,2014,1
+ALB,Property Damage,2014,13
+ALB,Passenger Property Loss,2014,8
+ALW,Passenger Property Loss,2014,1
+AMA,Property Damage,2014,1
+AMA,Passenger Property Loss,2014,1
+ANC,Passenger Property Loss,2014,14
+ANC,Property Damage,2014,13
+ASE,Passenger Property Loss,2014,2
+ATL,Passenger Property Loss,2014,176
+ATL,Property Damage,2014,127
+ATL,Unknown,2014,1
+ATL,Personal Injury,2014,1
+ATW,Passenger Property Loss,2014,2
+ATW,Property Damage,2014,1
+AUS,Passenger Property Loss,2014,45
+AUS,Property Damage,2014,34
+AUS,Personal Injury,2014,1
+AVL,Property Damage,2014,3
+AVL,Passenger Property Loss,2014,1
+AVP,Property Damage,2014,2
+AVP,Passenger Property Loss,2014,1
+AZO,Passenger Property Loss,2014,1
+BDL,Property Damage,2014,22
+BDL,Passenger Property Loss,2014,20
+BFL,Property Damage,2014,1
+BFL,Passenger Property Loss,2014,1
+BFL,Compliment,2014,1
+BGR,Passenger Property Loss,2014,3
+BHM,Property Damage,2014,10
+BHM,Passenger Property Loss,2014,5
+BIL,Property Damage,2014,1
+BIL,Passenger Property Loss,2014,1
+BIS,Property Damage,2014,1
+BJI,Passenger Property Loss,2014,2
+BLI,Property Damage,2014,3
+BLI,Passenger Property Loss,2014,2
+BLV,Passenger Property Loss,2014,2
+BMI,Passenger Property Loss,2014,3
+BMI,Property Damage,2014,1
+BNA,Property Damage,2014,27
+BNA,Passenger Property Loss,2014,15
+BOI,Property Damage,2014,8
+BOI,Passenger Property Loss,2014,4
+BOS,Property Damage,2014,111
+BOS,Passenger Property Loss,2014,107
+BOS,Personal Injury,2014,3
+BOS,Unknown,2014,2
+BPT,Passenger Property Loss,2014,1
+BQK,Passenger Property Loss,2014,2
+BQN,Passenger Property Loss,2014,3
+BQN,Unknown,2014,1
+BQN,Property Damage,2014,1
+BRD,Passenger Property Loss,2014,1
+BRO,Property Damage,2014,1
+BTR,Property Damage,2014,3
+BTR,Passenger Property Loss,2014,2
+BTR,Personal Injury,2014,1
+BTV,Passenger Property Loss,2014,7
+BTV,Property Damage,2014,5
+BUF,Passenger Property Loss,2014,15
+BUF,Property Damage,2014,12
+BUR,Property Damage,2014,11
+BUR,Passenger Property Loss,2014,8
+BWI,Passenger Property Loss,2014,74
+BWI,Property Damage,2014,52
+BWI,Personal Injury,2014,1
+BWI,Unknown,2014,1
+BWI,Employee Loss (MPCECA),2014,1
+BZN,Property Damage,2014,2
+BZN,Passenger Property Loss,2014,2
+CAE,Property Damage,2014,3
+CAE,Passenger Property Loss,2014,1
+CAK,Passenger Property Loss,2014,5
+CAK,Property Damage,2014,1
+CDC,Property Damage,2014,1
+CDC,Passenger Property Loss,2014,1
+CHA,Property Damage,2014,1
+CHA,Passenger Property Loss,2014,1
+CHS,Passenger Property Loss,2014,11
+CHS,Property Damage,2014,6
+CID,Property Damage,2014,5
+CID,Passenger Property Loss,2014,1
+CLE,Passenger Property Loss,2014,31
+CLE,Property Damage,2014,24
+CLE,Personal Injury,2014,1
+CLL,Passenger Property Loss,2014,2
+CLL,Property Damage,2014,2
+CLT,Property Damage,2014,59
+CLT,Passenger Property Loss,2014,47
+CLT,Personal Injury,2014,2
+CLT,Employee Loss (MPCECA),2014,1
+CMH,Passenger Property Loss,2014,19
+CMH,Property Damage,2014,15
+CMI,Property Damage,2014,1
+CMX,Property Damage,2014,1
+COD,Passenger Property Loss,2014,1
+COS,Property Damage,2014,3
+COS,Passenger Property Loss,2014,3
+COU,Passenger Property Loss,2014,1
+COU,Property Damage,2014,1
+CPR,Property Damage,2014,1
+CPR,Passenger Property Loss,2014,1
+CRP,Passenger Property Loss,2014,3
+CRP,Property Damage,2014,3
+CRW,Passenger Property Loss,2014,2
+CSG,Property Damage,2014,1
+CVG,Passenger Property Loss,2014,13
+CVG,Property Damage,2014,11
+CWA,Property Damage,2014,1
+CWA,Passenger Property Loss,2014,1
+CYS,Passenger Property Loss,2014,1
+DAB,Passenger Property Loss,2014,3
+DAB,Property Damage,2014,1
+DAL,Passenger Property Loss,2014,24
+DAL,Property Damage,2014,12
+DAL,Personal Injury,2014,1
+DAY,Passenger Property Loss,2014,5
+DAY,Property Damage,2014,4
+DCA,Passenger Property Loss,2014,43
+DCA,Property Damage,2014,36
+DCA,Personal Injury,2014,2
+DEN,Passenger Property Loss,2014,87
+DEN,Property Damage,2014,77
+DEN,Personal Injury,2014,3
+DFW,Passenger Property Loss,2014,99
+DFW,Property Damage,2014,92
+DFW,Unknown,2014,2
+DFW,Personal Injury,2014,2
+DIK,Property Damage,2014,1
+DLH,Passenger Property Loss,2014,3
+DLH,Property Damage,2014,1
+DSM,Property Damage,2014,11
+DSM,Passenger Property Loss,2014,4
+DTW,Passenger Property Loss,2014,42
+DTW,Property Damage,2014,31
+DTW,Unknown,2014,1
+EAT,Property Damage,2014,1
+EAT,Passenger Property Loss,2014,1
+EAU,Property Damage,2014,1
+ECP,Passenger Property Loss,2014,3
+EGE,Passenger Property Loss,2014,3
+EGE,Property Damage,2014,2
+EKO,Property Damage,2014,1
+EKO,Passenger Property Loss,2014,1
+ELM,Property Damage,2014,3
+ELP,Passenger Property Loss,2014,8
+ELP,Property Damage,2014,5
+ENV,Property Damage,2014,2
+ENV,Passenger Property Loss,2014,1
+ERI,Property Damage,2014,1
+EUG,Property Damage,2014,3
+EUG,Passenger Property Loss,2014,1
+EUG,Complaint,2014,1
+EVV,Passenger Property Loss,2014,1
+EWN,Property Damage,2014,3
+EWR,Passenger Property Loss,2014,201
+EWR,Property Damage,2014,115
+EWR,Personal Injury,2014,4
+EWR,Unknown,2014,2
+EYW,Passenger Property Loss,2014,1
+F,Passenger Property Loss,2014,75
+F,Property Damage,2014,39
+F,Unknown,2014,1
+F,Complaint,2014,1
+FAI,Passenger Property Loss,2014,3
+FAI,Property Damage,2014,1
+FAR,Property Damage,2014,5
+FAR,Passenger Property Loss,2014,1
+FAT,Passenger Property Loss,2014,4
+FAT,Property Damage,2014,1
+FAY,Property Damage,2014,4
+FAY,Passenger Property Loss,2014,1
+FLG,Property Damage,2014,1
+FLG,Passenger Property Loss,2014,1
+FLL,Passenger Property Loss,2014,109
+FLL,Property Damage,2014,88
+FLL,Personal Injury,2014,2
+FLO,Passenger Property Loss,2014,1
+FNT,Passenger Property Loss,2014,3
+FNT,Property Damage,2014,1
+FWA,Passenger Property Loss,2014,3
+FWA,Property Damage,2014,1
+GCC,Motor Vehicle,2014,1
+GCK,Passenger Property Loss,2014,1
+GEG,Property Damage,2014,16
+GEG,Passenger Property Loss,2014,6
+GFK,Passenger Property Loss,2014,4
+GJT,Property Damage,2014,1
+GJT,Passenger Property Loss,2014,1
+GNV,Passenger Property Loss,2014,1
+GNV,Property Damage,2014,1
+GPI,Passenger Property Loss,2014,3
+GPI,Property Damage,2014,1
+GPT,Passenger Property Loss,2014,2
+GPT,Property Damage,2014,2
+GRB,Passenger Property Loss,2014,3
+GRB,Property Damage,2014,1
+GRI,Passenger Property Loss,2014,2
+GRI,Property Damage,2014,1
+GRK,Passenger Property Loss,2014,4
+GRK,Property Damage,2014,1
+GRR,Property Damage,2014,12
+GRR,Passenger Property Loss,2014,3
+GRR,Unknown,2014,1
+GSO,Passenger Property Loss,2014,2
+GSP,Passenger Property Loss,2014,4
+GSP,Property Damage,2014,2
+GST,Property Damage,2014,1
+GTF,Passenger Property Loss,2014,1
+GTR,Property Damage,2014,1
+GUC,Passenger Property Loss,2014,1
+GUM,Property Damage,2014,3
+GUM,Passenger Property Loss,2014,2
+HDQ,Passenger Property Loss,2014,2
+HDQ,Personal Injury,2014,1
+HGR,Property Damage,2014,1
+HIB,Passenger Property Loss,2014,1
+HNL,Passenger Property Loss,2014,87
+HNL,Property Damage,2014,55
+HNL,Personal Injury,2014,2
+HOU,Property Damage,2014,24
+HOU,Passenger Property Loss,2014,21
+HPN,Passenger Property Loss,2014,5
+HPN,Property Damage,2014,2
+HRL,Passenger Property Loss,2014,8
+HSV,Property Damage,2014,5
+HSV,Passenger Property Loss,2014,1
+HTS,Property Damage,2014,1
+HXD,Passenger Property Loss,2014,2
+HYA,Passenger Property Loss,2014,1
+IAD,Passenger Property Loss,2014,111
+IAD,Property Damage,2014,87
+IAD,Personal Injury,2014,3
+IAD,Unknown,2014,1
+IAG,Passenger Property Loss,2014,1
+IAH,Passenger Property Loss,2014,106
+IAH,Property Damage,2014,82
+IAH,Personal Injury,2014,1
+ICT,Property Damage,2014,4
+ICT,Passenger Property Loss,2014,3
+IDA,Passenger Property Loss,2014,2
+IDA,Property Damage,2014,2
+IFP,Property Damage,2014,3
+ILG,Property Damage,2014,4
+ILG,Passenger Property Loss,2014,1
+ILG,Complaint,2014,1
+ILM,Passenger Property Loss,2014,2
+ILM,Property Damage,2014,1
+IND,Passenger Property Loss,2014,24
+IND,Property Damage,2014,20
+IND,Personal Injury,2014,1
+INL,Property Damage,2014,1
+INL,Passenger Property Loss,2014,1
+IPT,Property Damage,2014,1
+ISN,Property Damage,2014,1
+ISP,Property Damage,2014,4
+ISP,Passenger Property Loss,2014,2
+ISP,Unknown,2014,1
+ITH,Property Damage,2014,1
+ITO,Passenger Property Loss,2014,5
+ITO,Property Damage,2014,1
+IWA,Property Damage,2014,4
+IWA,Passenger Property Loss,2014,2
+JAC,Property Damage,2014,1
+JAC,Passenger Property Loss,2014,1
+JAN,Passenger Property Loss,2014,10
+JAN,Property Damage,2014,2
+JAX,Passenger Property Loss,2014,18
+JAX,Property Damage,2014,12
+JAX,Personal Injury,2014,1
+JBR,Passenger Property Loss,2014,1
+JFK,Passenger Property Loss,2014,369
+JFK,Property Damage,2014,243
+JFK,Personal Injury,2014,2
+JFK,Unknown,2014,1
+JFK,Motor Vehicle,2014,1
+JLN,Passenger Property Loss,2014,1
+JNU,Passenger Property Loss,2014,3
+JNU,Property Damage,2014,2
+KOA,Passenger Property Loss,2014,14
+KOA,Property Damage,2014,7
+KTN,Personal Injury,2014,1
+LAS,Passenger Property Loss,2014,127
+LAS,Property Damage,2014,90
+LAS,Personal Injury,2014,7
+LAX,Passenger Property Loss,2014,246
+LAX,Property Damage,2014,193
+LAX,Personal Injury,2014,4
+LBB,Property Damage,2014,4
+LBB,Passenger Property Loss,2014,4
+LBE,Property Damage,2014,2
+LCH,Property Damage,2014,1
+LCK,Passenger Property Loss,2014,3
+LCK,Property Damage,2014,1
+LEX,Passenger Property Loss,2014,8
+LEX,Property Damage,2014,4
+LFT,Passenger Property Loss,2014,6
+LFT,Property Damage,2014,1
+LGA,Property Damage,2014,64
+LGA,Passenger Property Loss,2014,57
+LGA,Personal Injury,2014,3
+LGA,Unknown,2014,2
+LGB,Property Damage,2014,10
+LGB,Passenger Property Loss,2014,2
+LIH,Passenger Property Loss,2014,14
+LIH,Property Damage,2014,11
+LIT,Property Damage,2014,5
+LIT,Passenger Property Loss,2014,4
+LIT,Motor Vehicle,2014,1
+LNK,Property Damage,2014,2
+LSE,Passenger Property Loss,2014,1
+LWS,Property Damage,2014,1
+LYH,Passenger Property Loss,2014,3
+LYH,Personal Injury,2014,1
+MAF,Passenger Property Loss,2014,3
+MAF,Property Damage,2014,1
+MBS,Passenger Property Loss,2014,1
+MCI,Passenger Property Loss,2014,2
+MCI,Property Damage,2014,1
+MCO,Passenger Property Loss,2014,201
+MCO,Property Damage,2014,146
+MCO,Personal Injury,2014,2
+MCO,Complaint,2014,1
+MDT,Property Damage,2014,3
+MDT,Passenger Property Loss,2014,3
+MDW,Passenger Property Loss,2014,48
+MDW,Property Damage,2014,38
+MEM,Passenger Property Loss,2014,15
+MEM,Property Damage,2014,10
+MFE,Property Damage,2014,2
+MFE,Passenger Property Loss,2014,2
+MFR,Passenger Property Loss,2014,5
+MGM,Property Damage,2014,1
+MGW,Property Damage,2014,1
+MHK,Passenger Property Loss,2014,4
+MHK,Property Damage,2014,2
+MHT,Property Damage,2014,13
+MHT,Passenger Property Loss,2014,9
+MIA,Passenger Property Loss,2014,196
+MIA,Property Damage,2014,136
+MIA,Personal Injury,2014,3
+MKE,Passenger Property Loss,2014,21
+MKE,Property Damage,2014,15
+MKE,Personal Injury,2014,1
+MKK,Property Damage,2014,1
+MLI,Property Damage,2014,3
+MLI,Passenger Property Loss,2014,3
+MLU,Property Damage,2014,1
+MMH,Property Damage,2014,2
+MMH,Compliment,2014,1
+MOB,Property Damage,2014,5
+MOB,Passenger Property Loss,2014,2
+MOT,Property Damage,2014,1
+MOT,Passenger Property Loss,2014,1
+MRY,Passenger Property Loss,2014,3
+MRY,Property Damage,2014,1
+MSL,Property Damage,2014,1
+MSN,Property Damage,2014,4
+MSN,Passenger Property Loss,2014,4
+MSO,Passenger Property Loss,2014,3
+MSO,Property Damage,2014,1
+MSP,Property Damage,2014,53
+MSP,Passenger Property Loss,2014,45
+MSP,Unknown,2014,1
+MSY,Passenger Property Loss,2014,42
+MSY,Property Damage,2014,27
+MSY,Personal Injury,2014,1
+MSY,Complaint,2014,1
+MTJ,Property Damage,2014,2
+MVY,Passenger Property Loss,2014,4
+MYR,Property Damage,2014,4
+MYR,Passenger Property Loss,2014,2
+OAK,Passenger Property Loss,2014,55
+OAK,Property Damage,2014,30
+OAK,Unknown,2014,1
+OGG,Property Damage,2014,22
+OGG,Passenger Property Loss,2014,20
+OKC,Passenger Property Loss,2014,8
+OKC,Property Damage,2014,4
+OMA,Passenger Property Loss,2014,17
+OMA,Property Damage,2014,10
+OMA,Complaint,2014,1
+OME,Passenger Property Loss,2014,1
+ONT,Passenger Property Loss,2014,13
+ONT,Property Damage,2014,12
+ONT,Personal Injury,2014,1
+ORD,Property Damage,2014,125
+ORD,Passenger Property Loss,2014,118
+ORD,Unknown,2014,2
+ORD,Personal Injury,2014,2
+ORD,Employee Loss (MPCECA),2014,1
+ORF,Passenger Property Loss,2014,10
+ORF,Property Damage,2014,4
+ORH,Property Damage,2014,1
+ORH,Passenger Property Loss,2014,1
+OTH,Property Damage,2014,1
+PBI,Passenger Property Loss,2014,25
+PBI,Property Damage,2014,19
+PBI,Personal Injury,2014,1
+PDX,Passenger Property Loss,2014,51
+PDX,Property Damage,2014,34
+PDX,Motor Vehicle,2014,1
+PFN,Property Damage,2014,1
+PGA,Property Damage,2014,1
+PGD,Property Damage,2014,3
+PGD,Passenger Property Loss,2014,2
+PGV,Passenger Property Loss,2014,2
+PHF,Passenger Property Loss,2014,2
+PHL,Passenger Property Loss,2014,88
+PHL,Property Damage,2014,79
+PHL,Unknown,2014,2
+PHX,Passenger Property Loss,2014,128
+PHX,Property Damage,2014,85
+PHX,Personal Injury,2014,4
+PHX,Unknown,2014,2
+PHX,Complaint,2014,2
+PIA,Passenger Property Loss,2014,3
+PIE,Property Damage,2014,4
+PIE,Passenger Property Loss,2014,3
+PIT,Passenger Property Loss,2014,14
+PIT,Property Damage,2014,13
+PLN,Passenger Property Loss,2014,3
+PLN,Property Damage,2014,1
+PNS,Passenger Property Loss,2014,6
+PNS,Property Damage,2014,5
+PNS,Personal Injury,2014,1
+PSC,Passenger Property Loss,2014,1
+PSE,Complaint,2014,2
+PSE,Personal Injury,2014,1
+PSE,Property Damage,2014,1
+PSG,Property Damage,2014,1
+PSG,Passenger Property Loss,2014,1
+PSM,Passenger Property Loss,2014,1
+PSP,Property Damage,2014,11
+PSP,Passenger Property Loss,2014,9
+PUW,Property Damage,2014,1
+PUW,Passenger Property Loss,2014,1
+PVD,Property Damage,2014,16
+PVD,Passenger Property Loss,2014,14
+PWM,Passenger Property Loss,2014,9
+PWM,Property Damage,2014,6
+RAP,Passenger Property Loss,2014,1
+RAP,Property Damage,2014,1
+RDD,Passenger Property Loss,2014,2
+RDM,Passenger Property Loss,2014,2
+RDM,Property Damage,2014,1
+RDU,Property Damage,2014,24
+RDU,Passenger Property Loss,2014,22
+RFD,Property Damage,2014,1
+RIC,Property Damage,2014,14
+RIC,Passenger Property Loss,2014,14
+RIC,Complaint,2014,1
+RNO,Passenger Property Loss,2014,18
+RNO,Property Damage,2014,16
+RNO,Personal Injury,2014,1
+ROA,Passenger Property Loss,2014,2
+ROA,Property Damage,2014,1
+ROC,Property Damage,2014,3
+ROC,Passenger Property Loss,2014,2
+RST,Property Damage,2014,1
+RST,Passenger Property Loss,2014,1
+RSW,Passenger Property Loss,2014,38
+RSW,Property Damage,2014,28
+SAF,Property Damage,2014,3
+SAF,Passenger Property Loss,2014,3
+SAN,Passenger Property Loss,2014,65
+SAN,Property Damage,2014,64
+SAN,Unknown,2014,1
+SAT,Passenger Property Loss,2014,29
+SAT,Property Damage,2014,22
+SAT,Personal Injury,2014,2
+SAT,Unknown,2014,1
+SAV,Passenger Property Loss,2014,20
+SAV,Property Damage,2014,7
+SAV,Motor Vehicle,2014,1
+SBA,Property Damage,2014,4
+SBA,Passenger Property Loss,2014,3
+SBN,Property Damage,2014,2
+SBP,Property Damage,2014,2
+SBP,Passenger Property Loss,2014,2
+SCC,Passenger Property Loss,2014,1
+SCK,Passenger Property Loss,2014,1
+SDF,Passenger Property Loss,2014,9
+SDF,Property Damage,2014,4
+SDY,Passenger Property Loss,2014,1
+SEA,Passenger Property Loss,2014,129
+SEA,Property Damage,2014,70
+SEA,Unknown,2014,1
+SFB,Property Damage,2014,11
+SFB,Passenger Property Loss,2014,1
+SFO,Passenger Property Loss,2014,18
+SFO,Property Damage,2014,9
+SFO,Personal Injury,2014,1
+SGF,Passenger Property Loss,2014,5
+SGF,Property Damage,2014,2
+SGU,Passenger Property Loss,2014,1
+SHV,Property Damage,2014,3
+SHV,Passenger Property Loss,2014,2
+SIT,Passenger Property Loss,2014,1
+SJC,Passenger Property Loss,2014,25
+SJC,Property Damage,2014,18
+SJT,Passenger Property Loss,2014,1
+SJT,Property Damage,2014,1
+SJU,Passenger Property Loss,2014,54
+SJU,Property Damage,2014,28
+SLC,Property Damage,2014,42
+SLC,Passenger Property Loss,2014,28
+SMF,Passenger Property Loss,2014,29
+SMF,Property Damage,2014,19
+SNA,Passenger Property Loss,2014,37
+SNA,Property Damage,2014,19
+SPI,Passenger Property Loss,2014,1
+SPS,Passenger Property Loss,2014,1
+SRQ,Property Damage,2014,6
+SRQ,Passenger Property Loss,2014,4
+SRQ,Personal Injury,2014,1
+STL,Passenger Property Loss,2014,33
+STL,Property Damage,2014,24
+STL,Employee Loss (MPCECA),2014,1
+STT,Passenger Property Loss,2014,11
+STT,Property Damage,2014,6
+STX,Passenger Property Loss,2014,2
+STX,Property Damage,2014,2
+SUN,Property Damage,2014,2
+SWF,Property Damage,2014,1
+SWF,Passenger Property Loss,2014,1
+SYR,Passenger Property Loss,2014,4
+SYR,Property Damage,2014,4
+TLH,Passenger Property Loss,2014,6
+TLH,Property Damage,2014,3
+TOL,Property Damage,2014,1
+TOL,Passenger Property Loss,2014,1
+TPA,Property Damage,2014,55
+TPA,Passenger Property Loss,2014,53
+TPA,Personal Injury,2014,1
+TRI,Property Damage,2014,6
+TRI,Passenger Property Loss,2014,6
+TRI,Employee Loss (MPCECA),2014,1
+TSA,Passenger Property Loss,2014,3
+TSA,Property Damage,2014,2
+TSA,Unknown,2014,1
+TTN,Passenger Property Loss,2014,3
+TTN,Property Damage,2014,2
+TUL,Passenger Property Loss,2014,9
+TUL,Property Damage,2014,8
+TUS,Property Damage,2014,14
+TUS,Passenger Property Loss,2014,12
+TVC,Passenger Property Loss,2014,4
+TVC,Property Damage,2014,1
+TWF,Property Damage,2014,1
+TWF,Unknown,2014,1
+TYR,Passenger Property Loss,2014,5
+TYR,Property Damage,2014,2
+TYS,Property Damage,2014,4
+TYS,Passenger Property Loss,2014,2
+UNV,Property Damage,2014,1
+UNV,Passenger Property Loss,2014,1
+UTA,Passenger Property Loss,2014,1
+Unknown,Passenger Property Loss,2014,29
+Unknown,Property Damage,2014,23
+Unknown,Unknown,2014,5
+Unknown,Personal Injury,2014,2
+Unknown,Motor Vehicle,2014,1
+Unknown,Compliment,2014,1
+VPS,Passenger Property Loss,2014,3
+VPS,Property Damage,2014,2
+XNA,Passenger Property Loss,2014,3
+XNA,Property Damage,2014,3
+YAK,Property Damage,2014,1
+YKM,Property Damage,2014,1
+YNG,Passenger Property Loss,2014,6
+YNG,Property Damage,2014,2
+YUM,Passenger Property Loss,2014,3
+YUM,Property Damage,2014,2
+ZZX,Motor Vehicle,2014,19
+ZZX,Personal Injury,2014,8
+ZZX,Property Damage,2014,5
+ZZX,Employee Loss (MPCECA),2014,1
+ZZZ,Personal Injury,2014,1
+ABE,Property Damage,2015,3
+ABE,Passenger Property Loss,2015,1
+ABI,Passenger Property Loss,2015,2
+ABQ,Passenger Property Loss,2015,9
+ABQ,Property Damage,2015,6
+ABQ,Unknown,2015,1
+ABR,Passenger Property Loss,2015,2
+ABR,Property Damage,2015,1
+ABR,Complaint,2015,1
+ACK,Passenger Property Loss,2015,1
+ACT,Passenger Property Loss,2015,1
+ACV,Passenger Property Loss,2015,1
+ACY,Property Damage,2015,4
+ACY,Passenger Property Loss,2015,2
+ADK,Passenger Property Loss,2015,1
+ADQ,Property Damage,2015,1
+AGS,Property Damage,2015,2
+AGS,Passenger Property Loss,2015,1
+ALB,Property Damage,2015,13
+ALB,Passenger Property Loss,2015,9
+ALO,Passenger Property Loss,2015,2
+ALW,Property Damage,2015,1
+ALW,Passenger Property Loss,2015,1
+AMA,Property Damage,2015,1
+AMA,Passenger Property Loss,2015,1
+ANC,Passenger Property Loss,2015,17
+ANC,Property Damage,2015,13
+APN,Passenger Property Loss,2015,1
+ASE,Passenger Property Loss,2015,3
+ASE,Property Damage,2015,1
+ATL,Passenger Property Loss,2015,167
+ATL,Property Damage,2015,161
+ATL,Personal Injury,2015,3
+ATL,Complaint,2015,1
+ATW,Property Damage,2015,1
+ATW,Passenger Property Loss,2015,1
+AUS,Property Damage,2015,30
+AUS,Passenger Property Loss,2015,24
+AVL,Property Damage,2015,3
+AVL,Passenger Property Loss,2015,2
+AVP,Personal Injury,2015,1
+AZO,Passenger Property Loss,2015,1
+BDL,Passenger Property Loss,2015,18
+BDL,Property Damage,2015,15
+BDL,Complaint,2015,1
+BFL,Passenger Property Loss,2015,2
+BFL,Property Damage,2015,1
+BGM,Passenger Property Loss,2015,1
+BGR,Property Damage,2015,2
+BGR,Passenger Property Loss,2015,1
+BHM,Property Damage,2015,6
+BHM,Passenger Property Loss,2015,3
+BIL,Passenger Property Loss,2015,4
+BIL,Property Damage,2015,1
+BIS,Passenger Property Loss,2015,2
+BJI,Property Damage,2015,1
+BJI,Passenger Property Loss,2015,1
+BLI,Property Damage,2015,2
+BLV,Passenger Property Loss,2015,1
+BMI,Property Damage,2015,2
+BMI,Passenger Property Loss,2015,1
+BNA,Property Damage,2015,27
+BNA,Passenger Property Loss,2015,22
+BNA,Unknown,2015,1
+BNA,Personal Injury,2015,1
+BOI,Passenger Property Loss,2015,5
+BOI,Property Damage,2015,4
+BOI,Personal Injury,2015,1
+BOS,Passenger Property Loss,2015,105
+BOS,Property Damage,2015,87
+BOS,Personal Injury,2015,3
+BQK,Passenger Property Loss,2015,1
+BQK,Property Damage,2015,1
+BQN,Property Damage,2015,1
+BQN,Passenger Property Loss,2015,1
+BRD,Property Damage,2015,1
+BTR,Property Damage,2015,2
+BTR,Passenger Property Loss,2015,1
+BTV,Passenger Property Loss,2015,5
+BTV,Property Damage,2015,1
+BUF,Property Damage,2015,12
+BUF,Passenger Property Loss,2015,10
+BUR,Passenger Property Loss,2015,8
+BUR,Property Damage,2015,7
+BWI,Passenger Property Loss,2015,60
+BWI,Property Damage,2015,43
+BWI,Unknown,2015,2
+BZN,Passenger Property Loss,2015,1
+CAE,Property Damage,2015,3
+CAE,Passenger Property Loss,2015,1
+CAK,Property Damage,2015,4
+CAK,Passenger Property Loss,2015,4
+CHA,Property Damage,2015,3
+CHA,Passenger Property Loss,2015,1
+CHS,Passenger Property Loss,2015,19
+CHS,Property Damage,2015,10
+CID,Passenger Property Loss,2015,2
+CID,Property Damage,2015,1
+CKB,Property Damage,2015,1
+CKB,Passenger Property Loss,2015,1
+CKB,Unknown,2015,1
+CLE,Passenger Property Loss,2015,31
+CLE,Property Damage,2015,24
+CLL,Passenger Property Loss,2015,1
+CLT,Property Damage,2015,52
+CLT,Passenger Property Loss,2015,45
+CMH,Passenger Property Loss,2015,21
+CMH,Property Damage,2015,13
+CMH,Personal Injury,2015,2
+CMI,Passenger Property Loss,2015,2
+COD,Passenger Property Loss,2015,1
+COS,Property Damage,2015,4
+COS,Passenger Property Loss,2015,2
+CRP,Property Damage,2015,3
+CRP,Passenger Property Loss,2015,2
+CRW,Property Damage,2015,1
+CSG,Property Damage,2015,1
+CVG,Passenger Property Loss,2015,17
+CVG,Property Damage,2015,9
+CVG,Unknown,2015,1
+CVG,Personal Injury,2015,1
+CWA,Passenger Property Loss,2015,1
+DAB,Property Damage,2015,5
+DAB,Passenger Property Loss,2015,2
+DAB,Personal Injury,2015,1
+DAL,Property Damage,2015,30
+DAL,Passenger Property Loss,2015,30
+DAL,Personal Injury,2015,2
+DAY,Passenger Property Loss,2015,8
+DAY,Property Damage,2015,5
+DBQ,Property Damage,2015,1
+DCA,Passenger Property Loss,2015,52
+DCA,Property Damage,2015,39
+DCA,Unknown,2015,1
+DEN,Passenger Property Loss,2015,89
+DEN,Property Damage,2015,68
+DEN,Complaint,2015,2
+DEN,Personal Injury,2015,2
+DFW,Passenger Property Loss,2015,82
+DFW,Property Damage,2015,78
+DFW,Unknown,2015,2
+DFW,Personal Injury,2015,1
+DHN,Passenger Property Loss,2015,4
+DHN,Property Damage,2015,2
+DIK,Passenger Property Loss,2015,1
+DLH,Passenger Property Loss,2015,1
+DRO,Passenger Property Loss,2015,2
+DRO,Property Damage,2015,1
+DSM,Passenger Property Loss,2015,6
+DSM,Property Damage,2015,3
+DTW,Passenger Property Loss,2015,34
+DTW,Property Damage,2015,22
+DTW,Personal Injury,2015,1
+EAT,Property Damage,2015,2
+EAT,Passenger Property Loss,2015,2
+EAU,Passenger Property Loss,2015,1
+ECP,Passenger Property Loss,2015,2
+EGE,Property Damage,2015,2
+EGE,Passenger Property Loss,2015,2
+EKO,Property Damage,2015,1
+EKO,Passenger Property Loss,2015,1
+ELM,Property Damage,2015,3
+ELM,Passenger Property Loss,2015,2
+ELP,Property Damage,2015,12
+ELP,Passenger Property Loss,2015,5
+ERI,Property Damage,2015,1
+ERI,Passenger Property Loss,2015,1
+EUG,Property Damage,2015,3
+EUG,Passenger Property Loss,2015,1
+EVV,Property Damage,2015,1
+EWN,Property Damage,2015,2
+EWN,Passenger Property Loss,2015,1
+EWR,Passenger Property Loss,2015,177
+EWR,Property Damage,2015,107
+EWR,Motor Vehicle,2015,1
+EWR,Complaint,2015,1
+EYW,Passenger Property Loss,2015,1
+F,Passenger Property Loss,2015,58
+F,Property Damage,2015,31
+F,Unknown,2015,1
+F,Personal Injury,2015,1
+F,Complaint,2015,1
+FAI,Passenger Property Loss,2015,3
+FAT,Property Damage,2015,6
+FAT,Passenger Property Loss,2015,5
+FAY,Property Damage,2015,3
+FLL,Passenger Property Loss,2015,78
+FLL,Property Damage,2015,73
+FLL,Employee Loss (MPCECA),2015,1
+FSD,Property Damage,2015,1
+FSD,Passenger Property Loss,2015,1
+FSM,Property Damage,2015,1
+FWA,Passenger Property Loss,2015,2
+FWA,Property Damage,2015,1
+GCK,Passenger Property Loss,2015,1
+GEG,Property Damage,2015,9
+GEG,Passenger Property Loss,2015,6
+GFK,Passenger Property Loss,2015,2
+GGG,Passenger Property Loss,2015,2
+GGG,Property Damage,2015,1
+GJT,Property Damage,2015,2
+GJT,Passenger Property Loss,2015,1
+GPT,Passenger Property Loss,2015,5
+GPT,Property Damage,2015,4
+GRB,Property Damage,2015,2
+GRI,Property Damage,2015,2
+GRK,Property Damage,2015,4
+GRK,Passenger Property Loss,2015,3
+GRO,Property Damage,2015,1
+GRR,Passenger Property Loss,2015,5
+GRR,Property Damage,2015,4
+GSO,Property Damage,2015,6
+GSO,Passenger Property Loss,2015,5
+GSP,Property Damage,2015,4
+GSP,Passenger Property Loss,2015,2
+GST,Passenger Property Loss,2015,1
+GUM,Property Damage,2015,2
+GUM,Passenger Property Loss,2015,2
+HDN,Passenger Property Loss,2015,2
+HDQ,Passenger Property Loss,2015,1
+HLN,Property Damage,2015,1
+HNL,Passenger Property Loss,2015,73
+HNL,Property Damage,2015,29
+HNL,Personal Injury,2015,4
+HOB,Passenger Property Loss,2015,1
+HOM,Passenger Property Loss,2015,2
+HOU,Passenger Property Loss,2015,34
+HOU,Property Damage,2015,27
+HPN,Property Damage,2015,7
+HPN,Passenger Property Loss,2015,4
+HRL,Passenger Property Loss,2015,3
+HRL,Property Damage,2015,1
+HSV,Property Damage,2015,4
+HSV,Passenger Property Loss,2015,3
+HTS,Passenger Property Loss,2015,1
+HVN,Passenger Property Loss,2015,1
+HXD,Passenger Property Loss,2015,4
+HXD,Property Damage,2015,1
+IAD,Passenger Property Loss,2015,77
+IAD,Property Damage,2015,71
+IAD,Personal Injury,2015,1
+IAG,Property Damage,2015,1
+IAH,Passenger Property Loss,2015,74
+IAH,Property Damage,2015,58
+IAH,Personal Injury,2015,2
+IAH,Unknown,2015,1
+IAH,Complaint,2015,1
+ICT,Property Damage,2015,6
+ICT,Passenger Property Loss,2015,3
+IDA,Passenger Property Loss,2015,1
+IFP,Passenger Property Loss,2015,1
+IFP,Property Damage,2015,1
+ILM,Passenger Property Loss,2015,3
+ILM,Property Damage,2015,2
+IND,Property Damage,2015,12
+IND,Passenger Property Loss,2015,11
+IND,Unknown,2015,1
+ISP,Property Damage,2015,6
+ISP,Passenger Property Loss,2015,5
+ISP,Complaint,2015,1
+ITO,Property Damage,2015,6
+ITO,Passenger Property Loss,2015,2
+IWA,Passenger Property Loss,2015,4
+IWA,Property Damage,2015,2
+JAN,Property Damage,2015,6
+JAN,Passenger Property Loss,2015,5
+JAX,Passenger Property Loss,2015,16
+JAX,Property Damage,2015,9
+JAX,Personal Injury,2015,1
+JFK,Passenger Property Loss,2015,266
+JFK,Property Damage,2015,195
+JFK,Personal Injury,2015,4
+JFK,Complaint,2015,2
+JFK,Unknown,2015,1
+JNU,Property Damage,2015,3
+JQF,Passenger Property Loss,2015,4
+KOA,Passenger Property Loss,2015,15
+KOA,Property Damage,2015,14
+KOA,Personal Injury,2015,1
+KTN,Passenger Property Loss,2015,3
+LAN,Property Damage,2015,2
+LAN,Passenger Property Loss,2015,1
+LAS,Passenger Property Loss,2015,129
+LAS,Property Damage,2015,97
+LAS,Personal Injury,2015,2
+LAS,Unknown,2015,1
+LAX,Passenger Property Loss,2015,238
+LAX,Property Damage,2015,200
+LAX,Personal Injury,2015,6
+LAX,Complaint,2015,2
+LBB,Passenger Property Loss,2015,2
+LBB,Property Damage,2015,1
+LBE,Passenger Property Loss,2015,3
+LBE,Property Damage,2015,1
+LCK,Passenger Property Loss,2015,4
+LCK,Property Damage,2015,1
+LEB,Passenger Property Loss,2015,1
+LEX,Property Damage,2015,6
+LEX,Passenger Property Loss,2015,4
+LFT,Passenger Property Loss,2015,2
+LFT,Property Damage,2015,1
+LGA,Passenger Property Loss,2015,53
+LGA,Property Damage,2015,52
+LGA,Personal Injury,2015,1
+LGB,Passenger Property Loss,2015,10
+LGB,Property Damage,2015,4
+LIH,Passenger Property Loss,2015,10
+LIH,Property Damage,2015,7
+LIT,Property Damage,2015,9
+LIT,Passenger Property Loss,2015,7
+LNK,Property Damage,2015,1
+LNK,Passenger Property Loss,2015,1
+LWS,Property Damage,2015,2
+LYH,Passenger Property Loss,2015,3
+LYH,Property Damage,2015,1
+MAF,Property Damage,2015,1
+MAF,Passenger Property Loss,2015,1
+MBS,Passenger Property Loss,2015,1
+MCI,Passenger Property Loss,2015,7
+MCI,Property Damage,2015,3
+MCO,Passenger Property Loss,2015,191
+MCO,Property Damage,2015,131
+MCO,Personal Injury,2015,3
+MCO,Complaint,2015,1
+MDT,Property Damage,2015,5
+MDT,Passenger Property Loss,2015,2
+MDW,Passenger Property Loss,2015,34
+MDW,Property Damage,2015,22
+MDW,Personal Injury,2015,1
+MEM,Passenger Property Loss,2015,11
+MEM,Property Damage,2015,10
+MFE,Passenger Property Loss,2015,2
+MFE,Property Damage,2015,1
+MFR,Property Damage,2015,6
+MFR,Passenger Property Loss,2015,3
+MGM,Passenger Property Loss,2015,1
+MHK,Passenger Property Loss,2015,2
+MHK,Property Damage,2015,1
+MHT,Property Damage,2015,13
+MHT,Passenger Property Loss,2015,7
+MIA,Passenger Property Loss,2015,160
+MIA,Property Damage,2015,112
+MIA,Unknown,2015,2
+MIA,Personal Injury,2015,1
+MIA,Complaint,2015,1
+MKE,Passenger Property Loss,2015,19
+MKE,Property Damage,2015,18
+MKK,Property Damage,2015,1
+MLB,Property Damage,2015,2
+MLB,Passenger Property Loss,2015,1
+MLI,Property Damage,2015,4
+MLI,Passenger Property Loss,2015,3
+MLU,Passenger Property Loss,2015,2
+MMH,Property Damage,2015,2
+MMH,Passenger Property Loss,2015,1
+MOB,Property Damage,2015,1
+MOB,Passenger Property Loss,2015,1
+MOT,Property Damage,2015,2
+MOT,Passenger Property Loss,2015,1
+MSN,Property Damage,2015,4
+MSN,Passenger Property Loss,2015,2
+MSO,Passenger Property Loss,2015,2
+MSO,Property Damage,2015,1
+MSP,Property Damage,2015,43
+MSP,Passenger Property Loss,2015,34
+MSP,Personal Injury,2015,2
+MSP,Unknown,2015,1
+MSY,Property Damage,2015,34
+MSY,Passenger Property Loss,2015,32
+MSY,Personal Injury,2015,1
+MSY,Complaint,2015,1
+MTJ,Passenger Property Loss,2015,2
+MVY,Passenger Property Loss,2015,2
+MVY,Property Damage,2015,1
+MYR,Property Damage,2015,5
+MYR,Passenger Property Loss,2015,2
+OAJ,Passenger Property Loss,2015,3
+OAJ,Property Damage,2015,2
+OAK,Passenger Property Loss,2015,39
+OAK,Property Damage,2015,33
+OGG,Passenger Property Loss,2015,20
+OGG,Property Damage,2015,18
+OGG,Unknown,2015,1
+OKC,Property Damage,2015,10
+OKC,Passenger Property Loss,2015,8
+OMA,Property Damage,2015,9
+OMA,Passenger Property Loss,2015,5
+OME,Property Damage,2015,1
+OME,Passenger Property Loss,2015,1
+ONT,Passenger Property Loss,2015,10
+ONT,Property Damage,2015,9
+ORD,Property Damage,2015,117
+ORD,Passenger Property Loss,2015,113
+ORD,Personal Injury,2015,2
+ORD,Employee Loss (MPCECA),2015,2
+ORD,Unknown,2015,2
+ORF,Passenger Property Loss,2015,13
+ORF,Property Damage,2015,12
+ORH,Property Damage,2015,1
+OTH,Passenger Property Loss,2015,2
+OTZ,Passenger Property Loss,2015,1
+PBG,Passenger Property Loss,2015,1
+PBI,Passenger Property Loss,2015,26
+PBI,Property Damage,2015,13
+PBI,Personal Injury,2015,1
+PDX,Passenger Property Loss,2015,36
+PDX,Property Damage,2015,29
+PDX,Personal Injury,2015,2
+PDX,Employee Loss (MPCECA),2015,1
+PGD,Property Damage,2015,3
+PGD,Passenger Property Loss,2015,2
+PGV,Passenger Property Loss,2015,1
+PHF,Property Damage,2015,3
+PHF,Passenger Property Loss,2015,1
+PHL,Passenger Property Loss,2015,76
+PHL,Property Damage,2015,67
+PHL,Personal Injury,2015,1
+PHL,Motor Vehicle,2015,1
+PHL,Employee Loss (MPCECA),2015,1
+PHX,Passenger Property Loss,2015,139
+PHX,Property Damage,2015,75
+PHX,Personal Injury,2015,3
+PHX,Complaint,2015,2
+PHX,Unknown,2015,1
+PIA,Property Damage,2015,2
+PIE,Property Damage,2015,4
+PIT,Property Damage,2015,26
+PIT,Passenger Property Loss,2015,13
+PIT,Unknown,2015,1
+PLN,Property Damage,2015,1
+PNS,Property Damage,2015,8
+PNS,Passenger Property Loss,2015,4
+PQI,Passenger Property Loss,2015,1
+PSC,Property Damage,2015,1
+PSC,Passenger Property Loss,2015,1
+PSE,Property Damage,2015,1
+PSE,Passenger Property Loss,2015,1
+PSG,Passenger Property Loss,2015,1
+PSP,Passenger Property Loss,2015,10
+PSP,Property Damage,2015,7
+PVD,Property Damage,2015,7
+PVD,Passenger Property Loss,2015,7
+PWM,Property Damage,2015,8
+PWM,Passenger Property Loss,2015,2
+PWM,Personal Injury,2015,1
+PWM,Motor Vehicle,2015,1
+RAP,Property Damage,2015,2
+RAP,Passenger Property Loss,2015,2
+RDD,Passenger Property Loss,2015,1
+RDM,Property Damage,2015,6
+RDM,Passenger Property Loss,2015,2
+RDU,Passenger Property Loss,2015,33
+RDU,Property Damage,2015,27
+RHI,Property Damage,2015,1
+RIC,Passenger Property Loss,2015,10
+RIC,Property Damage,2015,8
+RIC,Personal Injury,2015,1
+RNO,Property Damage,2015,15
+RNO,Passenger Property Loss,2015,15
+RNO,Complaint,2015,1
+ROA,Passenger Property Loss,2015,5
+ROA,Property Damage,2015,3
+ROC,Passenger Property Loss,2015,3
+RSW,Passenger Property Loss,2015,26
+RSW,Property Damage,2015,24
+SAF,Passenger Property Loss,2015,4
+SAN,Property Damage,2015,59
+SAN,Passenger Property Loss,2015,52
+SAT,Passenger Property Loss,2015,18
+SAT,Property Damage,2015,13
+SAT,Personal Injury,2015,2
+SAV,Property Damage,2015,11
+SAV,Passenger Property Loss,2015,6
+SAW,Passenger Property Loss,2015,1
+SBA,Property Damage,2015,1
+SBA,Passenger Property Loss,2015,1
+SBN,Property Damage,2015,1
+SBP,Passenger Property Loss,2015,1
+SCE,Property Damage,2015,2
+SCK,Property Damage,2015,2
+SDF,Passenger Property Loss,2015,14
+SDF,Property Damage,2015,12
+SEA,Passenger Property Loss,2015,124
+SEA,Property Damage,2015,98
+SEA,Employee Loss (MPCECA),2015,1
+SEA,Complaint,2015,1
+SFB,Passenger Property Loss,2015,3
+SFB,Property Damage,2015,1
+SFO,Passenger Property Loss,2015,19
+SFO,Property Damage,2015,8
+SFO,Unknown,2015,1
+SGF,Property Damage,2015,3
+SGF,Passenger Property Loss,2015,2
+SGF,Motor Vehicle,2015,1
+SGJ,Passenger Property Loss,2015,1
+SGU,Property Damage,2015,1
+SHV,Property Damage,2015,1
+SHV,Passenger Property Loss,2015,1
+SIT,Property Damage,2015,1
+SJC,Passenger Property Loss,2015,18
+SJC,Property Damage,2015,15
+SJU,Passenger Property Loss,2015,32
+SJU,Property Damage,2015,24
+SJU,Personal Injury,2015,2
+SJU,Unknown,2015,1
+SLC,Property Damage,2015,36
+SLC,Passenger Property Loss,2015,30
+SLC,Unknown,2015,2
+SMF,Passenger Property Loss,2015,30
+SMF,Property Damage,2015,18
+SMF,Complaint,2015,1
+SMF,Motor Vehicle,2015,1
+SMX,Property Damage,2015,1
+SNA,Property Damage,2015,30
+SNA,Passenger Property Loss,2015,16
+SNA,Personal Injury,2015,1
+SOW,Passenger Property Loss,2015,1
+SPI,Passenger Property Loss,2015,2
+SRQ,Property Damage,2015,5
+STL,Passenger Property Loss,2015,23
+STL,Property Damage,2015,21
+STL,Complaint,2015,1
+STS,Passenger Property Loss,2015,1
+STT,Passenger Property Loss,2015,10
+STT,Property Damage,2015,7
+STX,Passenger Property Loss,2015,4
+STX,Property Damage,2015,1
+STX,Complaint,2015,1
+SUN,Passenger Property Loss,2015,1
+SUX,Property Damage,2015,1
+SUX,Passenger Property Loss,2015,1
+SWF,Property Damage,2015,1
+SWF,Passenger Property Loss,2015,1
+SYR,Property Damage,2015,6
+SYR,Passenger Property Loss,2015,5
+TBN,Property Damage,2015,1
+TBN,Passenger Property Loss,2015,1
+TLH,Property Damage,2015,2
+TLH,Passenger Property Loss,2015,1
+TOL,Passenger Property Loss,2015,1
+TPA,Property Damage,2015,48
+TPA,Passenger Property Loss,2015,40
+TRI,Property Damage,2015,3
+TRI,Passenger Property Loss,2015,2
+TRI,Unknown,2015,1
+TSA,Property Damage,2015,6
+TSA,Motor Vehicle,2015,1
+TSA,Complaint,2015,1
+TSA,Employee Loss (MPCECA),2015,1
+TTN,Property Damage,2015,3
+TTN,Passenger Property Loss,2015,3
+TUL,Passenger Property Loss,2015,4
+TUL,Property Damage,2015,3
+TUS,Passenger Property Loss,2015,9
+TUS,Property Damage,2015,8
+TVC,Property Damage,2015,1
+TVC,Passenger Property Loss,2015,1
+TXK,Property Damage,2015,2
+TXK,Passenger Property Loss,2015,2
+TYR,Passenger Property Loss,2015,2
+TYR,Property Damage,2015,1
+TYS,Property Damage,2015,4
+TYS,Passenger Property Loss,2015,2
+UNK,Property Damage,2015,1
+Unknown,Passenger Property Loss,2015,28
+Unknown,Property Damage,2015,20
+Unknown,Unknown,2015,3
+Unknown,Motor Vehicle,2015,2
+Unknown,Complaint,2015,2
+VLD,Property Damage,2015,2
+VPS,Property Damage,2015,2
+VPS,Passenger Property Loss,2015,1
+WRG,Passenger Property Loss,2015,1
+XNA,Property Damage,2015,1
+XNA,Passenger Property Loss,2015,1
+YAK,Passenger Property Loss,2015,1
+YKM,Passenger Property Loss,2015,2
+YKM,Property Damage,2015,1
+YNG,Passenger Property Loss,2015,2
+YNG,Property Damage,2015,1
+YUM,Passenger Property Loss,2015,5
+YUM,Property Damage,2015,2
+ZZX,Motor Vehicle,2015,15
+ZZX,Property Damage,2015,1
+ZZX,Employee Loss (MPCECA),2015,1
+ABE,Property Damage,2016,3
+ABE,Passenger Property Loss,2016,2
+ABQ,Passenger Property Loss,2016,16
+ABQ,Property Damage,2016,12
+ABY,Passenger Property Loss,2016,2
+ACK,Property Damage,2016,2
+ACT,Passenger Property Loss,2016,2
+ACV,Property Damage,2016,1
+ACV,Passenger Property Loss,2016,1
+ACY,Property Damage,2016,4
+ACY,Passenger Property Loss,2016,1
+ACY,Missed Flight,2016,1
+AEX,Property Damage,2016,1
+AGS,Passenger Property Loss,2016,2
+ALB,Passenger Property Loss,2016,13
+ALB,Property Damage,2016,5
+ALW,Passenger Property Loss,2016,2
+ALW,Property Damage,2016,1
+AMA,Property Damage,2016,2
+ANC,Passenger Property Loss,2016,18
+ANC,Property Damage,2016,7
+ART,Passenger Property Loss,2016,1
+ASE,Property Damage,2016,3
+ASE,Passenger Property Loss,2016,2
+ATL,Passenger Property Loss,2016,201
+ATL,Property Damage,2016,146
+ATL,Unknown,2016,2
+ATL,Personal Injury,2016,2
+ATL,Property Loss,2016,1
+ATW,Property Damage,2016,1
+AUS,Passenger Property Loss,2016,31
+AUS,Property Damage,2016,24
+AUS,Personal Injury,2016,1
+AVL,Passenger Property Loss,2016,4
+AVL,Property Damage,2016,1
+AVP,Property Damage,2016,2
+AVP,Passenger Property Loss,2016,1
+AZO,Property Damage,2016,1
+AZO,Passenger Property Loss,2016,1
+BDL,Passenger Property Loss,2016,22
+BDL,Property Damage,2016,14
+BDL,Personal Injury,2016,1
+BFL,Passenger Property Loss,2016,1
+BGM,Property Damage,2016,1
+BHB,Passenger Property Loss,2016,1
+BHM,Property Damage,2016,8
+BHM,Passenger Property Loss,2016,6
+BIL,Passenger Property Loss,2016,6
+BIL,Property Damage,2016,3
+BIS,Property Damage,2016,2
+BIS,Passenger Property Loss,2016,1
+BJI,Property Damage,2016,1
+BLI,Property Damage,2016,2
+BLI,Passenger Property Loss,2016,1
+BNA,Property Damage,2016,27
+BNA,Passenger Property Loss,2016,26
+BNA,Property Loss,2016,1
+BOI,Property Damage,2016,7
+BOI,Passenger Property Loss,2016,7
+BOI,Personal Injury,2016,1
+BOS,Passenger Property Loss,2016,109
+BOS,Property Damage,2016,91
+BOS,Personal Injury,2016,2
+BOS,Property Loss,2016,1
+BOS,Missed Flight,2016,1
+BQK,Passenger Property Loss,2016,3
+BQK,Property Damage,2016,1
+BQK,Employee Loss (MPCECA),2016,1
+BQN,Property Damage,2016,3
+BQN,Personal Injury,2016,1
+BQN,Passenger Property Loss,2016,1
+BRD,Passenger Property Loss,2016,2
+BRD,Property Damage,2016,1
+BTM,Property Damage,2016,1
+BTR,Passenger Property Loss,2016,4
+BTV,Passenger Property Loss,2016,4
+BTV,Property Damage,2016,1
+BUF,Property Damage,2016,12
+BUF,Passenger Property Loss,2016,3
+BUR,Passenger Property Loss,2016,14
+BUR,Property Damage,2016,10
+BUR,Complaint,2016,1
+BWI,Passenger Property Loss,2016,82
+BWI,Property Damage,2016,39
+BWI,Complaint,2016,1
+BZN,Passenger Property Loss,2016,3
+CAE,Passenger Property Loss,2016,3
+CAE,Property Damage,2016,2
+CAE,Property Loss,2016,1
+CAK,Property Damage,2016,4
+CAK,Passenger Property Loss,2016,3
+CDV,Passenger Property Loss,2016,1
+CHA,Property Damage,2016,3
+CHA,Passenger Property Loss,2016,1
+CHO,Property Damage,2016,2
+CHS,Property Damage,2016,15
+CHS,Passenger Property Loss,2016,8
+CID,Passenger Property Loss,2016,3
+CID,Property Damage,2016,2
+CIU,Property Damage,2016,1
+CIU,Passenger Property Loss,2016,1
+CLE,Passenger Property Loss,2016,40
+CLE,Property Damage,2016,18
+CLE,Property Loss,2016,2
+CLE,Personal Injury,2016,2
+CLL,Property Damage,2016,2
+CLT,Passenger Property Loss,2016,91
+CLT,Property Damage,2016,47
+CLT,Personal Injury,2016,1
+CLT,Missed Flight,2016,1
+CMH,Passenger Property Loss,2016,17
+CMH,Property Damage,2016,13
+CMI,Passenger Property Loss,2016,1
+CMX,Passenger Property Loss,2016,1
+COD,Property Damage,2016,1
+COS,Property Damage,2016,6
+COS,Passenger Property Loss,2016,3
+COU,Passenger Property Loss,2016,1
+CPR,Property Damage,2016,1
+CPR,Passenger Property Loss,2016,1
+CRP,Passenger Property Loss,2016,2
+CRP,Property Damage,2016,1
+CSG,Passenger Property Loss,2016,1
+CVG,Passenger Property Loss,2016,14
+CVG,Property Damage,2016,6
+CVG,Personal Injury,2016,1
+CWA,Property Damage,2016,1
+DAB,Property Damage,2016,2
+DAB,Passenger Property Loss,2016,1
+DAL,Passenger Property Loss,2016,29
+DAL,Property Damage,2016,24
+DAL,Missed Flight,2016,1
+DAL,Employee Loss (MPCECA),2016,1
+DAY,Property Damage,2016,7
+DAY,Passenger Property Loss,2016,3
+DAY,Complaint,2016,1
+DCA,Passenger Property Loss,2016,49
+DCA,Property Damage,2016,44
+DCA,Personal Injury,2016,1
+DEN,Passenger Property Loss,2016,93
+DEN,Property Damage,2016,63
+DEN,Personal Injury,2016,1
+DEN,Missed Flight,2016,1
+DFW,Passenger Property Loss,2016,109
+DFW,Property Damage,2016,99
+DFW,Personal Injury,2016,5
+DFW,Missed Flight,2016,2
+DFW,Unknown,2016,1
+DFW,Property Loss,2016,1
+DFW,Motor Vehicle,2016,1
+DIK,Passenger Property Loss,2016,1
+DRO,Property Damage,2016,1
+DRO,Passenger Property Loss,2016,1
+DSM,Property Damage,2016,7
+DSM,Passenger Property Loss,2016,6
+DTW,Passenger Property Loss,2016,60
+DTW,Property Damage,2016,39
+DTW,Personal Injury,2016,2
+DTW,Property Loss,2016,1
+DTW,Missed Flight,2016,1
+DTW,Complaint,2016,1
+DVL,Property Damage,2016,1
+EAT,Passenger Property Loss,2016,1
+EAU,Property Damage,2016,1
+EAU,Passenger Property Loss,2016,1
+ECP,Property Damage,2016,4
+ECP,Passenger Property Loss,2016,2
+ELM,Passenger Property Loss,2016,1
+ELP,Passenger Property Loss,2016,13
+ELP,Property Damage,2016,8
+EUG,Property Damage,2016,2
+EVV,Property Damage,2016,2
+EWN,Property Damage,2016,1
+EWR,Passenger Property Loss,2016,169
+EWR,Property Damage,2016,124
+EWR,Personal Injury,2016,2
+EWR,Property Loss,2016,1
+EWR,Complaint,2016,1
+EYW,Passenger Property Loss,2016,1
+F,Passenger Property Loss,2016,54
+F,Property Damage,2016,28
+F,Property Loss,2016,1
+FAI,Property Damage,2016,8
+FAI,Passenger Property Loss,2016,4
+FAR,Passenger Property Loss,2016,3
+FAR,Property Damage,2016,1
+FAT,Property Damage,2016,3
+FAY,Property Damage,2016,1
+FLL,Passenger Property Loss,2016,115
+FLL,Property Damage,2016,88
+FLL,Personal Injury,2016,2
+FLL,Complaint,2016,1
+FLO,Passenger Property Loss,2016,1
+FNT,Property Damage,2016,1
+FNT,Passenger Property Loss,2016,1
+FSD,Passenger Property Loss,2016,2
+FSD,Property Damage,2016,1
+FSM,Property Damage,2016,1
+FWA,Property Damage,2016,1
+GEG,Property Damage,2016,13
+GEG,Passenger Property Loss,2016,9
+GJT,Property Damage,2016,4
+GNV,Property Damage,2016,2
+GPT,Property Damage,2016,3
+GRB,Property Damage,2016,4
+GRI,Passenger Property Loss,2016,1
+GRK,Passenger Property Loss,2016,2
+GRK,Property Damage,2016,1
+GRR,Property Damage,2016,10
+GRR,Passenger Property Loss,2016,7
+GSO,Passenger Property Loss,2016,7
+GSO,Property Damage,2016,6
+GSP,Property Damage,2016,7
+GSP,Passenger Property Loss,2016,6
+GSP,Personal Injury,2016,1
+GTF,Property Damage,2016,2
+GUM,Property Damage,2016,4
+GUM,Passenger Property Loss,2016,1
+HDN,Passenger Property Loss,2016,1
+HDQ,Property Damage,2016,3
+HHH,Passenger Property Loss,2016,2
+HHH,Property Damage,2016,1
+HIB,Passenger Property Loss,2016,1
+HLN,Property Damage,2016,3
+HLN,Passenger Property Loss,2016,2
+HNL,Passenger Property Loss,2016,55
+HNL,Property Damage,2016,45
+HNL,Personal Injury,2016,2
+HOB,Passenger Property Loss,2016,1
+HOU,Passenger Property Loss,2016,47
+HOU,Property Damage,2016,46
+HPN,Passenger Property Loss,2016,3
+HPN,Property Damage,2016,2
+HRL,Passenger Property Loss,2016,7
+HSV,Property Damage,2016,4
+HTS,Unknown,2016,1
+HTS,Property Damage,2016,1
+IAD,Passenger Property Loss,2016,74
+IAD,Property Damage,2016,63
+IAD,Personal Injury,2016,3
+IAD,Property Loss,2016,1
+IAD,Complaint,2016,1
+IAH,Passenger Property Loss,2016,77
+IAH,Property Damage,2016,64
+IAH,Personal Injury,2016,1
+ICT,Passenger Property Loss,2016,6
+ICT,Property Damage,2016,5
+IDA,Property Damage,2016,3
+IDA,Passenger Property Loss,2016,1
+IFP,Property Damage,2016,1
+ILM,Property Damage,2016,4
+IND,Passenger Property Loss,2016,20
+IND,Property Damage,2016,19
+INL,Property Damage,2016,3
+INL,Passenger Property Loss,2016,1
+ISN,Personal Injury,2016,1
+ISN,Passenger Property Loss,2016,1
+ISP,Passenger Property Loss,2016,4
+ITO,Property Damage,2016,2
+ITO,Passenger Property Loss,2016,2
+IWA,Passenger Property Loss,2016,3
+IWA,Property Damage,2016,1
+JAC,Property Damage,2016,1
+JAC,Passenger Property Loss,2016,1
+JAN,Passenger Property Loss,2016,10
+JAN,Property Damage,2016,6
+JAN,Personal Injury,2016,1
+JAX,Property Damage,2016,17
+JAX,Passenger Property Loss,2016,13
+JAX,Personal Injury,2016,1
+JFK,Passenger Property Loss,2016,255
+JFK,Property Damage,2016,203
+JFK,Personal Injury,2016,6
+JFK,Unknown,2016,1
+JNU,Property Damage,2016,1
+JNU,Passenger Property Loss,2016,1
+JQF,Property Damage,2016,4
+KOA,Property Damage,2016,8
+KOA,Passenger Property Loss,2016,7
+KTN,Property Damage,2016,1
+LAN,Passenger Property Loss,2016,1
+LAS,Passenger Property Loss,2016,164
+LAS,Property Damage,2016,105
+LAS,Personal Injury,2016,5
+LAS,Complaint,2016,1
+LAW,Passenger Property Loss,2016,2
+LAW,Property Damage,2016,1
+LAX,Passenger Property Loss,2016,256
+LAX,Property Damage,2016,203
+LAX,Personal Injury,2016,8
+LAX,Motor Vehicle,2016,1
+LAX,Complaint,2016,1
+LBB,Property Damage,2016,2
+LBB,Passenger Property Loss,2016,1
+LBE,Property Damage,2016,1
+LCK,Passenger Property Loss,2016,4
+LCK,Property Damage,2016,1
+LEX,Property Damage,2016,4
+LEX,Passenger Property Loss,2016,4
+LFT,Passenger Property Loss,2016,1
+LGA,Property Damage,2016,75
+LGA,Passenger Property Loss,2016,62
+LGA,Personal Injury,2016,1
+LGA,Motor Vehicle,2016,1
+LGA,Complaint,2016,1
+LGB,Property Damage,2016,9
+LGB,Passenger Property Loss,2016,6
+LIH,Passenger Property Loss,2016,14
+LIH,Property Damage,2016,8
+LIH,Personal Injury,2016,1
+LIT,Property Damage,2016,4
+LNK,Property Damage,2016,2
+LWS,Property Damage,2016,1
+LYH,Property Damage,2016,1
+LYH,Passenger Property Loss,2016,1
+MAF,Property Damage,2016,2
+MAF,Passenger Property Loss,2016,1
+MBS,Property Damage,2016,2
+MBS,Passenger Property Loss,2016,1
+MCE,Property Damage,2016,1
+MCI,Passenger Property Loss,2016,7
+MCI,Property Damage,2016,4
+MCO,Passenger Property Loss,2016,218
+MCO,Property Damage,2016,166
+MCO,Personal Injury,2016,3
+MCO,Unknown,2016,2
+MCO,Missed Flight,2016,2
+MCO,Property Loss,2016,1
+MDT,Property Damage,2016,7
+MDT,Passenger Property Loss,2016,2
+MDW,Passenger Property Loss,2016,47
+MDW,Property Damage,2016,19
+MDW,Personal Injury,2016,1
+MDW,Complaint,2016,1
+MEM,Passenger Property Loss,2016,7
+MEM,Property Damage,2016,5
+MFE,Passenger Property Loss,2016,3
+MFR,Property Damage,2016,1
+MFR,Passenger Property Loss,2016,1
+MGM,Passenger Property Loss,2016,2
+MHK,Passenger Property Loss,2016,4
+MHT,Property Damage,2016,4
+MIA,Passenger Property Loss,2016,217
+MIA,Property Damage,2016,143
+MIA,Personal Injury,2016,2
+MIA,Employee Loss (MPCECA),2016,2
+MIA,Property Loss,2016,1
+MIA,Complaint,2016,1
+MKE,Passenger Property Loss,2016,19
+MKE,Property Damage,2016,10
+MKE,Personal Injury,2016,1
+MKK,Missed Flight,2016,1
+MLB,Property Damage,2016,1
+MLI,Property Damage,2016,2
+MLI,Passenger Property Loss,2016,1
+MLI,Missed Flight,2016,1
+MLU,Passenger Property Loss,2016,1
+MMH,Passenger Property Loss,2016,2
+MOB,Property Damage,2016,1
+MOT,Property Damage,2016,2
+MRY,Passenger Property Loss,2016,1
+MSL,Passenger Property Loss,2016,1
+MSN,Property Damage,2016,7
+MSN,Passenger Property Loss,2016,1
+MSO,Passenger Property Loss,2016,4
+MSP,Passenger Property Loss,2016,42
+MSP,Property Damage,2016,35
+MSY,Property Damage,2016,40
+MSY,Passenger Property Loss,2016,32
+MSY,Personal Injury,2016,1
+MSY,Motor Vehicle,2016,1
+MTJ,Passenger Property Loss,2016,2
+MTJ,Property Damage,2016,1
+MVY,Property Damage,2016,1
+MYR,Property Damage,2016,7
+MYR,Passenger Property Loss,2016,1
+OAK,Passenger Property Loss,2016,35
+OAK,Property Damage,2016,28
+OAK,Personal Injury,2016,1
+OAK,Missed Flight,2016,1
+OGG,Passenger Property Loss,2016,27
+OGG,Property Damage,2016,23
+OKC,Passenger Property Loss,2016,8
+OKC,Property Damage,2016,7
+OMA,Property Damage,2016,16
+OMA,Passenger Property Loss,2016,8
+OME,Property Damage,2016,1
+OME,Passenger Property Loss,2016,1
+ONT,Passenger Property Loss,2016,15
+ONT,Property Damage,2016,13
+ORD,Passenger Property Loss,2016,112
+ORD,Property Damage,2016,101
+ORD,Personal Injury,2016,3
+ORD,Missed Flight,2016,3
+ORD,Complaint,2016,1
+ORF,Passenger Property Loss,2016,16
+ORF,Property Damage,2016,10
+ORF,Property Loss,2016,1
+ORF,Personal Injury,2016,1
+ORH,Passenger Property Loss,2016,1
+OTH,Property Damage,2016,1
+OTZ,Passenger Property Loss,2016,1
+PBG,Passenger Property Loss,2016,1
+PBI,Property Damage,2016,26
+PBI,Passenger Property Loss,2016,21
+PDX,Passenger Property Loss,2016,37
+PDX,Property Damage,2016,31
+PDX,Personal Injury,2016,1
+PDX,Complaint,2016,1
+PFN,Passenger Property Loss,2016,1
+PGD,Passenger Property Loss,2016,2
+PGV,Passenger Property Loss,2016,2
+PHF,Property Damage,2016,3
+PHF,Passenger Property Loss,2016,2
+PHL,Passenger Property Loss,2016,95
+PHL,Property Damage,2016,55
+PHX,Passenger Property Loss,2016,100
+PHX,Property Damage,2016,75
+PHX,Personal Injury,2016,1
+PHX,Missed Flight,2016,1
+PIA,Property Damage,2016,2
+PIB,Property Damage,2016,1
+PIB,Passenger Property Loss,2016,1
+PIE,Passenger Property Loss,2016,4
+PIH,Passenger Property Loss,2016,1
+PIT,Property Damage,2016,31
+PIT,Passenger Property Loss,2016,13
+PIT,Motor Vehicle,2016,1
+PLN,Property Damage,2016,2
+PLN,Passenger Property Loss,2016,1
+PNS,Passenger Property Loss,2016,5
+PNS,Property Damage,2016,4
+PRC,Property Damage,2016,1
+PSC,Passenger Property Loss,2016,2
+PSC,Property Damage,2016,1
+PSE,Personal Injury,2016,1
+PSE,Passenger Property Loss,2016,1
+PSG,Property Damage,2016,1
+PSM,Property Damage,2016,2
+PSP,Passenger Property Loss,2016,9
+PSP,Property Damage,2016,7
+PUB,Passenger Property Loss,2016,1
+PUW,Property Damage,2016,2
+PVD,Property Damage,2016,8
+PVD,Passenger Property Loss,2016,8
+PVU,Property Damage,2016,2
+PVU,Passenger Property Loss,2016,2
+PWM,Passenger Property Loss,2016,3
+PWM,Property Damage,2016,1
+RAP,Passenger Property Loss,2016,4
+RAP,Property Damage,2016,1
+RDD,Passenger Property Loss,2016,1
+RDM,Passenger Property Loss,2016,5
+RDM,Property Damage,2016,1
+RDU,Passenger Property Loss,2016,30
+RDU,Property Damage,2016,19
+RDU,Personal Injury,2016,1
+RDU,Employee Loss (MPCECA),2016,1
+RFD,Passenger Property Loss,2016,1
+RIC,Property Damage,2016,8
+RIC,Passenger Property Loss,2016,8
+RNO,Passenger Property Loss,2016,14
+RNO,Property Damage,2016,7
+RNO,Personal Injury,2016,1
+ROA,Property Damage,2016,2
+ROC,Passenger Property Loss,2016,3
+RST,Passenger Property Loss,2016,2
+RSW,Passenger Property Loss,2016,29
+RSW,Property Damage,2016,24
+RSW,Missed Flight,2016,1
+SAF,Property Damage,2016,5
+SAF,Passenger Property Loss,2016,2
+SAN,Property Damage,2016,67
+SAN,Passenger Property Loss,2016,51
+SAN,Personal Injury,2016,1
+SAT,Passenger Property Loss,2016,23
+SAT,Property Damage,2016,20
+SAT,Personal Injury,2016,2
+SAT,Property Loss,2016,1
+SAV,Passenger Property Loss,2016,11
+SAV,Property Damage,2016,6
+SBA,Passenger Property Loss,2016,1
+SBN,Property Damage,2016,1
+SBN,Passenger Property Loss,2016,1
+SBP,Passenger Property Loss,2016,1
+SBY,Property Damage,2016,2
+SCE,Property Damage,2016,2
+SDF,Passenger Property Loss,2016,11
+SDF,Property Damage,2016,9
+SEA,Passenger Property Loss,2016,109
+SEA,Property Damage,2016,87
+SEA,Personal Injury,2016,2
+SEA,Complaint,2016,1
+SFO,Passenger Property Loss,2016,25
+SFO,Property Damage,2016,8
+SGF,Passenger Property Loss,2016,4
+SGJ,Property Damage,2016,2
+SHV,Property Damage,2016,3
+SHV,Passenger Property Loss,2016,1
+SIT,Property Damage,2016,1
+SJC,Passenger Property Loss,2016,31
+SJC,Property Damage,2016,22
+SJT,Property Damage,2016,1
+SJT,Passenger Property Loss,2016,1
+SJU,Passenger Property Loss,2016,31
+SJU,Property Damage,2016,23
+SLC,Property Damage,2016,38
+SLC,Passenger Property Loss,2016,28
+SMF,Passenger Property Loss,2016,40
+SMF,Property Damage,2016,26
+SMF,Property Loss,2016,1
+SNA,Passenger Property Loss,2016,18
+SNA,Property Damage,2016,15
+SRQ,Passenger Property Loss,2016,1
+STL,Passenger Property Loss,2016,25
+STL,Property Damage,2016,24
+STT,Passenger Property Loss,2016,20
+STT,Property Damage,2016,6
+STX,Property Damage,2016,2
+STX,Personal Injury,2016,2
+STX,Passenger Property Loss,2016,1
+SUN,Passenger Property Loss,2016,1
+SUX,Passenger Property Loss,2016,2
+SWF,Property Damage,2016,2
+SWF,Passenger Property Loss,2016,1
+SYR,Property Damage,2016,5
+SYR,Passenger Property Loss,2016,4
+TLH,Passenger Property Loss,2016,3
+TPA,Passenger Property Loss,2016,48
+TPA,Property Damage,2016,33
+TRI,Property Damage,2016,3
+TRI,Passenger Property Loss,2016,2
+TSA,Employee Loss (MPCECA),2016,1
+TTN,Passenger Property Loss,2016,3
+TTN,Property Damage,2016,1
+TUL,Property Damage,2016,4
+TUL,Passenger Property Loss,2016,4
+TUS,Passenger Property Loss,2016,7
+TUS,Property Damage,2016,3
+TVC,Property Damage,2016,4
+TXK,Property Damage,2016,1
+TYR,Property Damage,2016,1
+TYS,Property Damage,2016,4
+TYS,Passenger Property Loss,2016,4
+Unknown,Passenger Property Loss,2016,37
+Unknown,Property Damage,2016,19
+Unknown,Unknown,2016,6
+Unknown,Motor Vehicle,2016,2
+Unknown,Property Loss,2016,1
+VPS,Passenger Property Loss,2016,2
+VPS,Property Damage,2016,1
+WRG,Passenger Property Loss,2016,1
+XNA,Property Damage,2016,1
+YKM,Passenger Property Loss,2016,2
+YNG,Passenger Property Loss,2016,3
+YNG,Property Damage,2016,1
+YUM,Passenger Property Loss,2016,3
+YUM,Property Damage,2016,1
+ZZX,Motor Vehicle,2016,14
+ZZX,Personal Injury,2016,2
+ZZX,Property Damage,2016,1
+ABE,Property Damage,2017,3
+ABQ,Property Damage,2017,23
+ABQ,Passenger Property Loss,2017,21
+ABY,Property Damage,2017,1
+ACT,Passenger Property Loss,2017,6
+ACY,Passenger Property Loss,2017,4
+ACY,Property Damage,2017,2
+ACY,Complaint,2017,1
+ADK,Passenger Property Loss,2017,1
+AEX,Passenger Property Loss,2017,1
+AGS,Property Damage,2017,3
+AGS,Passenger Theft,2017,1
+AGS,Passenger Property Loss,2017,1
+AIA,Unknown,2017,1
+AKN,Passenger Property Loss,2017,1
+ALB,Passenger Property Loss,2017,10
+ALB,Property Damage,2017,7
+ALW,Passenger Property Loss,2017,1
+AMA,Passenger Property Loss,2017,4
+ANC,Property Damage,2017,17
+ANC,Passenger Property Loss,2017,12
+ART,Property Damage,2017,1
+ART,Passenger Property Loss,2017,1
+ASE,Passenger Property Loss,2017,3
+ASE,Property Damage,2017,2
+ATL,Passenger Property Loss,2017,235
+ATL,Property Damage,2017,137
+ATL,Unknown,2017,2
+ATL,Personal Injury,2017,2
+ATL,Passenger Theft,2017,1
+ATW,Passenger Property Loss,2017,1
+AUS,Passenger Property Loss,2017,37
+AUS,Property Damage,2017,32
+AUS,Unknown,2017,1
+AVL,Passenger Property Loss,2017,3
+AVL,Property Damage,2017,1
+AVP,Property Damage,2017,1
+AVP,Passenger Property Loss,2017,1
+AVP,Missed Flight,2017,1
+AZO,Passenger Property Loss,2017,1
+BDL,Property Damage,2017,19
+BDL,Passenger Property Loss,2017,17
+BFD,Property Damage,2017,1
+BFF,Property Damage,2017,1
+BGM,Property Damage,2017,1
+BGR,Property Damage,2017,2
+BGR,Passenger Property Loss,2017,2
+BHM,Property Damage,2017,5
+BHM,Passenger Property Loss,2017,3
+BIL,Passenger Property Loss,2017,2
+BIL,Property Damage,2017,2
+BIS,Passenger Property Loss,2017,1
+BLI,Property Damage,2017,1
+BLI,Passenger Property Loss,2017,1
+BLV,Property Damage,2017,1
+BLV,Passenger Property Loss,2017,1
+BMI,Passenger Property Loss,2017,1
+BNA,Property Damage,2017,30
+BNA,Passenger Property Loss,2017,23
+BOI,Passenger Property Loss,2017,12
+BOI,Property Damage,2017,6
+BOS,Passenger Property Loss,2017,111
+BOS,Property Damage,2017,92
+BOS,Unknown,2017,3
+BOS,Personal Injury,2017,1
+BQK,Property Damage,2017,1
+BQK,Passenger Property Loss,2017,1
+BQN,Passenger Property Loss,2017,1
+BRD,Property Damage,2017,1
+BRW,Passenger Property Loss,2017,1
+BTM,Passenger Property Loss,2017,1
+BTR,Property Damage,2017,2
+BTR,Passenger Property Loss,2017,2
+BTV,Passenger Property Loss,2017,2
+BUF,Property Damage,2017,13
+BUF,Passenger Property Loss,2017,13
+BUR,Property Damage,2017,13
+BUR,Passenger Property Loss,2017,9
+BWI,Passenger Property Loss,2017,68
+BWI,Property Damage,2017,58
+BWI,Personal Injury,2017,1
+BWI,Missed Flight,2017,1
+BZN,Property Damage,2017,2
+BZN,Passenger Property Loss,2017,1
+CAE,Property Damage,2017,2
+CAE,Passenger Property Loss,2017,1
+CAK,Passenger Property Loss,2017,4
+CAK,Property Damage,2017,3
+CHA,Property Damage,2017,1
+CHO,Property Damage,2017,2
+CHS,Property Damage,2017,14
+CHS,Passenger Property Loss,2017,8
+CHS,Passenger Theft,2017,1
+CID,Passenger Property Loss,2017,1
+CIU,Property Damage,2017,1
+CKB,Passenger Property Loss,2017,1
+CKB,Property Damage,2017,1
+CLE,Passenger Property Loss,2017,42
+CLE,Property Damage,2017,32
+CLT,Passenger Property Loss,2017,54
+CLT,Property Damage,2017,48
+CLT,Unknown,2017,1
+CMH,Passenger Property Loss,2017,15
+CMH,Property Damage,2017,14
+CMH,Unknown,2017,1
+CMX,Passenger Property Loss,2017,1
+COS,Property Damage,2017,3
+COS,Passenger Property Loss,2017,3
+COU,Property Damage,2017,1
+COU,Passenger Property Loss,2017,1
+CPR,Property Damage,2017,1
+CRP,Property Damage,2017,1
+CRP,Passenger Property Loss,2017,1
+CSG,Passenger Property Loss,2017,3
+CSG,Property Damage,2017,2
+CVG,Property Damage,2017,7
+CVG,Passenger Property Loss,2017,7
+CVG,Personal Injury,2017,1
+CYS,Passenger Property Loss,2017,1
+DAB,Passenger Property Loss,2017,2
+DAB,Property Damage,2017,1
+DAB,Not Provided,2017,1
+DAL,Passenger Property Loss,2017,29
+DAL,Property Damage,2017,28
+DAL,Personal Injury,2017,2
+DAY,Property Damage,2017,5
+DAY,Passenger Property Loss,2017,1
+DBQ,Property Damage,2017,2
+DBQ,Passenger Property Loss,2017,1
+DCA,Passenger Property Loss,2017,50
+DCA,Property Damage,2017,48
+DCA,Unknown,2017,2
+DEN,Property Damage,2017,86
+DEN,Passenger Property Loss,2017,73
+DEN,Personal Injury,2017,3
+DEN,Employee Loss (MPCECA),2017,1
+DFW,Passenger Property Loss,2017,120
+DFW,Property Damage,2017,102
+DFW,Personal Injury,2017,5
+DFW,Unknown,2017,1
+DFW,Missed Flight,2017,1
+DIK,Passenger Property Loss,2017,1
+DLG,Property Damage,2017,1
+DRO,Property Damage,2017,2
+DRO,Passenger Property Loss,2017,2
+DSM,Passenger Property Loss,2017,5
+DSM,Unknown,2017,1
+DSM,Property Damage,2017,1
+DTW,Passenger Property Loss,2017,68
+DTW,Property Damage,2017,40
+DTW,Passenger Theft,2017,1
+EAU,Property Damage,2017,1
+ECP,Property Damage,2017,5
+ECP,Passenger Property Loss,2017,4
+EGE,Passenger Property Loss,2017,3
+EGE,Property Damage,2017,1
+EKO,Passenger Property Loss,2017,1
+ELP,Property Damage,2017,10
+ELP,Passenger Property Loss,2017,5
+ENV,Passenger Property Loss,2017,2
+ENV,Property Damage,2017,1
+ERI,Property Damage,2017,1
+ESC,Property Damage,2017,1
+EUG,Passenger Property Loss,2017,3
+EUG,Property Damage,2017,1
+EVV,Passenger Property Loss,2017,2
+EWN,Passenger Property Loss,2017,2
+EWR,Passenger Property Loss,2017,159
+EWR,Property Damage,2017,132
+EWR,Unknown,2017,3
+EWR,Personal Injury,2017,2
+EWR,Missed Flight,2017,2
+EYW,Passenger Property Loss,2017,1
+F,Passenger Property Loss,2017,59
+F,Property Damage,2017,24
+FAI,Passenger Property Loss,2017,6
+FAI,Property Damage,2017,2
+FAR,Property Damage,2017,1
+FAR,Passenger Property Loss,2017,1
+FAT,Property Damage,2017,2
+FAT,Passenger Property Loss,2017,2
+FAY,Property Damage,2017,3
+FLG,Passenger Property Loss,2017,2
+FLG,Property Damage,2017,1
+FLL,Passenger Property Loss,2017,135
+FLL,Property Damage,2017,100
+FLL,Unknown,2017,2
+FLL,Personal Injury,2017,1
+FLL,Passenger Theft,2017,1
+FLO,Passenger Property Loss,2017,1
+FNT,Passenger Property Loss,2017,3
+FSD,Passenger Property Loss,2017,2
+FWA,Property Damage,2017,3
+FWA,Passenger Property Loss,2017,2
+GCK,Property Damage,2017,1
+GCK,Passenger Property Loss,2017,1
+GEG,Passenger Property Loss,2017,13
+GEG,Property Damage,2017,5
+GGG,Passenger Property Loss,2017,2
+GGG,Property Damage,2017,1
+GJT,Property Damage,2017,1
+GJT,Passenger Property Loss,2017,1
+GNV,Property Damage,2017,1
+GNV,Passenger Property Loss,2017,1
+GPT,Passenger Property Loss,2017,3
+GPT,Property Damage,2017,2
+GPT,Unknown,2017,1
+GRB,Passenger Property Loss,2017,2
+GRK,Passenger Property Loss,2017,3
+GRK,Property Damage,2017,1
+GRR,Property Damage,2017,2
+GRR,Passenger Property Loss,2017,2
+GSO,Passenger Property Loss,2017,5
+GSO,Property Damage,2017,3
+GSO,Personal Injury,2017,1
+GSO,Motor Vehicle,2017,1
+GSP,Property Damage,2017,10
+GSP,Passenger Property Loss,2017,1
+GTF,Property Damage,2017,1
+GTR,Property Damage,2017,1
+GUM,Passenger Property Loss,2017,3
+GUM,Property Damage,2017,1
+HDN,Passenger Property Loss,2017,1
+HHH,Property Damage,2017,1
+HIB,Property Damage,2017,1
+HIB,Passenger Property Loss,2017,1
+HNL,Passenger Property Loss,2017,63
+HNL,Property Damage,2017,26
+HNL,Unknown,2017,1
+HNL,Complaint,2017,1
+HOU,Passenger Property Loss,2017,36
+HOU,Property Damage,2017,34
+HOU,Personal Injury,2017,1
+HPN,Property Damage,2017,3
+HPN,Passenger Property Loss,2017,3
+HRL,Passenger Property Loss,2017,8
+HRL,Property Damage,2017,2
+HRL,Unknown,2017,1
+HSV,Passenger Property Loss,2017,4
+HSV,Property Damage,2017,2
+HSV,Personal Injury,2017,1
+HTS,Passenger Property Loss,2017,1
+HVN,Passenger Property Loss,2017,1
+IAD,Passenger Property Loss,2017,71
+IAD,Property Damage,2017,67
+IAD,Unknown,2017,2
+IAH,Passenger Property Loss,2017,91
+IAH,Property Damage,2017,89
+IAH,Unknown,2017,2
+ICT,Property Damage,2017,6
+ICT,Passenger Property Loss,2017,2
+ICT,Personal Injury,2017,1
+ILM,Passenger Property Loss,2017,3
+ILM,Property Damage,2017,2
+IND,Property Damage,2017,19
+IND,Passenger Property Loss,2017,10
+IND,Passenger Theft,2017,1
+INL,Passenger Property Loss,2017,2
+INL,Property Damage,2017,1
+IPT,Passenger Property Loss,2017,1
+ISN,Passenger Property Loss,2017,2
+ISN,Property Damage,2017,1
+ISP,Property Damage,2017,4
+ISP,Passenger Property Loss,2017,3
+ITH,Property Damage,2017,3
+ITO,Property Damage,2017,2
+IWA,Passenger Property Loss,2017,4
+IWA,Property Damage,2017,2
+IWD,Property Damage,2017,1
+JAC,Passenger Property Loss,2017,1
+JAN,Property Damage,2017,6
+JAN,Passenger Property Loss,2017,1
+JAX,Property Damage,2017,25
+JAX,Passenger Property Loss,2017,12
+JFK,Passenger Property Loss,2017,277
+JFK,Property Damage,2017,200
+JFK,Unknown,2017,4
+JFK,Personal Injury,2017,4
+JFK,Motor Vehicle,2017,2
+JFK,Passenger Theft,2017,1
+JFK,Missed Flight,2017,1
+JLN,Passenger Property Loss,2017,1
+JNU,Passenger Property Loss,2017,3
+JNU,Property Damage,2017,1
+JQF,Passenger Property Loss,2017,1
+KOA,Passenger Property Loss,2017,11
+KOA,Property Damage,2017,6
+KOA,Unknown,2017,2
+KTN,Property Damage,2017,2
+KTN,Passenger Property Loss,2017,1
+LAN,Property Damage,2017,2
+LAN,Passenger Property Loss,2017,2
+LAR,Passenger Property Loss,2017,1
+LAS,Passenger Property Loss,2017,158
+LAS,Property Damage,2017,87
+LAS,Unknown,2017,3
+LAS,Personal Injury,2017,2
+LAS,Complaint,2017,1
+LAW,Passenger Property Loss,2017,2
+LAX,Passenger Property Loss,2017,255
+LAX,Property Damage,2017,251
+LAX,Personal Injury,2017,6
+LAX,Unknown,2017,3
+LAX,Passenger Theft,2017,2
+LAX,Motor Vehicle,2017,1
+LAX,Complaint,2017,1
+LBB,Property Damage,2017,4
+LBB,Passenger Property Loss,2017,4
+LBF,Passenger Property Loss,2017,1
+LCH,Personal Injury,2017,1
+LCK,Passenger Property Loss,2017,3
+LCK,Property Damage,2017,1
+LEB,Property Damage,2017,1
+LEX,Passenger Property Loss,2017,3
+LEX,Property Damage,2017,2
+LFT,Unknown,2017,1
+LFT,Property Damage,2017,1
+LFT,Passenger Property Loss,2017,1
+LGA,Property Damage,2017,70
+LGA,Passenger Property Loss,2017,41
+LGA,Personal Injury,2017,1
+LGB,Property Damage,2017,7
+LGB,Passenger Property Loss,2017,3
+LGB,Personal Injury,2017,1
+LIH,Passenger Property Loss,2017,19
+LIH,Property Damage,2017,10
+LIH,Personal Injury,2017,1
+LIT,Property Damage,2017,5
+LIT,Passenger Property Loss,2017,4
+LNY,Passenger Property Loss,2017,1
+LRD,Property Damage,2017,1
+LSE,Property Damage,2017,2
+LSE,Passenger Property Loss,2017,1
+LWS,Property Damage,2017,1
+LWS,Passenger Property Loss,2017,1
+LYH,Passenger Property Loss,2017,2
+MAF,Passenger Property Loss,2017,4
+MAF,Property Damage,2017,2
+MBS,Passenger Property Loss,2017,2
+MBS,Property Damage,2017,1
+MCI,Passenger Property Loss,2017,8
+MCI,Property Damage,2017,2
+MCI,Unknown,2017,1
+MCK,Property Damage,2017,1
+MCO,Passenger Property Loss,2017,187
+MCO,Property Damage,2017,173
+MCO,Personal Injury,2017,8
+MCO,Missed Flight,2017,3
+MCO,Unknown,2017,1
+MDT,Property Damage,2017,2
+MDT,Passenger Property Loss,2017,2
+MDW,Passenger Property Loss,2017,34
+MDW,Property Damage,2017,17
+MDW,Personal Injury,2017,2
+MEM,Passenger Property Loss,2017,11
+MEM,Property Damage,2017,9
+MEM,Passenger Theft,2017,1
+MFE,Property Damage,2017,3
+MFE,Passenger Property Loss,2017,1
+MFR,Property Damage,2017,1
+MFR,Passenger Property Loss,2017,1
+MGM,Property Damage,2017,1
+MGM,Passenger Property Loss,2017,1
+MHK,Property Damage,2017,1
+MHK,Passenger Property Loss,2017,1
+MHT,Passenger Property Loss,2017,5
+MHT,Property Damage,2017,3
+MHT,Motor Vehicle,2017,1
+MIA,Passenger Property Loss,2017,211
+MIA,Property Damage,2017,129
+MIA,Unknown,2017,1
+MIA,Motor Vehicle,2017,1
+MIA,Complaint,2017,1
+MKE,Property Damage,2017,12
+MKE,Passenger Property Loss,2017,11
+MKE,Complaint,2017,1
+MKG,Passenger Property Loss,2017,1
+MKK,Property Damage,2017,1
+MLB,Property Damage,2017,3
+MLB,Passenger Property Loss,2017,3
+MLU,Property Damage,2017,1
+MOB,Passenger Property Loss,2017,3
+MOB,Property Damage,2017,2
+MRY,Property Damage,2017,1
+MSN,Property Damage,2017,9
+MSN,Passenger Property Loss,2017,2
+MSO,Property Damage,2017,1
+MSP,Passenger Property Loss,2017,37
+MSP,Property Damage,2017,35
+MSP,Personal Injury,2017,1
+MSP,Motor Vehicle,2017,1
+MSS,Passenger Property Loss,2017,1
+MSY,Passenger Property Loss,2017,38
+MSY,Property Damage,2017,25
+MSY,Unknown,2017,1
+MTJ,Passenger Property Loss,2017,2
+MWA,Passenger Property Loss,2017,2
+MWA,Property Damage,2017,1
+MYR,Property Damage,2017,12
+MYR,Passenger Property Loss,2017,4
+OAK,Passenger Property Loss,2017,35
+OAK,Property Damage,2017,21
+OAK,Unknown,2017,1
+OAK,Personal Injury,2017,1
+OGG,Property Damage,2017,24
+OGG,Passenger Property Loss,2017,14
+OGS,Passenger Property Loss,2017,2
+OGS,Unknown,2017,1
+OKC,Property Damage,2017,8
+OKC,Passenger Property Loss,2017,5
+OMA,Property Damage,2017,7
+OMA,Passenger Property Loss,2017,5
+OME,Passenger Property Loss,2017,2
+ONT,Passenger Property Loss,2017,13
+ONT,Property Damage,2017,12
+ORD,Passenger Property Loss,2017,132
+ORD,Property Damage,2017,110
+ORD,Unknown,2017,2
+ORD,Personal Injury,2017,1
+ORD,Passenger Theft,2017,1
+ORD,Missed Flight,2017,1
+ORD,Complaint,2017,1
+ORF,Passenger Property Loss,2017,25
+ORF,Property Damage,2017,14
+ORF,Unknown,2017,1
+OTH,Property Damage,2017,2
+PAH,Passenger Property Loss,2017,1
+PBG,Property Damage,2017,1
+PBI,Passenger Property Loss,2017,25
+PBI,Property Damage,2017,20
+PBI,Personal Injury,2017,1
+PDX,Passenger Property Loss,2017,46
+PDX,Property Damage,2017,29
+PDX,Personal Injury,2017,2
+PGD,Property Damage,2017,1
+PGV,Property Damage,2017,1
+PGV,Passenger Property Loss,2017,1
+PHF,Property Damage,2017,2
+PHL,Passenger Property Loss,2017,75
+PHL,Property Damage,2017,56
+PHL,Unknown,2017,1
+PHL,Complaint,2017,1
+PHX,Passenger Property Loss,2017,117
+PHX,Property Damage,2017,87
+PHX,Unknown,2017,2
+PHX,Personal Injury,2017,2
+PHX,Not Provided,2017,1
+PHX,Missed Flight,2017,1
+PIA,Property Damage,2017,3
+PIA,Passenger Property Loss,2017,2
+PIE,Property Damage,2017,6
+PIE,Passenger Property Loss,2017,4
+PIH,Property Damage,2017,1
+PIT,Passenger Property Loss,2017,24
+PIT,Property Damage,2017,21
+PNS,Passenger Property Loss,2017,5
+PNS,Property Damage,2017,3
+PNS,Personal Injury,2017,1
+PSC,Property Damage,2017,1
+PSC,Passenger Property Loss,2017,1
+PSE,Unknown,2017,1
+PSE,Property Damage,2017,1
+PSG,Passenger Property Loss,2017,1
+PSP,Passenger Property Loss,2017,20
+PSP,Property Damage,2017,7
+PUB,Passenger Property Loss,2017,1
+PVC,Passenger Property Loss,2017,1
+PVD,Property Damage,2017,12
+PVD,Passenger Property Loss,2017,12
+PVD,Unknown,2017,1
+PVU,Property Damage,2017,2
+PVU,Passenger Property Loss,2017,1
+PWM,Property Damage,2017,7
+PWM,Passenger Property Loss,2017,2
+RAP,Property Damage,2017,2
+RDD,Property Damage,2017,3
+RDM,Property Damage,2017,3
+RDM,Passenger Property Loss,2017,1
+RDU,Property Damage,2017,37
+RDU,Passenger Property Loss,2017,28
+RDU,Motor Vehicle,2017,1
+RHI,Property Damage,2017,1
+RIC,Passenger Property Loss,2017,11
+RIC,Property Damage,2017,7
+RKS,Property Damage,2017,1
+RNO,Passenger Property Loss,2017,14
+RNO,Property Damage,2017,9
+ROA,Property Damage,2017,1
+ROA,Passenger Property Loss,2017,1
+ROC,Passenger Property Loss,2017,2
+ROC,Property Damage,2017,1
+RST,Property Damage,2017,1
+RST,Personal Injury,2017,1
+RST,Passenger Property Loss,2017,1
+RSW,Property Damage,2017,34
+RSW,Passenger Property Loss,2017,28
+RSW,Unknown,2017,1
+RUT,Property Damage,2017,2
+SAF,Passenger Property Loss,2017,6
+SAN,Passenger Property Loss,2017,62
+SAN,Property Damage,2017,56
+SAN,Unknown,2017,1
+SAN,Personal Injury,2017,1
+SAT,Passenger Property Loss,2017,14
+SAT,Property Damage,2017,13
+SAV,Property Damage,2017,10
+SAV,Passenger Property Loss,2017,6
+SAV,Passenger Theft,2017,2
+SBA,Passenger Property Loss,2017,5
+SBA,Property Damage,2017,1
+SBN,Property Damage,2017,5
+SBN,Passenger Property Loss,2017,1
+SBP,Property Damage,2017,1
+SCC,Passenger Property Loss,2017,1
+SCE,Property Damage,2017,1
+SCE,Passenger Property Loss,2017,1
+SCK,Property Damage,2017,1
+SDF,Property Damage,2017,11
+SDF,Passenger Property Loss,2017,7
+SEA,Passenger Property Loss,2017,108
+SEA,Property Damage,2017,92
+SEA,Unknown,2017,3
+SEA,Personal Injury,2017,1
+SEA,Missed Flight,2017,1
+SFB,Passenger Property Loss,2017,6
+SFO,Passenger Property Loss,2017,25
+SFO,Property Damage,2017,16
+SFO,Motor Vehicle,2017,1
+SGF,Passenger Property Loss,2017,4
+SGF,Property Damage,2017,1
+SGF,Motor Vehicle,2017,1
+SGJ,Passenger Property Loss,2017,1
+SGU,Property Damage,2017,1
+SGU,Passenger Property Loss,2017,1
+SJC,Property Damage,2017,30
+SJC,Passenger Property Loss,2017,29
+SJC,Unknown,2017,3
+SJC,Missed Flight,2017,1
+SJU,Passenger Property Loss,2017,32
+SJU,Property Damage,2017,23
+SLC,Passenger Property Loss,2017,37
+SLC,Property Damage,2017,29
+SLC,Motor Vehicle,2017,1
+SMF,Passenger Property Loss,2017,40
+SMF,Property Damage,2017,27
+SNA,Property Damage,2017,24
+SNA,Passenger Property Loss,2017,21
+SPI,Property Damage,2017,1
+SPI,Passenger Property Loss,2017,1
+SRQ,Passenger Property Loss,2017,2
+SRQ,Property Damage,2017,1
+STC,Passenger Property Loss,2017,1
+STL,Property Damage,2017,25
+STL,Passenger Property Loss,2017,22
+STL,Personal Injury,2017,1
+STL,Passenger Theft,2017,1
+STS,Passenger Property Loss,2017,1
+STT,Property Damage,2017,7
+STT,Passenger Property Loss,2017,7
+STT,Missed Flight,2017,1
+SUN,Property Damage,2017,1
+SWF,Property Damage,2017,3
+SWF,Passenger Property Loss,2017,2
+SWO,Property Damage,2017,1
+SYR,Property Damage,2017,5
+SYR,Passenger Property Loss,2017,4
+TLH,Passenger Property Loss,2017,5
+TLH,Property Damage,2017,1
+TOL,Property Damage,2017,1
+TOL,Passenger Property Loss,2017,1
+TPA,Passenger Property Loss,2017,49
+TPA,Property Damage,2017,38
+TPA,Unknown,2017,1
+TRI,Property Damage,2017,3
+TRI,Passenger Property Loss,2017,1
+TSA,Passenger Property Loss,2017,6
+TSA,Property Damage,2017,3
+TTN,Passenger Property Loss,2017,3
+TTN,Property Damage,2017,1
+TUL,Passenger Property Loss,2017,5
+TUL,Property Damage,2017,4
+TUL,Unknown,2017,1
+TUS,Passenger Property Loss,2017,18
+TUS,Property Damage,2017,10
+TUS,Personal Injury,2017,1
+TUS,Complaint,2017,1
+TVC,Property Damage,2017,3
+TVC,Passenger Property Loss,2017,1
+TWF,Passenger Property Loss,2017,1
+TXK,Passenger Property Loss,2017,1
+TYR,Property Damage,2017,2
+TYR,Passenger Property Loss,2017,1
+TYS,Property Damage,2017,6
+TYS,Passenger Property Loss,2017,1
+UIN,Property Damage,2017,1
+Unknown,Passenger Property Loss,2017,35
+Unknown,Property Damage,2017,28
+Unknown,Unknown,2017,16
+Unknown,Motor Vehicle,2017,2
+Unknown,Complaint,2017,1
+VLD,Property Damage,2017,1
+VPS,Passenger Property Loss,2017,3
+VPS,Property Damage,2017,1
+WRG,Passenger Property Loss,2017,1
+XNA,Passenger Property Loss,2017,5
+XNA,Property Damage,2017,3
+YKM,Passenger Property Loss,2017,1
+YUM,Passenger Property Loss,2017,5
+ZZX,Motor Vehicle,2017,16
+ZZX,Property Damage,2017,8
+ZZX,Personal Injury,2017,3
